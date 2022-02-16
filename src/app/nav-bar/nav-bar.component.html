@@ -1,0 +1,8 @@
+<button (click)="toggleTierDropDown()">Filter by Tier</button>
+<button (click)="toggleChampionDropDown()">Filter by Champion</button>
+<div *ngIf="tierDropDown">
+    <button *ngFor="let tier of tiers" (click)="filterList(undefined, tier)">{{ tier }}</button>
+</div>
+<div *ngIf="championDropDown">
+    <button *ngFor="let champion of champions" (click)="filterList(champion, undefined)">{{ champion }}</button>
+</div>
