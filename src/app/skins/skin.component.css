@@ -1,0 +1,12 @@
+.skin-card {
+    background-color: #10beb0;
+    border: 3px;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    width: 150px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 3px;
+    border-radius: 3px;
+}

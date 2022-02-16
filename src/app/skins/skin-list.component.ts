@@ -14,8 +14,8 @@ export class SkinListComponent {
     }
 
     ngOnInit() {
-        this.skinList = this.listLoaderService.getFilteredList()
-        this.listLoaderService.getFilteredListChange().subscribe(value => {
+        this.skinList = this.listLoaderService.getCurrentList()
+        this.listLoaderService.getCurrentListChange().subscribe(value => {
             this.skinList = value
         })
     }

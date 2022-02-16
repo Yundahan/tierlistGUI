@@ -1,5 +1,5 @@
-import { Injectable, OnInit } from '@angular/core'
-import { ISkin } from '../common/interfaces'
+import { Injectable } from '@angular/core'
+import { ISkin, tierDict } from '../common/interfaces'
 import { saveAs } from 'file-saver';
 import * as tierlistjson from '../../assets/resources/tierlist.json'
 import { Subject } from 'rxjs';
@@ -11,9 +11,12 @@ export class ListLoaderService {
     skinList: ISkin[] = []
     tiers: string[] = []
     champions: string[] = []
-    filteredList: ISkin[] = []
+    currentList: ISkin[] = []
 
-    filteredListChange: Subject<ISkin[]> = new Subject<ISkin[]>()
+    tierFilter: string = 'None'
+    championFilter: string = 'None'
+
+    currentListChange: Subject<ISkin[]> = new Subject<ISkin[]>()
 
     constructor() {
         this.init()
@@ -22,15 +25,15 @@ export class ListLoaderService {
     init() {
         let intermediate = tierlistjson
         this.skinList = intermediate.skinList
-        this.filteredList = [...this.skinList]
+        this.currentList = [...this.skinList]
         this.tiers = intermediate.tiers
         this.champions = intermediate.champions
 
-        this.filteredListChange.subscribe((value) => {
-            this.filteredList = value
+        this.currentListChange.subscribe((value) => {
+            this.currentList = value
         })
         
-        this.filteredListChange.next(this.filteredList)
+        this.currentListChange.next(this.currentList)
     }
 
     exportToJson() {//currently unused, maybe later with a createComponent
@@ -46,29 +49,44 @@ export class ListLoaderService {
         return this.champions
     }
 
+    getCurrentList(): ISkin[] {
+        return this.currentList
+    }
+
+    getCurrentListChange(): Subject<ISkin[]> {
+        return this.currentListChange
+    }
+
     filterList(championFilter?: string, tierFilter?: string) {
-        this.filteredList = [...this.skinList]
+        this.currentList = [...this.skinList]
 
         if(championFilter) {
+            this.championFilter = championFilter
+
             if(this.champions.includes(championFilter)){
-                this.filteredList = this.filteredList.filter(skin => skin.champion === championFilter)
+                this.currentList = this.currentList.filter(skin => skin.champion === championFilter)
             }
         }
         if(tierFilter) {
-            console.log(tierFilter)
+            this.tierFilter = tierFilter
+
             if(this.tiers.includes(tierFilter)){
-                this.filteredList = this.filteredList.filter(skin => skin.tier === tierFilter)
+                this.currentList = this.currentList.filter(skin => skin.tier === tierFilter)
             }
         }
 
-        this.filteredListChange.next(this.filteredList)
+        this.currentListChange.next(this.currentList)
     }
 
-    getFilteredList(): ISkin[] {
-        return this.filteredList
-    }
+    sortList(sortMode: string) {
+        if(sortMode === 'Champion') {
+            this.filterList(this.championFilter, this.tierFilter)
+        } else if(sortMode === 'Tier') {
+            this.currentList = this.currentList.sort((n1,n2) => {
+                return tierDict[n1.tier] - tierDict[n2.tier]
+            })
+        }
 
-    getFilteredListChange(): Subject<ISkin[]> {
-        return this.filteredListChange
+        this.currentListChange.next(this.currentList)
     }
 }

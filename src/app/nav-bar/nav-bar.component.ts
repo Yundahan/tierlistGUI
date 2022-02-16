@@ -5,13 +5,16 @@ const NOFILTER: string = 'None'
 
 @Component({
     selector: 'nav-bar',
-    templateUrl: './nav-bar.component.html'
+    templateUrl: './nav-bar.component.html',
+    styleUrls: ['./nav-bar.component.css']
 })
 export class NavBarComponent implements OnInit {
     championFilter?: string = NOFILTER
     tierFilter?: string = NOFILTER
     tiers: string[] = [NOFILTER]
     champions: string[] = [NOFILTER]
+    sortMode: string = "Champion"
+
     public tierDropDown: boolean = false
     public championDropDown: boolean = false
 
@@ -22,10 +25,6 @@ export class NavBarComponent implements OnInit {
     ngOnInit(): void {
         this.tiers = this.tiers.concat(this.listLoaderService.getTiers())
         this.champions = this.champions.concat(this.listLoaderService.getChampions())
-    }
-
-    printList() {
-        console.log(this.listLoaderService.getFilteredList())
     }
 
     toggleTierDropDown() {
@@ -49,5 +48,9 @@ export class NavBarComponent implements OnInit {
         this.championDropDown = false
 
         this.listLoaderService.filterList(this.championFilter, this.tierFilter)
+    }
+
+    sortBy(sortMode: string) {
+        this.listLoaderService.sortList(sortMode)
     }
 }

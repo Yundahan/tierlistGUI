@@ -1,0 +1,25 @@
+.button-std {
+  background-color: #3ebeb4;
+  border: 3px;
+  color: rgb(0, 0, 0);
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 7px 7px;
+  border-radius: 5px;
+}
+
+.button-small {
+  background-color: #48adcc;
+  border: 3px;
+  color: rgb(0, 0, 0);
+  padding: 3px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  border-radius: 5px;
+}
