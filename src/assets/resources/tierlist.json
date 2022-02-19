@@ -112,6 +112,7 @@
     "Rammus",
     "Rek'Sai",
     "Rell",
+    "Renata Glasc",
     "Renekton",
     "Rengar",
     "Riven",
@@ -612,7 +613,7 @@
     },
     {
       "champion": "Annie",
-      "skin": "Frankentibbers",
+      "skin": "FrankenTibbers",
       "tier": "E"
     },
     {
@@ -1476,6 +1477,11 @@
       "tier": "D"
     },
     {
+      "champion": "Ekko",
+      "skin": "Firelight",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -2017,7 +2023,7 @@
     },
     {
       "champion": "Gnar",
-      "skin": "El L\u00e9on",
+      "skin": "El Le\u00f3n",
       "tier": "E"
     },
     {
@@ -2914,6 +2920,11 @@
       "champion": "Kassadin",
       "skin": "Hextech",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Kassadin",
+      "skin": "Shockblade",
+      "tier": "Not rated"
     },
     {
       "champion": "Katarina",
@@ -4766,6 +4777,11 @@
       "tier": "E"
     },
     {
+      "champion": "Qiyana",
+      "skin": "Shockblade",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -4919,6 +4935,16 @@
       "champion": "Rell",
       "skin": "Battle Queen",
       "tier": "D"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Admiral Glasc",
+      "tier": "Not rated"
     },
     {
       "champion": "Renekton",
@@ -5444,6 +5470,11 @@
       "champion": "Shen",
       "skin": "PsyOps",
       "tier": "D"
+    },
+    {
+      "champion": "Shen",
+      "skin": "Shockblade",
+      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
@@ -6352,7 +6383,7 @@
     },
     {
       "champion": "Twisted Fate",
-      "skin": "The Magnificient",
+      "skin": "The Magnificent",
       "tier": "E"
     },
     {

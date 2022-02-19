@@ -1,8 +1,6 @@
 <button class="button-std" (click)="toggleTierDropDown()">Filter by Tier</button>
 <button class="button-std" (click)="toggleChampionDropDown()">Filter by Champion</button>
 <span style="display:inline-block; width: 100px;"></span>
-<button class="button-std" (click)="sortBy('Tier')">Sort by Tier</button>
-<button class="button-std" (click)="sortBy('Champion')">Sort by Champion</button>
 <br>
 <div *ngIf="tierDropDown">
     <button class="button-small" *ngFor="let tier of tiers" (click)="filterList(undefined, tier)">{{ tier }}</button>

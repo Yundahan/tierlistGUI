@@ -1,0 +1,6 @@
+<div style="display: flex">
+    <tier-card [tier]="tier" [ngStyle]="{ 'backgroundColor': getColorForTier(tier) }" class="tier-card"></tier-card>
+    <div *ngFor="let skin of skinList">
+        <skin [skin]="skin" [imageURL]="getImageUrl(skin)"></skin>
+    </div>
+</div>

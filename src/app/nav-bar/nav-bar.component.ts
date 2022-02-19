@@ -13,7 +13,6 @@ export class NavBarComponent implements OnInit {
     tierFilter?: string = NOFILTER
     tiers: string[] = [NOFILTER]
     champions: string[] = [NOFILTER]
-    sortMode: string = "Champion"
 
     public tierDropDown: boolean = false
     public championDropDown: boolean = false
@@ -48,9 +47,5 @@ export class NavBarComponent implements OnInit {
         this.championDropDown = false
 
         this.listLoaderService.filterList(this.championFilter, this.tierFilter)
-    }
-
-    sortBy(sortMode: string) {
-        this.listLoaderService.sortList(sortMode)
     }
 }

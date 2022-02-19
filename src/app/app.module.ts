@@ -3,15 +3,19 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
-import { SkinListComponent } from './skins/skin-list.component';
+import { TierListComponent } from './skins/tier-list.component';
 import { SkinComponent } from './skins/skin.component';
+import { TierComponent } from './skins/tier.component';
+import { TierCardComponent } from './skins/tier-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
-    SkinListComponent,
-    SkinComponent
+    TierListComponent,
+    SkinComponent,
+    TierComponent,
+    TierCardComponent
   ],
   imports: [
     BrowserModule

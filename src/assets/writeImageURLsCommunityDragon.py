@@ -53,24 +53,30 @@ def getSkinToIdDict(championName, championData):
     return skinToId
 
 #print the skins from the tierlist that do not exist under the same name in den URLdict
-def printMissingSkins(URLdict):
+def updateSkinNameMappingFile(URLdict):
     f = open('resources/tierlist.json')
     tierlist = json.load(f)
+    f = open('resources/skinNameMapping.json')
+    missingSkins = json.load(f)
+    newMissing = []
     skinList = tierlist["skinList"]
-    missingSkins = []
     
     for skin in skinList:
         tierlistSkinName = skin["skin"] + " " + skin["champion"]
         
-        if not (skin["champion"] in URLdict and tierlistSkinName in URLdict[skin["champion"]]):
-            missingSkins.append(tierlistSkinName)
+        if not (skin["champion"] in URLdict and tierlistSkinName in URLdict[skin["champion"]]) and not tierlistSkinName in missingSkins:
+            missingSkins[tierlistSkinName] = ""
+            newMissing.append(tierlistSkinName)
             
-    print(missingSkins)
+    print("Missing skins: ")
+    print(newMissing)
+            
+    with open('resources/skinNameMapping.json', 'w') as file:
+        json.dump(missingSkins, file, indent = 2)
 
 if __name__ == "__main__":
     f = open('resources/imageURLsCommunityDragon.json')
     URLdict = json.load(f)
-    URLdict = {}
     championToId = getChampionToIdDict()
     
     for championName in championToId:
@@ -92,9 +98,9 @@ if __name__ == "__main__":
                 
     print("URLdict generated!")
     
-    printMissingSkins(URLdict)
+    updateSkinNameMappingFile(URLdict)
     
-    with open('./resources/imageURLsCommunityDragon.json', 'w') as file:
+    with open('resources/imageURLsCommunityDragon.json', 'w') as file:
         json.dump(URLdict, file, indent = 2)
 
 

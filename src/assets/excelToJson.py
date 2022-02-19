@@ -1,7 +1,7 @@
 import json
 from openpyxl import load_workbook
 
-excel_file = 'C:/Users/Andrik/Documents/Privat/Sonstiges/Tierlist.xlsx'
+excel_file = 'resources/Tierlist.xlsx'
 alphabet = 'BCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 def generateHexTierDict(sheet, startvalue, endvalue):

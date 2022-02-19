@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core'
-import { ISkin, tierDict } from '../common/interfaces'
+import { ISkin } from '../common/interfaces'
 import { saveAs } from 'file-saver';
 import { Subject } from 'rxjs';
 
@@ -13,9 +13,6 @@ export class ListLoaderService {
     tiers: string[] = []
     champions: string[] = []
     currentList: ISkin[] = []
-
-    tierFilter: string = 'None'
-    championFilter: string = 'None'
 
     currentListChange: Subject<ISkin[]> = new Subject<ISkin[]>()
 
@@ -62,30 +59,14 @@ export class ListLoaderService {
         this.currentList = [...this.skinList]
 
         if(championFilter) {
-            this.championFilter = championFilter
-
             if(this.champions.includes(championFilter)){
                 this.currentList = this.currentList.filter(skin => skin.champion === championFilter)
             }
         }
         if(tierFilter) {
-            this.tierFilter = tierFilter
-
             if(this.tiers.includes(tierFilter)){
                 this.currentList = this.currentList.filter(skin => skin.tier === tierFilter)
             }
-        }
-
-        this.currentListChange.next(this.currentList)
-    }
-
-    sortList(sortMode: string) {
-        if(sortMode === 'Champion') {
-            this.filterList(this.championFilter, this.tierFilter)
-        } else if(sortMode === 'Tier') {
-            this.currentList = this.currentList.sort((n1,n2) => {
-                return tierDict[n1.tier] - tierDict[n2.tier]
-            })
         }
 
         this.currentListChange.next(this.currentList)
