@@ -59,7 +59,7 @@ if __name__ == "__main__":
     jsondata = {"tiers": list(hexTierDict.values()), "champions": championList, "skinList": skinList}
     
     with open('./resources/tierlist.json', 'w') as file:
-        json.dump(jsondata, file)
+        json.dump(jsondata, file, indent = 2)
         
     print("Json updated!")
     

@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core'
 import { ISkin, tierDict } from '../common/interfaces'
 import { saveAs } from 'file-saver';
-import * as tierlistjson from '../../assets/resources/tierlist.json'
 import { Subject } from 'rxjs';
+
+import * as tierlistjson from '../../assets/resources/tierlist.json'
 
 @Injectable({
     providedIn:'root'

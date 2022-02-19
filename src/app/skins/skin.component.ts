@@ -12,4 +12,9 @@ export class SkinComponent {
         skin: '',
         tier: ''
     }
+    @Input() imageURL: string = ""
+    
+    ngOnInit() {
+        console.log(this.imageURL)
+    }
 }
