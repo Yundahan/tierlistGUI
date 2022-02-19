@@ -1,13 +1,10 @@
 .skin-card {
-    background-color: #638f8b;
-    border: 3px;
     padding: 8px 8px;
     text-align: center;
     text-decoration: none;
-    width: 360px;
+    width: 250px;
     display: inline-block;
     font-size: 16px;
-    height: 235px;
 }
 
 .image {
