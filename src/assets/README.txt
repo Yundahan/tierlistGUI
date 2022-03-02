@@ -1,0 +1,5 @@
+update Excel File
+execute excelToJson.py
+execute writeImageURLsCommunityDragon.py
+complete skinNameMapping.json
+execute writeImageURLsCommunityDragon.py again

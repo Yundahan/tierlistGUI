@@ -112,7 +112,6 @@
     "Rammus",
     "Rek'Sai",
     "Rell",
-    "Renata Glasc",
     "Renekton",
     "Rengar",
     "Riven",
@@ -1477,11 +1476,6 @@
       "tier": "D"
     },
     {
-      "champion": "Ekko",
-      "skin": "Firelight",
-      "tier": "Not rated"
-    },
-    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -2272,6 +2266,11 @@
       "tier": "D"
     },
     {
+      "champion": "Heimerdinger",
+      "skin": "Heimerstinger",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Illaoi",
       "skin": "Classic",
       "tier": "D"
@@ -2920,11 +2919,6 @@
       "champion": "Kassadin",
       "skin": "Hextech",
       "tier": "hohes C"
-    },
-    {
-      "champion": "Kassadin",
-      "skin": "Shockblade",
-      "tier": "Not rated"
     },
     {
       "champion": "Katarina",
@@ -4482,6 +4476,11 @@
       "tier": "E"
     },
     {
+      "champion": "Nunu",
+      "skin": "Nunu & Beelump",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Olaf",
       "skin": "Classic",
       "tier": "B"
@@ -4585,6 +4584,11 @@
       "champion": "Orianna",
       "skin": "Pool Party",
       "tier": "C"
+    },
+    {
+      "champion": "Orianna",
+      "skin": "Orbeeanna",
+      "tier": "Not rated"
     },
     {
       "champion": "Ornn",
@@ -4777,11 +4781,6 @@
       "tier": "E"
     },
     {
-      "champion": "Qiyana",
-      "skin": "Shockblade",
-      "tier": "Not rated"
-    },
-    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -4935,16 +4934,6 @@
       "champion": "Rell",
       "skin": "Battle Queen",
       "tier": "D"
-    },
-    {
-      "champion": "Renata Glasc",
-      "skin": "Classic",
-      "tier": "Not rated"
-    },
-    {
-      "champion": "Renata Glasc",
-      "skin": "Admiral Glasc",
-      "tier": "Not rated"
     },
     {
       "champion": "Renekton",
@@ -5470,11 +5459,6 @@
       "champion": "Shen",
       "skin": "PsyOps",
       "tier": "D"
-    },
-    {
-      "champion": "Shen",
-      "skin": "Shockblade",
-      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
@@ -7500,6 +7484,11 @@
       "champion": "Ziggs",
       "skin": "Hextech",
       "tier": "C"
+    },
+    {
+      "champion": "Ziggs",
+      "skin": "BZZZiggs",
+      "tier": "Not rated"
     },
     {
       "champion": "Zilean",
