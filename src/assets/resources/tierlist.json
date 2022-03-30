@@ -2701,6 +2701,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Jinx",
+      "skin": "Battle Cat",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Jinx",
+      "skin": "Battle Cat Prestige",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kai'Sa",
       "skin": "Classic",
       "tier": "A"
@@ -4036,6 +4046,11 @@
       "tier": "A"
     },
     {
+      "champion": "Miss Fortune",
+      "skin": "Battle Bunny",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Mordekaiser",
       "skin": "Classic",
       "tier": "A"
@@ -4756,6 +4771,11 @@
       "tier": "A"
     },
     {
+      "champion": "Pyke",
+      "skin": "Ashen Knight",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Qiyana",
       "skin": "Classic",
       "tier": "C"
@@ -5109,6 +5129,11 @@
       "champion": "Riven",
       "skin": "Sentinel",
       "tier": "A"
+    },
+    {
+      "champion": "Riven",
+      "skin": "Battle Bunny Prime",
+      "tier": "Not rated"
     },
     {
       "champion": "Rumble",
@@ -5879,6 +5904,11 @@
       "champion": "Sylas",
       "skin": "PROJECT Prestige",
       "tier": "D"
+    },
+    {
+      "champion": "Sylas",
+      "skin": "Battle Wolf",
+      "tier": "Not rated"
     },
     {
       "champion": "Syndra",
@@ -6669,6 +6699,11 @@
       "champion": "Vayne",
       "skin": "Sentinel",
       "tier": "A"
+    },
+    {
+      "champion": "Vayne",
+      "skin": "Battle Bat",
+      "tier": "Not rated"
     },
     {
       "champion": "Veigar",
