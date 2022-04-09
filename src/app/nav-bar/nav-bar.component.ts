@@ -13,6 +13,7 @@ export class NavBarComponent implements OnInit {
     tierFilter?: string = NOFILTER
     tiers: string[] = [NOFILTER]
     champions: string[] = [NOFILTER]
+    skinSearchString: string = ''
 
     public tierDropDown: boolean = false
     public championDropDown: boolean = false
@@ -36,16 +37,22 @@ export class NavBarComponent implements OnInit {
         this.tierDropDown = false
     }
 
-    filterList(championFilter?: string, tierFilter?: string) {
+    filterList(championFilter?: string, tierFilter?: string, skinSearchString?: string) {
         if(championFilter) {
             this.championFilter = championFilter
         }
         if(tierFilter) {
             this.tierFilter = tierFilter
         }
+        if(skinSearchString) {
+            this.skinSearchString = skinSearchString;
+        }
+        else {
+            this.skinSearchString = ''
+        }
         this.tierDropDown = false
         this.championDropDown = false
 
-        this.listLoaderService.filterList(this.championFilter, this.tierFilter)
+        this.listLoaderService.filterList(this.championFilter, this.tierFilter, skinSearchString)
     }
 }

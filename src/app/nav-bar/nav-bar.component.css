@@ -9,6 +9,7 @@
   font-size: 16px;
   margin: 7px 7px;
   border-radius: 5px;
+  font-family: 'Lucida Grande', sans-serif;
 }
 
 .button-small {
@@ -21,5 +22,14 @@
   display: inline-block;
   font-size: 10px;
   margin: 2px 2px;
+  border-radius: 5px;
+  font-family: 'Lucida Grande', sans-serif;
+}
+
+.skin-search-form{
+  background-color: #3e9e969f;
+  border: 3px;
+  padding: 8px 8px;
+  margin: 7px 7px;
   border-radius: 5px;
 }

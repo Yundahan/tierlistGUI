@@ -4,6 +4,7 @@ import { saveAs } from 'file-saver';
 import { Subject } from 'rxjs';
 
 import * as tierlistjson from '../../assets/resources/tierlist.json'
+import { SkinNameService } from './skin-name.service';
 
 @Injectable({
     providedIn:'root'
@@ -16,7 +17,7 @@ export class ListLoaderService {
 
     currentListChange: Subject<ISkin[]> = new Subject<ISkin[]>()
 
-    constructor() {
+    constructor(private skinNameService: SkinNameService) {
         this.init()
     }
 
@@ -55,7 +56,7 @@ export class ListLoaderService {
         return this.currentListChange
     }
 
-    filterList(championFilter?: string, tierFilter?: string) {
+    filterList(championFilter?: string, tierFilter?: string, skinSearchString?: string) {
         this.currentList = [...this.skinList]
 
         if(championFilter) {
@@ -67,6 +68,13 @@ export class ListLoaderService {
             if(this.tiers.includes(tierFilter)){
                 this.currentList = this.currentList.filter(skin => skin.tier === tierFilter)
             }
+        }
+        if(skinSearchString && skinSearchString.length > 0) {
+            this.currentList = this.currentList.filter(skin => {
+                let displayName = this.skinNameService.getDisplayName(skin.champion, skin.skin).toLowerCase()
+                let lowerCaseSkinSearchString = skinSearchString.toLowerCase()
+                return displayName.includes(lowerCaseSkinSearchString)
+            })
         }
 
         this.currentListChange.next(this.currentList)
