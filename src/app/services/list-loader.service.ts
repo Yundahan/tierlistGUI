@@ -28,6 +28,10 @@ export class ListLoaderService {
         this.tiers = intermediate.tiers
         this.champions = intermediate.champions
 
+        for(let skin of this.currentList) {
+            skin.displayName = this.skinNameService.getDisplayName(skin.champion, skin.skin)
+        }
+
         this.currentListChange.subscribe((value) => {
             this.currentList = value
         })
@@ -71,9 +75,8 @@ export class ListLoaderService {
         }
         if(skinSearchString && skinSearchString.length > 0) {
             this.currentList = this.currentList.filter(skin => {
-                let displayName = this.skinNameService.getDisplayName(skin.champion, skin.skin).toLowerCase()
                 let lowerCaseSkinSearchString = skinSearchString.toLowerCase()
-                return displayName.includes(lowerCaseSkinSearchString)
+                return skin.displayName && skin.displayName.includes(lowerCaseSkinSearchString)//if displayName not present, something is wrong -> should've been set in init()
             })
         }
 

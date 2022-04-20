@@ -291,6 +291,11 @@
       "tier": "SS"
     },
     {
+      "champion": "Ahri",
+      "skin": "Arcana",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akali",
       "skin": "Classic",
       "tier": "B"
@@ -2224,6 +2229,11 @@
       "champion": "Hecarim",
       "skin": "Cosmic Charger",
       "tier": "C"
+    },
+    {
+      "champion": "Hecarim",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Heimerdinger",
@@ -4866,6 +4876,11 @@
       "tier": "C"
     },
     {
+      "champion": "Rakan",
+      "skin": "Arcana",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rammus",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5229,6 +5244,11 @@
       "champion": "Ryze",
       "skin": "Guardian of the Sands",
       "tier": "D"
+    },
+    {
+      "champion": "Ryze",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Samira",
@@ -7153,6 +7173,11 @@
     {
       "champion": "Xayah",
       "skin": "Brave Phoenix Prestige",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Xayah",
+      "skin": "Arcana",
       "tier": "Not rated"
     },
     {

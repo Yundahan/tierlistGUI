@@ -18,8 +18,6 @@ Open bash in folder /tierlistgui
 
 Execute `ng build`
 
-Copy contents from tierlistgui/dist/tierlistgui to tierlistgui/public
-
 Execute `cd public`
 
 Execute `firebase deploy`
