@@ -76,7 +76,7 @@ export class ListLoaderService {
         if(skinSearchString && skinSearchString.length > 0) {
             this.currentList = this.currentList.filter(skin => {
                 let lowerCaseSkinSearchString = skinSearchString.toLowerCase()
-                return skin.displayName && skin.displayName.includes(lowerCaseSkinSearchString)//if displayName not present, something is wrong -> should've been set in init()
+                return skin.displayName && skin.displayName.toLowerCase().includes(lowerCaseSkinSearchString)//if displayName not present, something is wrong -> should've been set in init()
             })
         }
 
