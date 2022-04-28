@@ -216,6 +216,11 @@
       "tier": "D"
     },
     {
+      "champion": "Aatrox",
+      "skin": "Lunar Eclipse",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ahri",
       "skin": "Classic",
       "tier": "A"
@@ -1931,6 +1936,11 @@
       "tier": "A"
     },
     {
+      "champion": "Gangplank",
+      "skin": "Gangplank the Betrayer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Garen",
       "skin": "Classic",
       "tier": "C"
@@ -3074,6 +3084,11 @@
       "champion": "Kayle",
       "skin": "Pentakill III: Lost Chapter",
       "tier": "D"
+    },
+    {
+      "champion": "Kayle",
+      "skin": "Sun-Eater",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayn",
@@ -5321,6 +5336,11 @@
       "tier": "C"
     },
     {
+      "champion": "Sejuani",
+      "skin": "Solar Eclipse",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Senna",
       "skin": "Classic",
       "tier": "C"
@@ -5344,6 +5364,16 @@
       "champion": "Senna",
       "skin": "PROJECT",
       "tier": "E"
+    },
+    {
+      "champion": "Senna",
+      "skin": "Lunar Eclipse",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Senna",
+      "skin": "Lunar Eclipse Prestige",
+      "tier": "Not rated"
     },
     {
       "champion": "Seraphine",
@@ -5708,6 +5738,11 @@
     {
       "champion": "Sivir",
       "skin": "Cafe Cuties",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Sivir",
+      "skin": "Solar Eclipse",
       "tier": "Not rated"
     },
     {
@@ -7329,6 +7364,11 @@
       "champion": "Yasuo",
       "skin": "Dream Dragon",
       "tier": "SS"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "Sea Dog",
+      "tier": "Not rated"
     },
     {
       "champion": "Yone",
