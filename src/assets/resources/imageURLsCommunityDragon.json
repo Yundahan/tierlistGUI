@@ -89,7 +89,6 @@
     "iG LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7019.jpg",
     "Coven LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7020.jpg",
     "Championship LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7029.jpg",
-    "Coven Prestige LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7033.jpg",
     "Debonair LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7035.jpg",
     "Prestige Coven LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/7/7033.jpg"
   },
@@ -191,7 +190,8 @@
     "Warmonger Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14004.jpg",
     "Mecha Zero Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14005.jpg",
     "Worldbreaker Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14014.jpg",
-    "Blackfrost Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14022.jpg"
+    "Blackfrost Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14022.jpg",
+    "High Noon Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/14/14030.jpg"
   },
   "Sivir": {
     "Classic Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/15/15000.jpg",
@@ -223,7 +223,6 @@
     "Winter Wonder Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16009.jpg",
     "Dawnbringer Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16015.jpg",
     "Nightbringer Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16016.jpg",
-    "Star Guardian Prestige Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16017.jpg",
     "Cafe Cuties Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16018.jpg",
     "Prestige Star Guardian Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16017.jpg"
   },
@@ -240,7 +239,6 @@
     "Little Devil Teemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17014.jpg",
     "Beemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17018.jpg",
     "Spirit Blossom Teemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17025.jpg",
-    "Spirit Blossom Prestige Teemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17027.jpg",
     "Firecracker Teemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17037.jpg",
     "Prestige Spirit Blossom Teemo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/17/17027.jpg"
   },
@@ -303,7 +301,6 @@
     "Gun Goddess Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21016.jpg",
     "Pajama Guardian Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21017.jpg",
     "Bewitching Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21018.jpg",
-    "Bewitching Prestige Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21020.jpg",
     "Ruined Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21021.jpg",
     "Battle Bunny Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21031.jpg",
     "Prestige Bewitching Miss Fortune": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/21/21020.jpg",
@@ -353,7 +350,6 @@
     "God Staff Jax": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/24/24013.jpg",
     "Mecha Kingdoms Jax": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/24/24014.jpg",
     "Conqueror Jax": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/24/24020.jpg",
-    "Conqueror Prestige Jax": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/24/24021.jpg",
     "Prestige Conqueror Jax": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/24/24021.jpg"
   },
   "Morgana": {
@@ -369,7 +365,6 @@
     "Majestic Empress Morgana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/25/25017.jpg",
     "Coven Morgana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/25/25026.jpg",
     "Dawnbringer Morgana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/25/25039.jpg",
-    "Bewitching Prestige Morgana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/25/25041.jpg",
     "Prestige Bewitching Morgana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/25/25041.jpg"
   },
   "Zilean": {
@@ -402,7 +397,6 @@
     "Safecracker Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28004.jpg",
     "Blood Moon Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28005.jpg",
     "K/DA Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28006.jpg",
-    "K/DA Prestige Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28007.jpg",
     "Sugar Rush Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28008.jpg",
     "K/DA ALL OUT Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28015.jpg",
     "Coven Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28024.jpg",
@@ -421,7 +415,8 @@
     "Omega Squad Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29008.jpg",
     "Ice King Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29012.jpg",
     "Twitch Shadowfoot Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29027.jpg",
-    "Dragonslayer Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29036.jpg"
+    "Dragonslayer Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29036.jpg",
+    "High Noon Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29045.jpg"
   },
   "Karthus": {
     "Classic Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/30/30000.jpg",
@@ -546,10 +541,8 @@
     "Divine Sword Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39006.jpg",
     "iG Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39015.jpg",
     "PROJECT Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39016.jpg",
-    "PROJECT Prestige Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39017.jpg",
     "High Noon Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39018.jpg",
     "Sentinel Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39026.jpg",
-    "Project Prestige Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39036.jpg",
     "Prestige PROJECT Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39017.jpg",
     "Prestige PROJECT Irelia (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/39/39036.jpg"
   },
@@ -663,7 +656,6 @@
     "Pulsefire Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51011.jpg",
     "Pool Party Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51013.jpg",
     "Arcade Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51019.jpg",
-    "Arcade Prestige Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51020.jpg",
     "Battle Academia Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51022.jpg",
     "Arcane Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51028.jpg",
     "Prestige Arcade Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51020.jpg",
@@ -696,7 +688,6 @@
     "Ironside Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54007.jpg",
     "Odyssey Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54016.jpg",
     "Dark Star Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54023.jpg",
-    "Dark Star Prestige Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54024.jpg",
     "FPX Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54025.jpg",
     "Old God Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54027.jpg",
     "Prestige Dark Star Malphite": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/54/54024.jpg"
@@ -815,7 +806,6 @@
     "Arclight Brand": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/63/63007.jpg",
     "Eternal Dragon Brand": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/63/63008.jpg",
     "Debonair Brand": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/63/63021.jpg",
-    "Debonair Prestige Brand": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/63/63022.jpg",
     "Prestige Debonair Brand": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/63/63022.jpg"
   },
   "Lee Sin": {
@@ -830,7 +820,6 @@
     "God Fist Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64011.jpg",
     "Playmaker Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64012.jpg",
     "Nightbringer Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64027.jpg",
-    "Nightbringer Prestige Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64028.jpg",
     "FPX Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64029.jpg",
     "Storm Dragon Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64031.jpg",
     "Prestige Nightbringer Lee Sin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/64/64028.jpg",
@@ -847,7 +836,6 @@
     "Soulstealer Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67010.jpg",
     "PROJECT Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67011.jpg",
     "Firecracker Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67012.jpg",
-    "Firecracker Prestige Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67013.jpg",
     "Spirit Blossom Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67014.jpg",
     "FPX Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67015.jpg",
     "Sentinel Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/67/67025.jpg",
@@ -968,7 +956,6 @@
     "Baker Pantheon": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80008.jpg",
     "Pulsefire Pantheon": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80016.jpg",
     "Ruined Pantheon": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80025.jpg",
-    "Ascended Prestige Pantheon": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80026.jpg",
     "Prestige Ascended Pantheon": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80026.jpg"
   },
   "Ezreal": {
@@ -987,7 +974,6 @@
     "Pajama Guardian Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81020.jpg",
     "Battle Academia Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81021.jpg",
     "PsyOps Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81022.jpg",
-    "PsyOps Prestige Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81023.jpg",
     "Porcelain Protector Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81025.jpg",
     "Prestige PsyOps Ezreal": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/81/81023.jpg"
   },
@@ -1023,7 +1009,6 @@
     "Headhunter Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84007.jpg",
     "Sashimi Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84008.jpg",
     "K/DA Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84009.jpg",
-    "K/DA Prestige Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84013.jpg",
     "PROJECT Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84014.jpg",
     "True Damage Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84015.jpg",
     "K/DA ALL OUT Akali": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/84/84032.jpg",
@@ -1056,7 +1041,6 @@
     "God-King Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86013.jpg",
     "Demacia Vice Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86014.jpg",
     "Mecha Kingdoms Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86022.jpg",
-    "Mecha Kingdoms Prestige Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86023.jpg",
     "Battle Academia Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86024.jpg",
     "Prestige Mecha Kingdoms Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86023.jpg"
   },
@@ -1073,7 +1057,6 @@
     "Mecha Kingdoms Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89012.jpg",
     "Battle Academia Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89021.jpg",
     "DWG Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89022.jpg",
-    "Battle Academia Prestige Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89023.jpg",
     "Debonair Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89033.jpg",
     "Prestige Battle Academia Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89023.jpg",
     "High Noon Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/89/89034.jpg"
@@ -1116,7 +1099,6 @@
     "Dawnbringer Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92016.jpg",
     "Pulsefire Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92018.jpg",
     "Valiant Sword Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92020.jpg",
-    "Valiant Sword Prestige Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92022.jpg",
     "Spirit Blossom Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92023.jpg",
     "Sentinel Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92034.jpg",
     "Battle Bunny Prime Riven": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/92/92044.jpg",
@@ -1163,12 +1145,10 @@
     "Lunar Empress Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99008.jpg",
     "Pajama Guardian Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99014.jpg",
     "Battle Academia Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99015.jpg",
-    "Battle Academia Prestige Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99016.jpg",
     "Dark Cosmic Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99017.jpg",
     "Cosmic Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99018.jpg",
     "Space Groove Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99019.jpg",
     "Porcelain Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99029.jpg",
-    "Porcelain Prestige Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99040.jpg",
     "Prestige Battle Academia Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99016.jpg",
     "Prestige Battle Academia Lux (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99039.jpg",
     "Prestige Porcelain Lux": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/99/99040.jpg"
@@ -1203,7 +1183,6 @@
     "Arcade Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103007.jpg",
     "Star Guardian Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103014.jpg",
     "K/DA Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103015.jpg",
-    "K/DA Prestige Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103016.jpg",
     "Elderwood Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103017.jpg",
     "Spirit Blossom Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103027.jpg",
     "K/DA ALL OUT Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/103/103028.jpg",
@@ -1237,7 +1216,6 @@
     "Super Galaxy Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105009.jpg",
     "Omega Squad Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105010.jpg",
     "Fuzz Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105014.jpg",
-    "Fuzz Prestige Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105015.jpg",
     "Little Devil Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105016.jpg",
     "Prestige Fuzz Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105015.jpg",
     "Prestige Fuzz Fizz (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105025.jpg"
@@ -1251,7 +1229,6 @@
     "El Rayo Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106005.jpg",
     "The Thousand-Pierced Bear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106006.jpg",
     "Duality Dragon Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106007.jpg",
-    "Duality Dragon Prestige Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106009.jpg",
     "Prestige Duality Dragon Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106009.jpg"
   },
   "Rengar": {
@@ -1294,7 +1271,8 @@
     "Prototype Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112002.jpg",
     "Creator Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112003.jpg",
     "Death Sworn Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112004.jpg",
-    "PsyOps Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112005.jpg"
+    "PsyOps Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112005.jpg",
+    "High Noon Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/112/112014.jpg"
   },
   "Sejuani": {
     "Classic Sejuani": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/113/113000.jpg",
@@ -1322,7 +1300,6 @@
     "iG Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114031.jpg",
     "Pulsefire Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114041.jpg",
     "Lunar Beast Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114050.jpg",
-    "Lunar Beast Prestige Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114051.jpg",
     "Bewitching Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114060.jpg",
     "Prestige Lunar Beast Fiora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/114/114051.jpg"
   },
@@ -1350,7 +1327,6 @@
     "Cosmic Enchantress Lulu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/117/117014.jpg",
     "Pajama Guardian Lulu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/117/117015.jpg",
     "Space Groove Lulu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/117/117026.jpg",
-    "Space Groove Prestige Lulu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/117/117027.jpg",
     "Prestige Space Groove Lulu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/117/117027.jpg"
   },
   "Draven": {
@@ -1429,7 +1405,6 @@
     "Dark Waters Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131012.jpg",
     "Dragonslayer Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131018.jpg",
     "Battle Queen Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131025.jpg",
-    "Battle Queen Prestige Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131026.jpg",
     "Sentinel Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131027.jpg",
     "Firecracker Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131037.jpg",
     "Prestige Battle Queen Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/131/131026.jpg"
@@ -1465,7 +1440,6 @@
     "Soulhunter Kayn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/141/141001.jpg",
     "Odyssey Kayn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/141/141002.jpg",
     "Nightbringer Kayn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/141/141008.jpg",
-    "Nightbringer Prestige Kayn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/141/141009.jpg",
     "Prestige Nightbringer Kayn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/141/141009.jpg"
   },
   "Zoe": {
@@ -1474,7 +1448,6 @@
     "Pool Party Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142002.jpg",
     "Star Guardian Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142009.jpg",
     "Arcanist Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142018.jpg",
-    "Arcanist Prestige Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142019.jpg",
     "Prestige Arcanist Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142019.jpg",
     "EDG Zoe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/142/142020.jpg"
   },
@@ -1485,7 +1458,6 @@
     "SKT T1 Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143003.jpg",
     "Dragon Sorceress Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143004.jpg",
     "Coven Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143005.jpg",
-    "Coven Prestige Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143006.jpg",
     "Crystal Rose Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143007.jpg",
     "Crime City Nightmare Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143016.jpg",
     "Prestige Coven Zyra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/143/143006.jpg"
@@ -1494,11 +1466,9 @@
     "Classic Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145000.jpg",
     "Bullet Angel Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145001.jpg",
     "K/DA Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145014.jpg",
-    "K/DA Prestige Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145015.jpg",
     "iG Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145016.jpg",
     "Arcade Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145017.jpg",
     "K/DA ALL OUT Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145026.jpg",
-    "K/DA ALL OUT Prestige Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145027.jpg",
     "Lagoon Dragon Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145029.jpg",
     "Prestige K/DA Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145015.jpg",
     "Prestige K/DA ALL OUT Kai'Sa": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/145/145027.jpg",
@@ -1538,7 +1508,6 @@
     "Odyssey Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157010.jpg",
     "Battle Boss Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157017.jpg",
     "True Damage Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157018.jpg",
-    "True Damage Prestige Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157035.jpg",
     "Spirit Blossom Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157036.jpg",
     "Truth Dragon Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157054.jpg",
     "Dream Dragon Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157055.jpg",
@@ -1614,7 +1583,6 @@
     "Heartseeker Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222029.jpg",
     "Arcane Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222037.jpg",
     "Battle Cat Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222038.jpg",
-    "Battle Cat Prestige Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222040.jpg",
     "Prestige Battle Cat Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222040.jpg"
   },
   "Tahm Kench": {
@@ -1622,7 +1590,8 @@
     "Master Chef Tahm Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223001.jpg",
     "Urf Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223002.jpg",
     "Coin Emperor Tahm Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223003.jpg",
-    "Arcana Tahm Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223011.jpg"
+    "Arcana Tahm Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223011.jpg",
+    "High Noon Tahm Kench": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223020.jpg"
   },
   "Viego": {
     "Classic Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234000.jpg",
@@ -1633,7 +1602,6 @@
   "Senna": {
     "Classic Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235000.jpg",
     "True Damage Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235001.jpg",
-    "True Damage Prestige Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235009.jpg",
     "High Noon Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235010.jpg",
     "PROJECT Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235016.jpg",
     "Prestige True Damage Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235009.jpg",
@@ -1649,7 +1617,6 @@
     "High Noon Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236008.jpg",
     "Demacia Vice Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236009.jpg",
     "Pulsefire Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236018.jpg",
-    "Pulsefire Prestige Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236019.jpg",
     "Victorious Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236025.jpg",
     "Arcana Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236031.jpg",
     "Prestige Pulsefire Lucian": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236019.jpg"
@@ -1663,7 +1630,6 @@
     "Death Sworn Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238011.jpg",
     "Galaxy Slayer Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238013.jpg",
     "PsyOps Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238015.jpg",
-    "PROJECT Prestige Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238030.jpg",
     "Debonair Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238031.jpg",
     "Prestige PROJECT Zed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238030.jpg"
   },
@@ -1688,7 +1654,6 @@
     "Classic Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246000.jpg",
     "Battle Boss Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246001.jpg",
     "True Damage Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246002.jpg",
-    "True Damage Prestige Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246010.jpg",
     "Battle Queen Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246011.jpg",
     "Shockblade Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246020.jpg",
     "Prestige True Damage Qiyana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/246/246010.jpg",
@@ -1712,7 +1677,6 @@
     "Mecha Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266002.jpg",
     "Sea Hunter Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266003.jpg",
     "Blood Moon Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266007.jpg",
-    "Blood Moon Prestige Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266008.jpg",
     "Victorious Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266009.jpg",
     "Odyssey Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266011.jpg",
     "Prestige Blood Moon Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266008.jpg",
@@ -1750,7 +1714,8 @@
   "Samira": {
     "Classic Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/360/360000.jpg",
     "PsyOps Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/360/360001.jpg",
-    "Space Groove Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/360/360010.jpg"
+    "Space Groove Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/360/360010.jpg",
+    "High Noon Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/360/360020.jpg"
   },
   "Thresh": {
     "Classic Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412000.jpg",
@@ -1761,7 +1726,6 @@
     "Dark Star Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412005.jpg",
     "High Noon Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412006.jpg",
     "Pulsefire Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412013.jpg",
-    "Pulsefire Prestige Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412014.jpg",
     "FPX Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412015.jpg",
     "Spirit Blossom Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412017.jpg",
     "Unbound Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/412/412027.jpg",
@@ -1821,7 +1785,6 @@
     "Star Guardian Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498004.jpg",
     "Elderwood Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498008.jpg",
     "Brave Phoenix Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498017.jpg",
-    "Brave Phoenix Prestige Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498026.jpg",
     "Prestige Brave Phoenix Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498026.jpg",
     "Arcana Xayah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/498/498028.jpg"
   },
@@ -1835,7 +1798,6 @@
     "Lunar Wraith Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517001.jpg",
     "Freljord Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517008.jpg",
     "PROJECT Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517013.jpg",
-    "PROJECT Prestige Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517014.jpg",
     "Battle Wolf Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517024.jpg",
     "Prestige PROJECT Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/517/517014.jpg"
   },
@@ -1843,7 +1805,6 @@
     "Classic Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518000.jpg",
     "Winter Wonder Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518001.jpg",
     "Star Guardian Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518010.jpg",
-    "Star Guardian Prestige Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518011.jpg",
     "Shan Hai Scrolls Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518012.jpg",
     "Prestige Star Guardian Neeko": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518011.jpg",
     "Prestige Star Guardian Neeko (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/518/518021.jpg"
@@ -1881,7 +1842,6 @@
     "Classic Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875000.jpg",
     "Mecha Kingdoms Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875001.jpg",
     "Obsidian Dragon Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875008.jpg",
-    "Obsidian Dragon Prestige Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875009.jpg",
     "Pool Party Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875010.jpg",
     "Firecracker Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875019.jpg",
     "Prestige Obsidian Dragon Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875009.jpg"

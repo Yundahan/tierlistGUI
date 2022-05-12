@@ -112,6 +112,7 @@
     "Rammus",
     "Rek'Sai",
     "Rell",
+    "Renata Glasc",
     "Renekton",
     "Rengar",
     "Riven",
@@ -202,7 +203,7 @@
     },
     {
       "champion": "Aatrox",
-      "skin": "Blood Moon Prestige",
+      "skin": "Prestige Blood Moon",
       "tier": "A"
     },
     {
@@ -272,7 +273,7 @@
     },
     {
       "champion": "Ahri",
-      "skin": "K/DA Prestige",
+      "skin": "Prestige K/DA",
       "tier": "hohes C"
     },
     {
@@ -352,7 +353,7 @@
     },
     {
       "champion": "Akali",
-      "skin": "K/DA Prestige",
+      "skin": "Prestige K/DA",
       "tier": "B"
     },
     {
@@ -676,6 +677,11 @@
       "tier": "B"
     },
     {
+      "champion": "Aphelios",
+      "skin": "EDG",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ashe",
       "skin": "Classic",
       "tier": "B"
@@ -947,7 +953,7 @@
     },
     {
       "champion": "Brand",
-      "skin": "Debonair Prestige",
+      "skin": "Prestige Debonair",
       "tier": "Not rated"
     },
     {
@@ -1047,7 +1053,7 @@
     },
     {
       "champion": "Caitlyn",
-      "skin": "Arcade Prestige",
+      "skin": "Prestige Arcade",
       "tier": "B"
     },
     {
@@ -1322,7 +1328,7 @@
     },
     {
       "champion": "Diana",
-      "skin": "Battle Queen Prestige",
+      "skin": "Prestige Battle Queen",
       "tier": "A"
     },
     {
@@ -1486,6 +1492,11 @@
       "tier": "D"
     },
     {
+      "champion": "Ekko",
+      "skin": "Firelight",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -1562,7 +1573,7 @@
     },
     {
       "champion": "Evelynn",
-      "skin": "K/DA Prestige",
+      "skin": "Prestige K/DA",
       "tier": "A"
     },
     {
@@ -1657,7 +1668,7 @@
     },
     {
       "champion": "Ezreal",
-      "skin": "PsyOps Prestige",
+      "skin": "Prestige PsyOps",
       "tier": "C"
     },
     {
@@ -1772,7 +1783,7 @@
     },
     {
       "champion": "Fiora",
-      "skin": "Lunar Beast Prestige",
+      "skin": "Prestige Lunar Beast",
       "tier": "E"
     },
     {
@@ -1827,7 +1838,7 @@
     },
     {
       "champion": "Fizz",
-      "skin": "Fuzz Prestige",
+      "skin": "Prestige Fuzz",
       "tier": "D"
     },
     {
@@ -2002,7 +2013,7 @@
     },
     {
       "champion": "Garen",
-      "skin": "Mecha Kingdoms Prestige",
+      "skin": "Prestige Mecha Kingdoms",
       "tier": "A"
     },
     {
@@ -2174,6 +2185,11 @@
       "champion": "Graves",
       "skin": "Sentinel",
       "tier": "A"
+    },
+    {
+      "champion": "Graves",
+      "skin": "EDG",
+      "tier": "Not rated"
     },
     {
       "champion": "Gwen",
@@ -2357,7 +2373,7 @@
     },
     {
       "champion": "Irelia",
-      "skin": "PROJECT Prestige",
+      "skin": "Prestige PROJECT",
       "tier": "B"
     },
     {
@@ -2587,7 +2603,7 @@
     },
     {
       "champion": "Jax",
-      "skin": "Conqueror Prestige",
+      "skin": "Prestige Conqueror",
       "tier": "B"
     },
     {
@@ -2727,7 +2743,7 @@
     },
     {
       "champion": "Jinx",
-      "skin": "Battle Cat Prestige",
+      "skin": "Prestige Battle Cat",
       "tier": "Not rated"
     },
     {
@@ -2747,7 +2763,7 @@
     },
     {
       "champion": "Kai'Sa",
-      "skin": "K/DA Prestige",
+      "skin": "Prestige K/DA",
       "tier": "C"
     },
     {
@@ -2767,7 +2783,7 @@
     },
     {
       "champion": "Kai'Sa",
-      "skin": "K/DA ALL OUT Prestige",
+      "skin": "Prestige K/DA ALL OUT",
       "tier": "B"
     },
     {
@@ -2951,6 +2967,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Kassadin",
+      "skin": "Shockblade",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Katarina",
       "skin": "Classic",
       "tier": "D"
@@ -3019,6 +3040,11 @@
       "champion": "Katarina",
       "skin": "Battle Queen",
       "tier": "D"
+    },
+    {
+      "champion": "Katarina",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayle",
@@ -3112,7 +3138,7 @@
     },
     {
       "champion": "Kayn",
-      "skin": "Nightbringer Prestige",
+      "skin": "Prestige Nightbringer",
       "tier": "B"
     },
     {
@@ -3362,7 +3388,7 @@
     },
     {
       "champion": "LeBlanc",
-      "skin": "Coven Prestige",
+      "skin": "Prestige Coven",
       "tier": "A"
     },
     {
@@ -3427,7 +3453,7 @@
     },
     {
       "champion": "Lee Sin",
-      "skin": "Nightbringer Prestige",
+      "skin": "Prestige Nightbringer",
       "tier": "B"
     },
     {
@@ -3502,12 +3528,17 @@
     },
     {
       "champion": "Leona",
-      "skin": "Battle Academia Prestige",
+      "skin": "Prestige Battle Academia",
       "tier": "B"
     },
     {
       "champion": "Leona",
       "skin": "Debonair",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Leona",
+      "skin": "High Noon",
       "tier": "Not rated"
     },
     {
@@ -3602,7 +3633,7 @@
     },
     {
       "champion": "Lucian",
-      "skin": "Pulsefire Prestige",
+      "skin": "Prestige Pulsefire",
       "tier": "C"
     },
     {
@@ -3667,7 +3698,7 @@
     },
     {
       "champion": "Lulu",
-      "skin": "Space Groove Prestige",
+      "skin": "Prestige Space Groove",
       "tier": "E"
     },
     {
@@ -3727,7 +3758,7 @@
     },
     {
       "champion": "Lux",
-      "skin": "Battle Academia Prestige",
+      "skin": "Prestige Battle Academia",
       "tier": "A"
     },
     {
@@ -3752,7 +3783,7 @@
     },
     {
       "champion": "Lux",
-      "skin": "Porcelain Prestige",
+      "skin": "Prestige Porcelain",
       "tier": "Not rated"
     },
     {
@@ -3807,7 +3838,7 @@
     },
     {
       "champion": "Malphite",
-      "skin": "Dark Star Prestige",
+      "skin": "Prestige Dark Star",
       "tier": "E"
     },
     {
@@ -4062,7 +4093,7 @@
     },
     {
       "champion": "Miss Fortune",
-      "skin": "Bewitching Prestige",
+      "skin": "Prestige Bewitching",
       "tier": "B"
     },
     {
@@ -4119,6 +4150,11 @@
       "champion": "Mordekaiser",
       "skin": "Pentakill III: Lost Chapter",
       "tier": "C"
+    },
+    {
+      "champion": "Mordekaiser",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Morgana",
@@ -4182,7 +4218,7 @@
     },
     {
       "champion": "Morgana",
-      "skin": "Bewitching Prestige",
+      "skin": "Prestige Bewitching",
       "tier": "S"
     },
     {
@@ -4347,7 +4383,7 @@
     },
     {
       "champion": "Neeko",
-      "skin": "Star Guardian Prestige",
+      "skin": "Prestige Star Guardian",
       "tier": "C"
     },
     {
@@ -4702,7 +4738,7 @@
     },
     {
       "champion": "Pantheon",
-      "skin": "Ascended Prestige",
+      "skin": "Prestige Ascended",
       "tier": "B"
     },
     {
@@ -4817,13 +4853,18 @@
     },
     {
       "champion": "Qiyana",
-      "skin": "True Damage Prestige",
+      "skin": "Prestige True Damage",
       "tier": "D"
     },
     {
       "champion": "Qiyana",
       "skin": "Battle Queen",
       "tier": "E"
+    },
+    {
+      "champion": "Qiyana",
+      "skin": "Shockblade",
+      "tier": "Not rated"
     },
     {
       "champion": "Quinn",
@@ -4984,6 +5025,16 @@
       "champion": "Rell",
       "skin": "Battle Queen",
       "tier": "D"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Admiral Glasc",
+      "tier": "Not rated"
     },
     {
       "champion": "Renekton",
@@ -5147,7 +5198,7 @@
     },
     {
       "champion": "Riven",
-      "skin": "Valiant Sword Prestige",
+      "skin": "Prestige Valiant Sword",
       "tier": "A"
     },
     {
@@ -5352,7 +5403,7 @@
     },
     {
       "champion": "Senna",
-      "skin": "True Damage Prestige",
+      "skin": "Prestige True Damage",
       "tier": "hohes C"
     },
     {
@@ -5372,7 +5423,7 @@
     },
     {
       "champion": "Senna",
-      "skin": "Lunar Eclipse Prestige",
+      "skin": "Prestige Lunar Eclipse",
       "tier": "Not rated"
     },
     {
@@ -5417,7 +5468,7 @@
     },
     {
       "champion": "Sett",
-      "skin": "Obsidian Dragon Prestige",
+      "skin": "Prestige Obsidian Dragon",
       "tier": "hohes C"
     },
     {
@@ -5534,6 +5585,11 @@
       "champion": "Shen",
       "skin": "PsyOps",
       "tier": "D"
+    },
+    {
+      "champion": "Shen",
+      "skin": "Shockblade",
+      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
@@ -5892,7 +5948,7 @@
     },
     {
       "champion": "Soraka",
-      "skin": "Star Guardian Prestige",
+      "skin": "Prestige Star Guardian",
       "tier": "S"
     },
     {
@@ -5957,7 +6013,7 @@
     },
     {
       "champion": "Sylas",
-      "skin": "PROJECT Prestige",
+      "skin": "Prestige PROJECT",
       "tier": "D"
     },
     {
@@ -6106,6 +6162,16 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Talon",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Talon",
+      "skin": "Prestige High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Taric",
       "skin": "Classic",
       "tier": "C"
@@ -6197,7 +6263,7 @@
     },
     {
       "champion": "Teemo",
-      "skin": "Spirit Blossom Prestige",
+      "skin": "Prestige Spirit Blossom",
       "tier": "C"
     },
     {
@@ -6247,7 +6313,7 @@
     },
     {
       "champion": "Thresh",
-      "skin": "Pulsefire Prestige",
+      "skin": "Prestige Pulsefire",
       "tier": "E"
     },
     {
@@ -6686,6 +6752,11 @@
       "tier": "A"
     },
     {
+      "champion": "Varus",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vayne",
       "skin": "Classic",
       "tier": "D"
@@ -6737,7 +6808,7 @@
     },
     {
       "champion": "Vayne",
-      "skin": "Firecracker Prestige",
+      "skin": "Prestige Firecracker",
       "tier": "C"
     },
     {
@@ -6931,6 +7002,11 @@
       "tier": "D"
     },
     {
+      "champion": "Viego",
+      "skin": "EDG",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Viktor",
       "skin": "Classic",
       "tier": "B"
@@ -7062,7 +7138,7 @@
     },
     {
       "champion": "Volibear",
-      "skin": "Duality Dragon Prestige",
+      "skin": "Prestige Duality Dragon",
       "tier": "A"
     },
     {
@@ -7207,7 +7283,7 @@
     },
     {
       "champion": "Xayah",
-      "skin": "Brave Phoenix Prestige",
+      "skin": "Prestige Brave Phoenix",
       "tier": "Not rated"
     },
     {
@@ -7347,7 +7423,7 @@
     },
     {
       "champion": "Yasuo",
-      "skin": "True Damage Prestige",
+      "skin": "Prestige True Damage",
       "tier": "C"
     },
     {
@@ -7451,6 +7527,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Yuumi",
+      "skin": "EDG",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zac",
       "skin": "Classic",
       "tier": "C"
@@ -7517,7 +7598,7 @@
     },
     {
       "champion": "Zed",
-      "skin": "PROJECT Prestige",
+      "skin": "Prestige PROJECT",
       "tier": "B"
     },
     {
@@ -7652,8 +7733,13 @@
     },
     {
       "champion": "Zoe",
-      "skin": "Arcanist Prestige",
+      "skin": "Prestige Arcanist",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Zoe",
+      "skin": "EDG",
+      "tier": "Not rated"
     },
     {
       "champion": "Zyra",
@@ -7687,7 +7773,7 @@
     },
     {
       "champion": "Zyra",
-      "skin": "Coven Prestige",
+      "skin": "Prestige Coven",
       "tier": "B"
     },
     {

@@ -33,11 +33,6 @@ def getSkinToIdDict(championName, championData):
         #special case Classic Skins
         if skin["isBase"]:
             skinName = "Classic " + championName
-        #special case Prestige Skins
-        if " Prestige Edition" in skinName:
-            skinName = skinName.split(" Prestige Edition", 1)[0]
-            skinName = skinName.split(championName)[0]
-            skinName = skinName + "Prestige " + championName
         #special case Project Skins
         if "PROJECT: " in skinName:
             skinName = skinName.replace(":", "")
