@@ -5332,6 +5332,11 @@
       "tier": "E"
     },
     {
+      "champion": "Samira",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sejuani",
       "skin": "Classic",
       "tier": "C"
@@ -5727,6 +5732,11 @@
       "tier": "C"
     },
     {
+      "champion": "Sion",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sivir",
       "skin": "Classic",
       "tier": "D"
@@ -6095,6 +6105,11 @@
       "champion": "Tahm Kench",
       "skin": "Arcana",
       "tier": "B"
+    },
+    {
+      "champion": "Tahm Kench",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Taliyah",
@@ -6637,6 +6652,11 @@
       "tier": "D"
     },
     {
+      "champion": "Twitch",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Udyr",
       "skin": "Classic",
       "tier": "C"
@@ -7035,6 +7055,11 @@
       "champion": "Viktor",
       "skin": "PsyOps",
       "tier": "C"
+    },
+    {
+      "champion": "Viktor",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Vladimir",

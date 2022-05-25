@@ -320,7 +320,8 @@
     "Cosmic Queen Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22011.jpg",
     "High Noon Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22017.jpg",
     "Fae Dragon Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22023.jpg",
-    "Coven Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22032.jpg"
+    "Coven Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22032.jpg",
+    "Ocean Song Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/22/22043.jpg"
   },
   "Tryndamere": {
     "Classic Tryndamere": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/23/23000.jpg",
@@ -906,7 +907,8 @@
     "Super Galaxy Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76009.jpg",
     "Dawnbringer Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76011.jpg",
     "Cosmic Huntress Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76018.jpg",
-    "DWG Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76027.jpg"
+    "DWG Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76027.jpg",
+    "Ocean Song Nidalee": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/76/76029.jpg"
   },
   "Udyr": {
     "Classic Udyr": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/77/77000.jpg",
@@ -1479,7 +1481,9 @@
     "K/DA ALL OUT Seraphine Indie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147001.jpg",
     "K/DA ALL OUT Seraphine Rising Star": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147002.jpg",
     "K/DA ALL OUT Seraphine Superstar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147003.jpg",
-    "Graceful Phoenix Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147004.jpg"
+    "Graceful Phoenix Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147004.jpg",
+    "Ocean Song Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147014.jpg",
+    "Prestige Ocean Song Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/147/147015.jpg"
   },
   "Gnar": {
     "Classic Gnar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/150/150000.jpg",
@@ -1569,7 +1573,8 @@
   },
   "Zeri": {
     "Classic Zeri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/221/221000.jpg",
-    "Withered Rose Zeri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/221/221001.jpg"
+    "Withered Rose Zeri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/221/221001.jpg",
+    "Ocean Song Zeri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/221/221010.jpg"
   },
   "Jinx": {
     "Classic Jinx": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/222/222000.jpg",
@@ -1836,7 +1841,8 @@
     "Classic Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777000.jpg",
     "Spirit Blossom Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777001.jpg",
     "Battle Academia Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777010.jpg",
-    "Dawnbringer Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777019.jpg"
+    "Dawnbringer Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777019.jpg",
+    "Ocean Song Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/777/777026.jpg"
   },
   "Sett": {
     "Classic Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/875/875000.jpg",
@@ -1859,5 +1865,9 @@
   "Renata Glasc": {
     "Classic Renata Glasc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/888/888000.jpg",
     "Admiral Glasc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/888/888001.jpg"
+  },
+  "Bel'Veth": {
+    "Classic Bel'Veth": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/200/200000.jpg",
+    "Battle Boss Bel'Veth": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/200/200001.jpg"
   }
 }
