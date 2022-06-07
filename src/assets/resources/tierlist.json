@@ -28,6 +28,7 @@
     "Aurelion Sol",
     "Azir",
     "Bard",
+    "Bel'Veth",
     "Blitzcrank",
     "Brand",
     "Braum",
@@ -752,6 +753,11 @@
       "tier": "A"
     },
     {
+      "champion": "Ashe",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -829,6 +835,16 @@
     {
       "champion": "Bard",
       "skin": "Cafe Cuties",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Bel'Veth",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Bel'Veth",
+      "skin": "Battle Boss",
       "tier": "Not rated"
     },
     {
@@ -4457,6 +4473,11 @@
       "tier": "B"
     },
     {
+      "champion": "Nidalee",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nocturne",
       "skin": "Classic",
       "tier": "B"
@@ -5455,6 +5476,16 @@
       "champion": "Seraphine",
       "skin": "Graceful Phoenix",
       "tier": "C"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Prestige Ocean Song",
+      "tier": "Not rated"
     },
     {
       "champion": "Sett",
@@ -7492,6 +7523,11 @@
       "tier": "S"
     },
     {
+      "champion": "Yone",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yorick",
       "skin": "Classic",
       "tier": "C"
@@ -7639,6 +7675,11 @@
     {
       "champion": "Zeri",
       "skin": "Withered Rose",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zeri",
+      "skin": "Ocean Song",
       "tier": "Not rated"
     },
     {
