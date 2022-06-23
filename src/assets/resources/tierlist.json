@@ -1083,6 +1083,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Caitlyn",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Camille",
       "skin": "Classic",
       "tier": "B"
@@ -2343,6 +2348,11 @@
       "tier": "C"
     },
     {
+      "champion": "Illaoi",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Irelia",
       "skin": "Classic",
       "tier": "B"
@@ -3156,6 +3166,11 @@
       "champion": "Kayn",
       "skin": "Prestige Nightbringer",
       "tier": "B"
+    },
+    {
+      "champion": "Kayn",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
     },
     {
       "champion": "Kennen",
@@ -4761,6 +4776,11 @@
       "champion": "Pantheon",
       "skin": "Prestige Ascended",
       "tier": "B"
+    },
+    {
+      "champion": "Pantheon",
+      "skin": "Ashen Knight",
+      "tier": "Not rated"
     },
     {
       "champion": "Poppy",
