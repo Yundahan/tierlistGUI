@@ -99,6 +99,7 @@
     "Nautilus",
     "Neeko",
     "Nidalee",
+    "Nilah",
     "Nocturne",
     "Nunu",
     "Olaf",
@@ -1518,6 +1519,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Ekko",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ekko",
+      "skin": "Prestige Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -1746,6 +1757,11 @@
       "champion": "Fiddlesticks",
       "skin": "Praetorian",
       "tier": "C"
+    },
+    {
+      "champion": "Fiddlesticks",
+      "skin": "Star Nemesis",
+      "tier": "Not rated"
     },
     {
       "champion": "Fiora",
@@ -2816,6 +2832,11 @@
       "champion": "Kai'Sa",
       "skin": "Lagoon Dragon",
       "tier": "B"
+    },
+    {
+      "champion": "Kai'Sa",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Kalista",
@@ -4493,6 +4514,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Nilah",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Nilah",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nocturne",
       "skin": "Classic",
       "tier": "B"
@@ -5946,6 +5977,11 @@
       "champion": "Sona",
       "skin": "Pentakill III: Lost Chapter",
       "tier": "E"
+    },
+    {
+      "champion": "Sona",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Soraka",
