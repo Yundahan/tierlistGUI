@@ -379,6 +379,11 @@
       "tier": "B"
     },
     {
+      "champion": "Akali",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akshan",
       "skin": "Classic",
       "tier": "C"
@@ -4274,6 +4279,11 @@
       "tier": "S"
     },
     {
+      "champion": "Morgana",
+      "skin": "Star Nemesis",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nami",
       "skin": "Classic",
       "tier": "hohes C"
@@ -4969,6 +4979,11 @@
       "tier": "A"
     },
     {
+      "champion": "Quinn",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rakan",
       "skin": "Classic",
       "tier": "C"
@@ -5097,6 +5112,11 @@
       "champion": "Rell",
       "skin": "Battle Queen",
       "tier": "D"
+    },
+    {
+      "champion": "Rell",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Renata Glasc",
@@ -6169,6 +6189,11 @@
       "tier": "B"
     },
     {
+      "champion": "Syndra",
+      "skin": "Prestige Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Tahm Kench",
       "skin": "Classic",
       "tier": "C"
@@ -6217,6 +6242,11 @@
       "champion": "Taliyah",
       "skin": "Pool Party",
       "tier": "E"
+    },
+    {
+      "champion": "Taliyah",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Talon",
