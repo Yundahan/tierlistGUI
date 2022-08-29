@@ -1119,6 +1119,11 @@
       "tier": "A"
     },
     {
+      "champion": "Camille",
+      "skin": "Strike Commander",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Cassiopeia",
       "skin": "Classic",
       "tier": "C"
@@ -2519,6 +2524,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Janna",
+      "skin": "Cyber Halo",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Janna",
+      "skin": "Prestige Cyber Halo",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jarvan IV",
       "skin": "Classic",
       "tier": "B"
@@ -3394,6 +3409,11 @@
       "tier": "B"
     },
     {
+      "champion": "Kog'Maw",
+      "skin": "Zap'Maw",
+      "tier": "Not rated"
+    },
+    {
       "champion": "LeBlanc",
       "skin": "Classic",
       "tier": "B"
@@ -3704,6 +3724,11 @@
       "tier": "B"
     },
     {
+      "champion": "Lucian",
+      "skin": "Strike Paladin",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lulu",
       "skin": "Classic",
       "tier": "D"
@@ -3757,6 +3782,11 @@
       "champion": "Lulu",
       "skin": "Prestige Space Groove",
       "tier": "E"
+    },
+    {
+      "champion": "Lulu",
+      "skin": "Monster Tamer",
+      "tier": "Not rated"
     },
     {
       "champion": "Lux",
@@ -4387,6 +4417,11 @@
       "champion": "Nasus",
       "skin": "Space Groove",
       "tier": "F"
+    },
+    {
+      "champion": "Nasus",
+      "skin": "Armored Titan",
+      "tier": "Not rated"
     },
     {
       "champion": "Nautilus",
@@ -6776,17 +6811,17 @@
     {
       "champion": "Udyr",
       "skin": "Classic",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "Udyr",
       "skin": "Black Belt",
-      "tier": "E"
+      "tier": "Not rated"
     },
     {
       "champion": "Udyr",
       "skin": "Primal",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Udyr",
@@ -6796,12 +6831,12 @@
     {
       "champion": "Udyr",
       "skin": "Definitely Not",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Udyr",
       "skin": "Dragon Oracle",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Urgot",
@@ -7032,6 +7067,11 @@
       "champion": "Veigar",
       "skin": "Astronaut",
       "tier": "D"
+    },
+    {
+      "champion": "Veigar",
+      "skin": "Monster Tamer",
+      "tier": "Not rated"
     },
     {
       "champion": "Vel'Koz",
