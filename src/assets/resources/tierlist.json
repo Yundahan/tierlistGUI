@@ -924,6 +924,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Blitzcrank",
+      "skin": "Zenith Games",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Brand",
       "skin": "Classic",
       "tier": "B"
@@ -2709,6 +2714,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Jayce",
+      "skin": "Zenith Games",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jhin",
       "skin": "Classic",
       "tier": "A"
@@ -3542,6 +3552,11 @@
       "champion": "Lee Sin",
       "skin": "Storm Dragon",
       "tier": "C"
+    },
+    {
+      "champion": "Lee Sin",
+      "skin": "Zenith Games",
+      "tier": "Not rated"
     },
     {
       "champion": "Leona",
@@ -7181,6 +7196,11 @@
     {
       "champion": "Viego",
       "skin": "EDG",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Viego",
+      "skin": "King",
       "tier": "Not rated"
     },
     {
