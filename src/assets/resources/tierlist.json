@@ -669,6 +669,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Annie",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aphelios",
       "skin": "Classic",
       "tier": "C"
@@ -812,6 +817,11 @@
       "champion": "Azir",
       "skin": "Elderwood",
       "tier": "A"
+    },
+    {
+      "champion": "Azir",
+      "skin": "Worlds 2022",
+      "tier": "Not rated"
     },
     {
       "champion": "Bard",
@@ -1431,6 +1441,11 @@
     {
       "champion": "Draven",
       "skin": "Debonair",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Draven",
+      "skin": "Fright Night",
       "tier": "Not rated"
     },
     {
@@ -4479,6 +4494,11 @@
       "tier": "B"
     },
     {
+      "champion": "Nautilus",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Neeko",
       "skin": "Classic",
       "tier": "C"
@@ -5176,6 +5196,11 @@
     {
       "champion": "Renata Glasc",
       "skin": "Admiral Glasc",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Fright Night",
       "tier": "Not rated"
     },
     {
@@ -6189,6 +6214,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Sylas",
+      "skin": "Ashen Slayer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Syndra",
       "skin": "Classic",
       "tier": "C"
@@ -6624,6 +6654,11 @@
       "tier": "C"
     },
     {
+      "champion": "Trundle",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Tryndamere",
       "skin": "Classic",
       "tier": "C"
@@ -6882,6 +6917,11 @@
       "champion": "Urgot",
       "skin": "Pajama Guardian Cosplay",
       "tier": "E"
+    },
+    {
+      "champion": "Urgot",
+      "skin": "Fright Night",
+      "tier": "Not rated"
     },
     {
       "champion": "Varus",
