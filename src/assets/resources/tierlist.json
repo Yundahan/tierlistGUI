@@ -694,6 +694,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Aphelios",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ashe",
       "skin": "Classic",
       "tier": "B"
@@ -1334,6 +1339,11 @@
       "tier": "D"
     },
     {
+      "champion": "Darius",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Diana",
       "skin": "Classic",
       "tier": "B"
@@ -1652,6 +1662,11 @@
       "champion": "Evelynn",
       "skin": "Coven",
       "tier": "S"
+    },
+    {
+      "champion": "Evelynn",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Ezreal",
@@ -4139,6 +4154,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Master Yi",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Master Yi",
+      "skin": "Prestige Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Miss Fortune",
       "skin": "Classic",
       "tier": "C"
@@ -5664,6 +5689,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Sett",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shaco",
       "skin": "Classic",
       "tier": "C"
@@ -6149,6 +6179,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Soraka",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Swain",
       "skin": "Classic",
       "tier": "hohes C"
@@ -6271,6 +6306,11 @@
     {
       "champion": "Syndra",
       "skin": "Prestige Star Guardian",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Syndra",
+      "skin": "Spirit Blossom",
       "tier": "Not rated"
     },
     {
@@ -6616,6 +6656,11 @@
     {
       "champion": "Tristana",
       "skin": "Firecracker",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Tristana",
+      "skin": "Spirit Blossom",
       "tier": "Not rated"
     },
     {
@@ -7747,6 +7792,11 @@
       "champion": "Yorick",
       "skin": "Pentakill III: Lost Chapter",
       "tier": "F"
+    },
+    {
+      "champion": "Yorick",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Yuumi",
