@@ -594,6 +594,11 @@
       "tier": "SS"
     },
     {
+      "champion": "Anivia",
+      "skin": "Bewitching Batnivia",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Annie",
       "skin": "Classic",
       "tier": "D"
@@ -1182,6 +1187,11 @@
       "champion": "Cassiopeia",
       "skin": "Coven",
       "tier": "A"
+    },
+    {
+      "champion": "Cassiopeia",
+      "skin": "Bewitching",
+      "tier": "Not rated"
     },
     {
       "champion": "Cho'Gath",
@@ -3514,6 +3524,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "LeBlanc",
+      "skin": "Bewitching",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lee Sin",
       "skin": "Classic",
       "tier": "C"
@@ -4547,6 +4562,11 @@
       "champion": "Neeko",
       "skin": "Shan Hai Scrolls",
       "tier": "E"
+    },
+    {
+      "champion": "Neeko",
+      "skin": "Bewitching",
+      "tier": "Not rated"
     },
     {
       "champion": "Nidalee",
@@ -5621,6 +5641,11 @@
     {
       "champion": "Senna",
       "skin": "Prestige Lunar Eclipse",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Senna",
+      "skin": "Bewitching",
       "tier": "Not rated"
     },
     {
