@@ -79,6 +79,7 @@
     "Kindred",
     "Kled",
     "Kog'Maw",
+    "K'Sante",
     "LeBlanc",
     "Lee Sin",
     "Leona",
@@ -2714,6 +2715,11 @@
       "tier": "B"
     },
     {
+      "champion": "Jax",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jayce",
       "skin": "Classic",
       "tier": "C"
@@ -2797,6 +2803,11 @@
       "champion": "Jhin",
       "skin": "DWG",
       "tier": "B"
+    },
+    {
+      "champion": "Jhin",
+      "skin": "Empyrean",
+      "tier": "Not rated"
     },
     {
       "champion": "Jinx",
@@ -3464,6 +3475,21 @@
       "tier": "Not rated"
     },
     {
+      "champion": "K'Sante",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "K'Sante",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "K'Sante",
+      "skin": "Prestige Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "LeBlanc",
       "skin": "Classic",
       "tier": "B"
@@ -3931,6 +3957,11 @@
     {
       "champion": "Lux",
       "skin": "Prestige Porcelain",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Lux",
+      "skin": "Empyrean",
       "tier": "Not rated"
     },
     {
@@ -5031,6 +5062,11 @@
     {
       "champion": "Pyke",
       "skin": "Ashen Knight",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Pyke",
+      "skin": "Empyrean",
       "tier": "Not rated"
     },
     {
@@ -7239,6 +7275,11 @@
       "tier": "D"
     },
     {
+      "champion": "Vex",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vi",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7879,6 +7920,11 @@
       "tier": "C"
     },
     {
+      "champion": "Zac",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zed",
       "skin": "Classic",
       "tier": "S"
@@ -7926,6 +7972,11 @@
     {
       "champion": "Zed",
       "skin": "Debonair",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zed",
+      "skin": "Empyrean",
       "tier": "Not rated"
     },
     {
