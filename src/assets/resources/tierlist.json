@@ -2220,6 +2220,11 @@
       "tier": "C"
     },
     {
+      "champion": "Gragas",
+      "skin": "Space Groove",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Graves",
       "skin": "Classic",
       "tier": "A"
@@ -3755,6 +3760,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Lissandra",
+      "skin": "Space Groove",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lucian",
       "skin": "Classic",
       "tier": "A"
@@ -4465,6 +4475,16 @@
       "tier": "C"
     },
     {
+      "champion": "Nami",
+      "skin": "Space Groove",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Nami",
+      "skin": "Prestige Space Groove",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nasus",
       "skin": "Classic",
       "tier": "B"
@@ -4903,6 +4923,11 @@
       "champion": "Ornn",
       "skin": "Elderwood",
       "tier": "A"
+    },
+    {
+      "champion": "Ornn",
+      "skin": "Space Groove",
+      "tier": "Not rated"
     },
     {
       "champion": "Pantheon",
@@ -5642,6 +5667,11 @@
     {
       "champion": "Sejuani",
       "skin": "Solar Eclipse",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Sejuani",
+      "skin": "Victorious",
       "tier": "Not rated"
     },
     {
@@ -6515,6 +6545,11 @@
       "tier": "C"
     },
     {
+      "champion": "Taric",
+      "skin": "Space Groove",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Teemo",
       "skin": "Classic",
       "tier": "D"
@@ -6582,6 +6617,11 @@
     {
       "champion": "Teemo",
       "skin": "Firecracker",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Teemo",
+      "skin": "Space Groove",
       "tier": "Not rated"
     },
     {
@@ -6898,6 +6938,11 @@
       "champion": "Twisted Fate",
       "skin": "Crime City Nightmare",
       "tier": "A"
+    },
+    {
+      "champion": "Twisted Fate",
+      "skin": "Space Groove",
+      "tier": "Not rated"
     },
     {
       "champion": "Twitch",
