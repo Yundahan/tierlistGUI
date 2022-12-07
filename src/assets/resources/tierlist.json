@@ -1410,6 +1410,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Diana",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Draven",
       "skin": "Classic",
       "tier": "D"
@@ -4355,6 +4360,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Mordekaiser",
+      "skin": "Ashen Graveknight",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Morgana",
       "skin": "Classic",
       "tier": "A"
@@ -5840,6 +5850,11 @@
       "tier": "B"
     },
     {
+      "champion": "Shaco",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shen",
       "skin": "Classic",
       "tier": "A"
@@ -6308,6 +6323,11 @@
       "champion": "Swain",
       "skin": "Crystal Rose",
       "tier": "A"
+    },
+    {
+      "champion": "Swain",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
     },
     {
       "champion": "Sylas",
@@ -7605,6 +7625,16 @@
       "tier": "A"
     },
     {
+      "champion": "Warwick",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Warwick",
+      "skin": "Prestige Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Wukong",
       "skin": "Classic",
       "tier": "C"
@@ -8130,6 +8160,11 @@
       "tier": "D"
     },
     {
+      "champion": "Zilean",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zoe",
       "skin": "Classic",
       "tier": "D"
@@ -8162,6 +8197,11 @@
     {
       "champion": "Zoe",
       "skin": "EDG",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zoe",
+      "skin": "Winterblessed",
       "tier": "Not rated"
     },
     {
