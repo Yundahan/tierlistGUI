@@ -780,6 +780,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Ashe",
+      "skin": "Lunar Empress",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -1990,6 +1995,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Galio",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gangplank",
       "skin": "Classic",
       "tier": "C"
@@ -2118,6 +2128,11 @@
       "champion": "Garen",
       "skin": "Battle Academia",
       "tier": "C"
+    },
+    {
+      "champion": "Garen",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Gnar",
@@ -2493,6 +2508,11 @@
       "champion": "Irelia",
       "skin": "Sentinel",
       "tier": "A"
+    },
+    {
+      "champion": "Irelia",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Ivern",
@@ -3370,6 +3390,11 @@
       "tier": "D"
     },
     {
+      "champion": "Kha'Zix",
+      "skin": "Lunar Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kindred",
       "skin": "Classic",
       "tier": "B"
@@ -3770,6 +3795,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Lissandra",
+      "skin": "Prestige Porcelain",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lucian",
       "skin": "Classic",
       "tier": "A"
@@ -4043,6 +4073,11 @@
       "champion": "Malphite",
       "skin": "Old God",
       "tier": "A"
+    },
+    {
+      "champion": "Malphite",
+      "skin": "Lunar Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Malzahar",
@@ -5135,6 +5170,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Qiyana",
+      "skin": "Lunar Empress",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -6125,6 +6165,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Sivir",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Sivir",
+      "skin": "Prestige Mythmaker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Skarner",
       "skin": "Classic",
       "tier": "C"
@@ -6708,6 +6758,11 @@
       "champion": "Thresh",
       "skin": "Steel Dragon",
       "tier": "A"
+    },
+    {
+      "champion": "Thresh",
+      "skin": "Lunar Emperor",
+      "tier": "Not rated"
     },
     {
       "champion": "Tristana",
@@ -8248,6 +8303,11 @@
       "champion": "Zyra",
       "skin": "Crime City Nightmare",
       "tier": "B"
+    },
+    {
+      "champion": "Zyra",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
     }
   ]
 }
