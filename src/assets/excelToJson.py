@@ -43,6 +43,11 @@ def produceSkinList(sheet, hexTierDict):
                 break
             
             color = sheet[cell].fill.start_color.index
+            
+            if not color in hexTierDict:#this color does not correspond to any tier
+                print("Color " + color + " in " + str(row) + str(column) + " does not correspond to a tier")
+                continue
+            
             skinList.append({"champion": sheet[championCell].value,
                              "skin": sheet[cell].value,
                              "tier": hexTierDict[color]})
