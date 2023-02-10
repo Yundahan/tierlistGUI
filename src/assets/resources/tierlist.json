@@ -540,6 +540,11 @@
       "tier": "D"
     },
     {
+      "champion": "Amumu",
+      "skin": "Heartache",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Anivia",
       "skin": "Classic",
       "tier": "A"
@@ -1123,6 +1128,11 @@
       "champion": "Caitlyn",
       "skin": "Snow Moon",
       "tier": "SS"
+    },
+    {
+      "champion": "Caitlyn",
+      "skin": "Heartthrob",
+      "tier": "Not rated"
     },
     {
       "champion": "Camille",
@@ -7448,6 +7458,11 @@
       "champion": "Vi",
       "skin": "Arcane",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Vi",
+      "skin": "Heartache",
+      "tier": "Not rated"
     },
     {
       "champion": "Viego",

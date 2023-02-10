@@ -407,7 +407,8 @@
     "SSW Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27007.jpg",
     "Black Scourge Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27008.jpg",
     "Beekeeper Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27009.jpg",
-    "Resistance Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27010.jpg"
+    "Resistance Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27010.jpg",
+    "Astronaut Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/27/27019.jpg"
   },
   "Evelynn": {
     "Classic Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28000.jpg",
@@ -474,7 +475,8 @@
     "Infernal Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32017.jpg",
     "Hextech Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32023.jpg",
     "Pumpkin Prince Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32024.jpg",
-    "Porcelain Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32034.jpg"
+    "Porcelain Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32034.jpg",
+    "Heartache Amumu": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/32/32044.jpg"
   },
   "Rammus": {
     "Classic Rammus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/33/33000.jpg",
@@ -691,7 +693,8 @@
     "Arcane Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51028.jpg",
     "Prestige Arcade Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51020.jpg",
     "Prestige Arcade Caitlyn (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51029.jpg",
-    "Snow Moon Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51030.jpg"
+    "Snow Moon Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51030.jpg",
+    "Heartthrob Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51039.jpg"
   },
   "Blitzcrank": {
     "Classic Blitzcrank": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/53/53000.jpg",
@@ -1071,7 +1074,8 @@
     "Blood Moon Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85006.jpg",
     "Super Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85007.jpg",
     "Infernal Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85008.jpg",
-    "DWG Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85023.jpg"
+    "DWG Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85023.jpg",
+    "Astronaut Kennen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/85/85025.jpg"
   },
   "Garen": {
     "Classic Garen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/86/86000.jpg",
@@ -1209,7 +1213,8 @@
     "Scorched Earth Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101003.jpg",
     "Guardian of the Sands Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101004.jpg",
     "Dark Star Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101005.jpg",
-    "Arcana Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101012.jpg"
+    "Arcana Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101012.jpg",
+    "Astronaut Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101021.jpg"
   },
   "Shyvana": {
     "Classic Shyvana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102000.jpg",
@@ -1267,7 +1272,8 @@
     "Fuzz Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105014.jpg",
     "Little Devil Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105016.jpg",
     "Prestige Fuzz Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105015.jpg",
-    "Prestige Fuzz Fizz (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105025.jpg"
+    "Prestige Fuzz Fizz (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105025.jpg",
+    "Astronaut Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/105/105026.jpg"
   },
   "Volibear": {
     "Classic Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/106/106000.jpg",
@@ -1749,7 +1755,8 @@
     "PROJECT Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254011.jpg",
     "Heartbreaker Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254012.jpg",
     "PsyOps Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254020.jpg",
-    "Arcane Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254029.jpg"
+    "Arcane Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254029.jpg",
+    "Heartache Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/254/254030.jpg"
   },
   "Aatrox": {
     "Classic Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/266/266000.jpg",
@@ -1835,7 +1842,8 @@
     "Classic Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427000.jpg",
     "Candy King Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427001.jpg",
     "Dunkmaster Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427002.jpg",
-    "Old God Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427011.jpg"
+    "Old God Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427011.jpg",
+    "Astronaut Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/427/427020.jpg"
   },
   "Kalista": {
     "Classic Kalista": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/429/429000.jpg",
