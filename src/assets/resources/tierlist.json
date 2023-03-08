@@ -1255,6 +1255,11 @@
       "tier": "A"
     },
     {
+      "champion": "Cho'Gath",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Corki",
       "skin": "Classic",
       "tier": "D"
@@ -4370,6 +4375,16 @@
       "tier": "C"
     },
     {
+      "champion": "Miss Fortune",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Miss Fortune",
+      "skin": "Prestige Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Mordekaiser",
       "skin": "Classic",
       "tier": "A"
@@ -4813,6 +4828,11 @@
       "champion": "Nocturne",
       "skin": "Hextech",
       "tier": "B"
+    },
+    {
+      "champion": "Nocturne",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
     },
     {
       "champion": "Nunu",
@@ -5275,6 +5295,11 @@
       "tier": "C"
     },
     {
+      "champion": "Rakan",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rammus",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5563,6 +5588,11 @@
       "champion": "Riven",
       "skin": "Battle Bunny Prime",
       "tier": "D"
+    },
+    {
+      "champion": "Riven",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
     },
     {
       "champion": "Rumble",
@@ -7605,6 +7635,11 @@
       "tier": "D"
     },
     {
+      "champion": "Vladimir",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Volibear",
       "skin": "Classic",
       "tier": "A"
@@ -7808,6 +7843,11 @@
       "champion": "Xayah",
       "skin": "Arcana",
       "tier": "A"
+    },
+    {
+      "champion": "Xayah",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
     },
     {
       "champion": "Xerath",
