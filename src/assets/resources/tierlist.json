@@ -92,6 +92,7 @@
     "Malzahar",
     "Maokai",
     "Master Yi",
+    "Milio",
     "Miss Fortune",
     "Mordekaiser",
     "Morgana",
@@ -1790,6 +1791,11 @@
       "tier": "B"
     },
     {
+      "champion": "Ezreal",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Fiddlesticks",
       "skin": "Classic",
       "tier": "B"
@@ -1908,6 +1914,11 @@
       "champion": "Fiora",
       "skin": "Bewitching",
       "tier": "C"
+    },
+    {
+      "champion": "Fiora",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Fizz",
@@ -3000,6 +3011,11 @@
       "tier": "B"
     },
     {
+      "champion": "Kalista",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Karma",
       "skin": "Classic",
       "tier": "C"
@@ -3063,6 +3079,11 @@
       "champion": "Karma",
       "skin": "Tranquility Dragon",
       "tier": "A"
+    },
+    {
+      "champion": "Karma",
+      "skin": "Faerie Queen",
+      "tier": "Not rated"
     },
     {
       "champion": "Karthus",
@@ -3228,6 +3249,16 @@
       "champion": "Katarina",
       "skin": "High Noon",
       "tier": "C"
+    },
+    {
+      "champion": "Katarina",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Katarina",
+      "skin": "Prestige Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayle",
@@ -4288,6 +4319,16 @@
       "champion": "Master Yi",
       "skin": "Prestige Spirit Blossom",
       "tier": "E"
+    },
+    {
+      "champion": "Milio",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Milio",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Miss Fortune",
@@ -5855,6 +5896,11 @@
       "tier": "A"
     },
     {
+      "champion": "Seraphine",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sett",
       "skin": "Classic",
       "tier": "hohes C"
@@ -6003,6 +6049,11 @@
       "champion": "Shen",
       "skin": "Shockblade",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Shen",
+      "skin": "Ashen Guardian",
+      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
