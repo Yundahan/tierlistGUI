@@ -2358,7 +2358,7 @@
     {
       "champion": "Hecarim",
       "skin": "Classic",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Hecarim",
@@ -3481,6 +3481,11 @@
       "tier": "B"
     },
     {
+      "champion": "Kindred",
+      "skin": "Woof & Lamb",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kled",
       "skin": "Classic",
       "tier": "D"
@@ -3499,6 +3504,11 @@
       "champion": "Kled",
       "skin": "Marauder",
       "tier": "E"
+    },
+    {
+      "champion": "Kled",
+      "skin": "Kibble-Head",
+      "tier": "Not rated"
     },
     {
       "champion": "Kog'Maw",
@@ -4196,6 +4206,11 @@
       "tier": "D"
     },
     {
+      "champion": "Malzahar",
+      "skin": "Three Honors",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Maokai",
       "skin": "Classic",
       "tier": "A"
@@ -4814,6 +4829,11 @@
       "champion": "Nidalee",
       "skin": "Ocean Song",
       "tier": "D"
+    },
+    {
+      "champion": "Nidalee",
+      "skin": "Kittalee",
+      "tier": "Not rated"
     },
     {
       "champion": "Nilah",
@@ -8154,6 +8174,11 @@
       "champion": "Yuumi",
       "skin": "EDG",
       "tier": "E"
+    },
+    {
+      "champion": "Yuumi",
+      "skin": "Shiba",
+      "tier": "Not rated"
     },
     {
       "champion": "Zac",
