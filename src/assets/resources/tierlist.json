@@ -2711,6 +2711,11 @@
       "tier": "S"
     },
     {
+      "champion": "Jarvan IV",
+      "skin": "Nightbringer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jax",
       "skin": "Classic",
       "tier": "C"
@@ -4686,6 +4691,11 @@
       "tier": "C"
     },
     {
+      "champion": "Nasus",
+      "skin": "Nightbringer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nautilus",
       "skin": "Classic",
       "tier": "A"
@@ -5534,6 +5544,11 @@
       "champion": "Renekton",
       "skin": "PROJECT",
       "tier": "D"
+    },
+    {
+      "champion": "Renekton",
+      "skin": "Dawnbringer",
+      "tier": "Not rated"
     },
     {
       "champion": "Rengar",
@@ -7414,6 +7429,11 @@
       "champion": "Vayne",
       "skin": "Battle Bat",
       "tier": "F"
+    },
+    {
+      "champion": "Vayne",
+      "skin": "Dawnbringer",
+      "tier": "Not rated"
     },
     {
       "champion": "Veigar",
