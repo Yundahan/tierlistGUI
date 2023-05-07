@@ -811,6 +811,11 @@
       "tier": "S"
     },
     {
+      "champion": "Aurelion Sol",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Azir",
       "skin": "Classic",
       "tier": "A"
@@ -2991,6 +2996,11 @@
       "tier": "A"
     },
     {
+      "champion": "Kai'Sa",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kalista",
       "skin": "Classic",
       "tier": "D"
@@ -4339,6 +4349,11 @@
       "champion": "Master Yi",
       "skin": "Prestige Spirit Blossom",
       "tier": "E"
+    },
+    {
+      "champion": "Master Yi",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
     },
     {
       "champion": "Milio",
@@ -7261,6 +7276,11 @@
       "tier": "C"
     },
     {
+      "champion": "Udyr",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Urgot",
       "skin": "Classic",
       "tier": "B"
@@ -7776,6 +7796,11 @@
       "tier": "A"
     },
     {
+      "champion": "Volibear",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Warwick",
       "skin": "Classic",
       "tier": "B"
@@ -8101,6 +8126,16 @@
       "tier": "B"
     },
     {
+      "champion": "Yasuo",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "Prestige Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yone",
       "skin": "Classic",
       "tier": "A"
@@ -8124,6 +8159,11 @@
       "champion": "Yone",
       "skin": "Ocean Song",
       "tier": "E"
+    },
+    {
+      "champion": "Yone",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
     },
     {
       "champion": "Yorick",
