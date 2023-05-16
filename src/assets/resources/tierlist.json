@@ -306,6 +306,11 @@
       "tier": "B"
     },
     {
+      "champion": "Ahri",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akali",
       "skin": "Classic",
       "tier": "B"
@@ -4586,6 +4591,11 @@
       "tier": "A"
     },
     {
+      "champion": "Morgana",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nami",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7374,6 +7384,11 @@
       "champion": "Varus",
       "skin": "High Noon",
       "tier": "B"
+    },
+    {
+      "champion": "Varus",
+      "skin": "Snow Moon",
+      "tier": "Not rated"
     },
     {
       "champion": "Vayne",
