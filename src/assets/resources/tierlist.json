@@ -226,6 +226,16 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Aatrox",
+      "skin": "DRX",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Aatrox",
+      "skin": "Prestige DRX",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ahri",
       "skin": "Classic",
       "tier": "A"
@@ -389,6 +399,11 @@
       "champion": "Akali",
       "skin": "Star Guardian",
       "tier": "A"
+    },
+    {
+      "champion": "Akali",
+      "skin": "DRX",
+      "tier": "Not rated"
     },
     {
       "champion": "Akshan",
@@ -796,6 +811,11 @@
       "tier": "S"
     },
     {
+      "champion": "Ashe",
+      "skin": "DRX",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -1143,6 +1163,11 @@
     {
       "champion": "Caitlyn",
       "skin": "Heartthrob",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Caitlyn",
+      "skin": "DRX",
       "tier": "Not rated"
     },
     {
@@ -3506,6 +3531,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Kindred",
+      "skin": "DRX",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kled",
       "skin": "Classic",
       "tier": "D"
@@ -4279,6 +4309,11 @@
       "champion": "Maokai",
       "skin": "Astronaut",
       "tier": "C"
+    },
+    {
+      "champion": "Maokai",
+      "skin": "DRX",
+      "tier": "Not rated"
     },
     {
       "champion": "Master Yi",
