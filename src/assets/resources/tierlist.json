@@ -906,6 +906,11 @@
       "tier": "D"
     },
     {
+      "champion": "Bard",
+      "skin": "Shan Hai Scrolls",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Bel'Veth",
       "skin": "Classic",
       "tier": "C"
@@ -3631,6 +3636,11 @@
       "tier": "D"
     },
     {
+      "champion": "Kog'Maw",
+      "skin": "Shan Hai Scrolls",
+      "tier": "Not rated"
+    },
+    {
       "champion": "K'Sante",
       "skin": "Classic",
       "tier": "D"
@@ -3861,6 +3871,11 @@
       "tier": "S"
     },
     {
+      "champion": "Leona",
+      "skin": "Crystalis Motus",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lillia",
       "skin": "Classic",
       "tier": "B"
@@ -3874,6 +3889,11 @@
       "champion": "Lillia",
       "skin": "Nightbringer",
       "tier": "D"
+    },
+    {
+      "champion": "Lillia",
+      "skin": "Shan Hai Scrolls",
+      "tier": "Not rated"
     },
     {
       "champion": "Lissandra",
@@ -6709,6 +6729,11 @@
       "champion": "Tahm Kench",
       "skin": "High Noon",
       "tier": "B"
+    },
+    {
+      "champion": "Tahm Kench",
+      "skin": "Shan Hai Scrolls",
+      "tier": "Not rated"
     },
     {
       "champion": "Taliyah",
