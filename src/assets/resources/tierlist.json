@@ -626,6 +626,11 @@
       "tier": "D"
     },
     {
+      "champion": "Anivia",
+      "skin": "Victorious",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Annie",
       "skin": "Classic",
       "tier": "D"
@@ -3181,6 +3186,11 @@
       "tier": "C"
     },
     {
+      "champion": "Karthus",
+      "skin": "Elderwood",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kassadin",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5151,6 +5161,11 @@
       "tier": "A"
     },
     {
+      "champion": "Orianna",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ornn",
       "skin": "Classic",
       "tier": "A"
@@ -6013,6 +6028,11 @@
     {
       "champion": "Seraphine",
       "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Star Guardian",
       "tier": "Not rated"
     },
     {
@@ -7989,6 +8009,11 @@
       "champion": "Wukong",
       "skin": "Battle Academia",
       "tier": "F"
+    },
+    {
+      "champion": "Wukong",
+      "skin": "Elderwood",
+      "tier": "Not rated"
     },
     {
       "champion": "Xayah",
