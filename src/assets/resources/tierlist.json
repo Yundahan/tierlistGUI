@@ -96,6 +96,7 @@
     "Miss Fortune",
     "Mordekaiser",
     "Morgana",
+    "Naafiri",
     "Nami",
     "Nasus",
     "Nautilus",
@@ -4661,6 +4662,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Naafiri",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Naafiri",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nami",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5351,6 +5362,16 @@
       "tier": "B"
     },
     {
+      "champion": "Pyke",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Pyke",
+      "skin": "Prestige Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Qiyana",
       "skin": "Classic",
       "tier": "C"
@@ -5886,6 +5907,11 @@
       "tier": "S"
     },
     {
+      "champion": "Samira",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sejuani",
       "skin": "Classic",
       "tier": "C"
@@ -5991,6 +6017,11 @@
       "tier": "B"
     },
     {
+      "champion": "Senna",
+      "skin": "Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Seraphine",
       "skin": "Classic",
       "tier": "B"
@@ -6069,6 +6100,11 @@
       "champion": "Sett",
       "skin": "Spirit Blossom",
       "tier": "B"
+    },
+    {
+      "champion": "Sett",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
     },
     {
       "champion": "Shaco",
