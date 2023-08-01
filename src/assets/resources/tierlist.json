@@ -1752,6 +1752,11 @@
       "tier": "S"
     },
     {
+      "champion": "Evelynn",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ezreal",
       "skin": "Classic",
       "tier": "B"
@@ -2402,6 +2407,11 @@
       "tier": "C"
     },
     {
+      "champion": "Gwen",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Hecarim",
       "skin": "Classic",
       "tier": "Not rated"
@@ -2925,6 +2935,11 @@
       "champion": "Jhin",
       "skin": "Empyrean",
       "tier": "B"
+    },
+    {
+      "champion": "Jhin",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
     },
     {
       "champion": "Jinx",
@@ -6167,6 +6182,16 @@
       "tier": "D"
     },
     {
+      "champion": "Shaco",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Shaco",
+      "skin": "Prestige Soul Fighter",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shen",
       "skin": "Classic",
       "tier": "A"
@@ -7780,6 +7805,11 @@
       "champion": "Viego",
       "skin": "King",
       "tier": "B"
+    },
+    {
+      "champion": "Viego",
+      "skin": "Soul Fighter",
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",

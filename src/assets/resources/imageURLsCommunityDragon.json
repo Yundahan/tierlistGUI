@@ -430,7 +430,8 @@
     "Coven Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28024.jpg",
     "Prestige K/DA Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28007.jpg",
     "Prestige K/DA Evelynn (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28031.jpg",
-    "Spirit Blossom Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28032.jpg"
+    "Spirit Blossom Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28032.jpg",
+    "Soul Fighter Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/28/28042.jpg"
   },
   "Twitch": {
     "Classic Twitch": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/29/29000.jpg",
@@ -527,7 +528,9 @@
     "Dark Star Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35008.jpg",
     "Arcanist Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35015.jpg",
     "Crime City Nightmare Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35023.jpg",
-    "Winterblessed Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35033.jpg"
+    "Winterblessed Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35033.jpg",
+    "Soul Fighter Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35043.jpg",
+    "Prestige Soul Fighter Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35044.jpg"
   },
   "Dr. Mundo": {
     "Classic Dr. Mundo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/36/36000.jpg",
@@ -1678,7 +1681,8 @@
     "Dark Cosmic Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202005.jpg",
     "Shan Hai Scrolls Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202014.jpg",
     "DWG Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202023.jpg",
-    "Empyrean Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202025.jpg"
+    "Empyrean Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202025.jpg",
+    "Soul Fighter Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/202/202036.jpg"
   },
   "Kindred": {
     "Classic Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/203/203000.jpg",
@@ -1722,7 +1726,8 @@
     "Lunar Beast Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234001.jpg",
     "Dissonance of Pentakill Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234010.jpg",
     "EDG Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234019.jpg",
-    "King Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234021.jpg"
+    "King Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234021.jpg",
+    "Soul Fighter Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234030.jpg"
   },
   "Senna": {
     "Classic Senna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/235/235000.jpg",
@@ -2016,7 +2021,8 @@
   "Gwen": {
     "Classic Gwen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887000.jpg",
     "Space Groove Gwen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887001.jpg",
-    "Cafe Cuties Gwen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887011.jpg"
+    "Cafe Cuties Gwen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887011.jpg",
+    "Soul Fighter Gwen": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887020.jpg"
   },
   "Renata Glasc": {
     "Classic Renata Glasc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/888/888000.jpg",
