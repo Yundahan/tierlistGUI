@@ -927,6 +927,11 @@
       "tier": "B"
     },
     {
+      "champion": "Bel'Veth",
+      "skin": "Cosmic Matriarch",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Blitzcrank",
       "skin": "Classic",
       "tier": "B"
@@ -2942,6 +2947,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Jhin",
+      "skin": "Dark Cosmic Erasure",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jinx",
       "skin": "Classic",
       "tier": "C"
@@ -3405,6 +3415,11 @@
       "champion": "Kayle",
       "skin": "Sun-Eater",
       "tier": "B"
+    },
+    {
+      "champion": "Kayle",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayn",
@@ -4857,6 +4872,11 @@
       "tier": "B"
     },
     {
+      "champion": "Nautilus",
+      "skin": "Cosmic Paladin",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Neeko",
       "skin": "Classic",
       "tier": "C"
@@ -5075,6 +5095,11 @@
       "champion": "Nunu",
       "skin": "Nunu & Beelump",
       "tier": "C"
+    },
+    {
+      "champion": "Nunu",
+      "skin": "Cosmic Paladins",
+      "tier": "Not rated"
     },
     {
       "champion": "Olaf",
@@ -6292,6 +6317,11 @@
       "tier": "D"
     },
     {
+      "champion": "Shyvana",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Singed",
       "skin": "Classic",
       "tier": "E"
@@ -6395,6 +6425,11 @@
       "champion": "Sion",
       "skin": "High Noon",
       "tier": "B"
+    },
+    {
+      "champion": "Sion",
+      "skin": "Cosmic Paladin",
+      "tier": "Not rated"
     },
     {
       "champion": "Sivir",
@@ -6572,6 +6607,16 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Sona",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Sona",
+      "skin": "Prestige Immortal Journey",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Soraka",
       "skin": "Classic",
       "tier": "D"
@@ -6645,6 +6690,11 @@
       "champion": "Soraka",
       "skin": "Spirit Blossom",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Soraka",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
     },
     {
       "champion": "Swain",
@@ -8492,6 +8542,11 @@
       "tier": "C"
     },
     {
+      "champion": "Zed",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zeri",
       "skin": "Classic",
       "tier": "C"
@@ -8505,6 +8560,11 @@
       "champion": "Zeri",
       "skin": "Ocean Song",
       "tier": "E"
+    },
+    {
+      "champion": "Zeri",
+      "skin": "Immortal Journey",
+      "tier": "Not rated"
     },
     {
       "champion": "Ziggs",
