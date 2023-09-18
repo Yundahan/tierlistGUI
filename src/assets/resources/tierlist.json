@@ -32,6 +32,7 @@
     "Blitzcrank",
     "Brand",
     "Braum",
+    "Briar",
     "Caitlyn",
     "Camille",
     "Cassiopeia",
@@ -1062,6 +1063,11 @@
       "tier": "D"
     },
     {
+      "champion": "Brand",
+      "skin": "Street Demons",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Braum",
       "skin": "Classic",
       "tier": "B"
@@ -1100,6 +1106,16 @@
       "champion": "Braum",
       "skin": "Pool Party",
       "tier": "D"
+    },
+    {
+      "champion": "Briar",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Briar",
+      "skin": "Street Demons",
+      "tier": "Not rated"
     },
     {
       "champion": "Caitlyn",
@@ -1600,6 +1616,11 @@
       "champion": "Dr. Mundo",
       "skin": "Frozen Prince",
       "tier": "C"
+    },
+    {
+      "champion": "Dr. Mundo",
+      "skin": "Street Demons",
+      "tier": "Not rated"
     },
     {
       "champion": "Ekko",
@@ -4907,6 +4928,11 @@
       "tier": "D"
     },
     {
+      "champion": "Neeko",
+      "skin": "Street Demons",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nidalee",
       "skin": "Classic",
       "tier": "B"
@@ -5745,6 +5771,11 @@
       "champion": "Rengar",
       "skin": "Sentinel",
       "tier": "A"
+    },
+    {
+      "champion": "Rengar",
+      "skin": "Street Demons",
+      "tier": "Not rated"
     },
     {
       "champion": "Riven",
@@ -6890,6 +6921,11 @@
       "champion": "Taliyah",
       "skin": "Star Guardian",
       "tier": "E"
+    },
+    {
+      "champion": "Taliyah",
+      "skin": "Crystalis Motus",
+      "tier": "Not rated"
     },
     {
       "champion": "Talon",
@@ -8750,6 +8786,11 @@
       "champion": "Zyra",
       "skin": "Mythmaker",
       "tier": "B"
+    },
+    {
+      "champion": "Zyra",
+      "skin": "Street Demons",
+      "tier": "Not rated"
     }
   ]
 }
