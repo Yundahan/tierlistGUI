@@ -1563,6 +1563,11 @@
       "tier": "D"
     },
     {
+      "champion": "Draven",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Dr. Mundo",
       "skin": "Classic",
       "tier": "C"
@@ -2286,6 +2291,11 @@
       "champion": "Gnar",
       "skin": "Elderwood",
       "tier": "A"
+    },
+    {
+      "champion": "Gnar",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
     },
     {
       "champion": "Gragas",
@@ -5008,6 +5018,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Nidalee",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nilah",
       "skin": "Classic",
       "tier": "C"
@@ -5473,6 +5488,11 @@
       "tier": "S"
     },
     {
+      "champion": "Qiyana",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -5661,6 +5681,16 @@
       "champion": "Renata Glasc",
       "skin": "Fright Night",
       "tier": "B"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Renata Glasc",
+      "skin": "Prestige La Ilusi\u00f3n",
+      "tier": "Not rated"
     },
     {
       "champion": "Renekton",
@@ -8656,6 +8686,11 @@
       "champion": "Ziggs",
       "skin": "BZZZiggs",
       "tier": "D"
+    },
+    {
+      "champion": "Ziggs",
+      "skin": "La Ilusi\u00f3n",
+      "tier": "Not rated"
     },
     {
       "champion": "Zilean",
