@@ -408,6 +408,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Akali",
+      "skin": "Coven",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Akali",
+      "skin": "Prestige Coven",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akshan",
       "skin": "Classic",
       "tier": "C"
@@ -1723,6 +1733,11 @@
       "tier": "SS"
     },
     {
+      "champion": "Elise",
+      "skin": "Coven",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Evelynn",
       "skin": "Classic",
       "tier": "B"
@@ -2810,42 +2825,42 @@
     {
       "champion": "Jax",
       "skin": "Classic",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "The Mighty",
-      "tier": "F"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "Vandal",
-      "tier": "E"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "Angler",
-      "tier": "hohes C"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "PAX",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "Jaximus",
-      "tier": "E"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "Temple",
-      "tier": "S"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
       "skin": "Nemesis",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Jax",
@@ -2881,6 +2896,11 @@
       "champion": "Jax",
       "skin": "Empyrean",
       "tier": "C"
+    },
+    {
+      "champion": "Jax",
+      "skin": "Neo PAX",
+      "tier": "Not rated"
     },
     {
       "champion": "Jayce",
@@ -4648,6 +4668,11 @@
       "tier": "B"
     },
     {
+      "champion": "Mordekaiser",
+      "skin": "Old God",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Morgana",
       "skin": "Classic",
       "tier": "A"
@@ -4791,6 +4816,11 @@
       "champion": "Nami",
       "skin": "Prestige Space Groove",
       "tier": "B"
+    },
+    {
+      "champion": "Nami",
+      "skin": "Coven",
+      "tier": "Not rated"
     },
     {
       "champion": "Nasus",
@@ -5031,6 +5061,11 @@
       "champion": "Nilah",
       "skin": "Star Guardian",
       "tier": "B"
+    },
+    {
+      "champion": "Nilah",
+      "skin": "Coven",
+      "tier": "Not rated"
     },
     {
       "champion": "Nocturne",
@@ -5573,6 +5608,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Rakan",
+      "skin": "Redeemed Star Guardian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rammus",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5760,6 +5800,11 @@
     {
       "champion": "Renekton",
       "skin": "Dawnbringer",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Renekton",
+      "skin": "Worlds 2023",
       "tier": "Not rated"
     },
     {
@@ -8245,6 +8290,11 @@
     {
       "champion": "Xayah",
       "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Xayah",
+      "skin": "Redeemed Star Guardian",
       "tier": "Not rated"
     },
     {
