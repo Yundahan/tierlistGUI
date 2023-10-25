@@ -3063,6 +3063,11 @@
       "tier": "F"
     },
     {
+      "champion": "Jinx",
+      "skin": "Cafe Cuties",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kai'Sa",
       "skin": "Classic",
       "tier": "A"
@@ -4151,6 +4156,11 @@
       "champion": "Lulu",
       "skin": "Monster Tamer",
       "tier": "E"
+    },
+    {
+      "champion": "Lulu",
+      "skin": "Cafe Cuties",
+      "tier": "Not rated"
     },
     {
       "champion": "Lux",
@@ -5438,6 +5448,11 @@
       "tier": "C"
     },
     {
+      "champion": "Poppy",
+      "skin": "Cafe Cuties",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Pyke",
       "skin": "Classic",
       "tier": "A"
@@ -5961,6 +5976,11 @@
       "champion": "Rumble",
       "skin": "Space Groove",
       "tier": "F"
+    },
+    {
+      "champion": "Rumble",
+      "skin": "Cafe Cuties",
+      "tier": "Not rated"
     },
     {
       "champion": "Ryze",
@@ -6936,6 +6956,11 @@
       "champion": "Syndra",
       "skin": "Spirit Blossom",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Syndra",
+      "skin": "Coven",
+      "tier": "Not rated"
     },
     {
       "champion": "Tahm Kench",
