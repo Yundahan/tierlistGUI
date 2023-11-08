@@ -748,6 +748,11 @@
       "tier": "A"
     },
     {
+      "champion": "Aphelios",
+      "skin": "HEARTSTEEL",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ashe",
       "skin": "Classic",
       "tier": "B"
@@ -1693,6 +1698,11 @@
       "tier": "C"
     },
     {
+      "champion": "Ekko",
+      "skin": "Breakout True Damage",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -1890,6 +1900,11 @@
     {
       "champion": "Ezreal",
       "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ezreal",
+      "skin": "HEARTSTEEL",
       "tier": "Not rated"
     },
     {
@@ -3508,6 +3523,11 @@
       "tier": "S"
     },
     {
+      "champion": "Kayn",
+      "skin": "HEARTSTEEL",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kennen",
       "skin": "Classic",
       "tier": "hohes C"
@@ -3751,6 +3771,11 @@
       "champion": "K'Sante",
       "skin": "Prestige Empyrean",
       "tier": "B"
+    },
+    {
+      "champion": "K'Sante",
+      "skin": "HEARTSTEEL",
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
@@ -6273,6 +6298,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Sett",
+      "skin": "HEARTSTEEL",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shaco",
       "skin": "Classic",
       "tier": "C"
@@ -8520,6 +8550,16 @@
     {
       "champion": "Yone",
       "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yone",
+      "skin": "HEARTSTEEL",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yone",
+      "skin": "Prestige HEARTSTEEL",
       "tier": "Not rated"
     },
     {
