@@ -58,6 +58,7 @@
     "Gwen",
     "Hecarim",
     "Heimerdinger",
+    "Hwei",
     "Illaoi",
     "Irelia",
     "Ivern",
@@ -723,6 +724,11 @@
       "tier": "S"
     },
     {
+      "champion": "Annie",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aphelios",
       "skin": "Classic",
       "tier": "C"
@@ -835,6 +841,11 @@
     {
       "champion": "Ashe",
       "skin": "DRX",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ashe",
+      "skin": "Crystalis Motus",
       "tier": "Not rated"
     },
     {
@@ -1251,6 +1262,16 @@
       "champion": "Camille",
       "skin": "Strike Commander",
       "tier": "C"
+    },
+    {
+      "champion": "Camille",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Camille",
+      "skin": "Prestige Winterblessed",
+      "tier": "Not rated"
     },
     {
       "champion": "Cassiopeia",
@@ -2538,6 +2559,11 @@
       "tier": "A"
     },
     {
+      "champion": "Hecarim",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Heimerdinger",
       "skin": "Classic",
       "tier": "B"
@@ -2581,6 +2607,16 @@
       "champion": "Heimerdinger",
       "skin": "Heimerstinger",
       "tier": "E"
+    },
+    {
+      "champion": "Hwei",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Hwei",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
     },
     {
       "champion": "Illaoi",
@@ -4126,6 +4162,11 @@
       "champion": "Lucian",
       "skin": "Strike Paladin",
       "tier": "D"
+    },
+    {
+      "champion": "Lucian",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
     },
     {
       "champion": "Lulu",
@@ -6218,6 +6259,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Senna",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Seraphine",
       "skin": "Classic",
       "tier": "B"
@@ -6933,6 +6979,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Sylas",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Syndra",
       "skin": "Classic",
       "tier": "C"
@@ -7296,6 +7347,11 @@
       "champion": "Thresh",
       "skin": "Lunar Emperor",
       "tier": "A"
+    },
+    {
+      "champion": "Thresh",
+      "skin": "Winterblessed",
+      "tier": "Not rated"
     },
     {
       "champion": "Tristana",
