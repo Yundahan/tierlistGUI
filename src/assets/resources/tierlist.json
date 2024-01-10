@@ -2059,6 +2059,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Fiora",
+      "skin": "Dragonmancer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Fizz",
       "skin": "Classic",
       "tier": "C"
@@ -3372,6 +3377,11 @@
       "champion": "Kassadin",
       "skin": "Shockblade",
       "tier": "A"
+    },
+    {
+      "champion": "Kassadin",
+      "skin": "Dragonmancer",
+      "tier": "Not rated"
     },
     {
       "champion": "Katarina",
@@ -5699,6 +5709,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Rakan",
+      "skin": "Dragonmancer",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Rakan",
+      "skin": "Prestige Dragonmancer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rammus",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7886,6 +7906,11 @@
     {
       "champion": "Vayne",
       "skin": "Dawnbringer",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Vayne",
+      "skin": "Dragonmancer",
       "tier": "Not rated"
     },
     {
