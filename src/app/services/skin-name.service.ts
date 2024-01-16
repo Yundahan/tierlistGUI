@@ -24,6 +24,10 @@ export class SkinNameService {
 
             return this.skinNameMapping[skin + " " + champion]
         }
+        
+        if(skin === "Nunu Bot" || skin === "Nunu & Beelump") {
+            return skin;
+        }
 
         return skin + " " + champion
     }
