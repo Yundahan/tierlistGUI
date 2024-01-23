@@ -137,6 +137,7 @@
     "Sion",
     "Sivir",
     "Skarner",
+    "Smolder",
     "Sona",
     "Soraka",
     "Swain",
@@ -432,6 +433,11 @@
       "champion": "Akshan",
       "skin": "Crystal Rose",
       "tier": "D"
+    },
+    {
+      "champion": "Akshan",
+      "skin": "Three Honors",
+      "tier": "Not rated"
     },
     {
       "champion": "Alistar",
@@ -6039,6 +6045,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Riven",
+      "skin": "Primal Ambush",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rumble",
       "skin": "Classic",
       "tier": "C"
@@ -6744,6 +6755,11 @@
       "tier": "S"
     },
     {
+      "champion": "Sivir",
+      "skin": "Primal Ambush",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Skarner",
       "skin": "Classic",
       "tier": "C"
@@ -6772,6 +6788,16 @@
       "champion": "Skarner",
       "skin": "Cosmic Sting",
       "tier": "C"
+    },
+    {
+      "champion": "Smolder",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Smolder",
+      "skin": "Heavenscale",
+      "tier": "Not rated"
     },
     {
       "champion": "Sona",
@@ -7187,6 +7213,11 @@
       "champion": "Talon",
       "skin": "Prestige High Noon",
       "tier": "B"
+    },
+    {
+      "champion": "Talon",
+      "skin": "Primal Ambush",
+      "tier": "Not rated"
     },
     {
       "champion": "Taric",
@@ -8094,6 +8125,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Vi",
+      "skin": "Primal Ambush",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Viego",
       "skin": "Classic",
       "tier": "B"
@@ -8616,6 +8652,11 @@
     {
       "champion": "Yasuo",
       "skin": "Prestige Inkshadow",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "Foreseen",
       "tier": "Not rated"
     },
     {

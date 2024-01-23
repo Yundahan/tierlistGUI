@@ -1687,7 +1687,8 @@
     "Prestige True Damage Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157035.jpg",
     "Sea Dog Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157045.jpg",
     "Inkshadow Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157056.jpg",
-    "Prestige Inkshadow Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157057.jpg"
+    "Prestige Inkshadow Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157057.jpg",
+    "Foreseen Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157068.jpg"
   },
   "Vel'Koz": {
     "Classic Vel'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/161/161000.jpg",
@@ -2149,6 +2150,7 @@
   },
   "Smolder": {
     "Classic Smolder": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/901/901000.jpg",
-    "": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/901/901001.jpg"
+    "": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/901/901001.jpg",
+    "Heavenscale Smolder": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/901/901001.jpg"
   }
 }
