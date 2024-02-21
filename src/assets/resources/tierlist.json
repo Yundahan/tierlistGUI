@@ -880,6 +880,11 @@
       "tier": "C"
     },
     {
+      "champion": "Aurelion Sol",
+      "skin": "Porcelain Protector",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Azir",
       "skin": "Classic",
       "tier": "A"
@@ -1488,6 +1493,11 @@
       "champion": "Darius",
       "skin": "Spirit Blossom",
       "tier": "B"
+    },
+    {
+      "champion": "Darius",
+      "skin": "Porcelain",
+      "tier": "Not rated"
     },
     {
       "champion": "Diana",
@@ -2510,6 +2520,11 @@
       "tier": "D"
     },
     {
+      "champion": "Graves",
+      "skin": "Porcelain",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gwen",
       "skin": "Classic",
       "tier": "A"
@@ -2733,6 +2748,11 @@
       "champion": "Irelia",
       "skin": "Mythmaker",
       "tier": "S"
+    },
+    {
+      "champion": "Irelia",
+      "skin": "Porcelain",
+      "tier": "Not rated"
     },
     {
       "champion": "Ivern",
@@ -3738,6 +3758,11 @@
       "champion": "Kindred",
       "skin": "DRX",
       "tier": "C"
+    },
+    {
+      "champion": "Kindred",
+      "skin": "Prestige Porcelain",
+      "tier": "Not rated"
     },
     {
       "champion": "Kled",
@@ -4750,6 +4775,11 @@
       "tier": "B"
     },
     {
+      "champion": "Miss Fortune",
+      "skin": "Porcelain",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Mordekaiser",
       "skin": "Classic",
       "tier": "A"
@@ -4883,6 +4913,11 @@
       "champion": "Morgana",
       "skin": "Snow Moon",
       "tier": "S"
+    },
+    {
+      "champion": "Morgana",
+      "skin": "Porcelain",
+      "tier": "Not rated"
     },
     {
       "champion": "Naafiri",
@@ -7618,6 +7653,11 @@
       "champion": "Tryndamere",
       "skin": "Nightbringer",
       "tier": "B"
+    },
+    {
+      "champion": "Tryndamere",
+      "skin": "Victorious",
+      "tier": "Not rated"
     },
     {
       "champion": "Twisted Fate",
