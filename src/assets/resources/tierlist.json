@@ -2265,6 +2265,11 @@
       "tier": "C"
     },
     {
+      "champion": "Gangplank",
+      "skin": "PROJECT",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Garen",
       "skin": "Classic",
       "tier": "C"
@@ -3008,6 +3013,11 @@
       "champion": "Jax",
       "skin": "Neo PAX",
       "tier": "D"
+    },
+    {
+      "champion": "Jax",
+      "skin": "PROJECT",
+      "tier": "Not rated"
     },
     {
       "champion": "Jayce",
@@ -4928,6 +4938,11 @@
       "champion": "Naafiri",
       "skin": "Soul Fighter",
       "tier": "A"
+    },
+    {
+      "champion": "Naafiri",
+      "skin": "PROJECT",
+      "tier": "Not rated"
     },
     {
       "champion": "Nami",
