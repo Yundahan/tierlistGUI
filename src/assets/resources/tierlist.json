@@ -1860,6 +1860,16 @@
       "tier": "E"
     },
     {
+      "champion": "Evelynn",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Evelynn",
+      "skin": "Prestige High Noon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ezreal",
       "skin": "Classic",
       "tier": "B"
@@ -2458,6 +2468,11 @@
       "champion": "Gragas",
       "skin": "Space Groove",
       "tier": "F"
+    },
+    {
+      "champion": "Gragas",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Graves",
@@ -3733,6 +3748,11 @@
       "champion": "Kha'Zix",
       "skin": "Lunar Guardian",
       "tier": "A"
+    },
+    {
+      "champion": "Kha'Zix",
+      "skin": "Crystalis Indomitus",
+      "tier": "Not rated"
     },
     {
       "champion": "Kindred",
@@ -5908,6 +5928,11 @@
       "champion": "Rell",
       "skin": "Star Guardian",
       "tier": "E"
+    },
+    {
+      "champion": "Rell",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Renata Glasc",
@@ -8793,6 +8818,16 @@
       "champion": "Yone",
       "skin": "Prestige HEARTSTEEL",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Yone",
+      "skin": "High Noon",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yone",
+      "skin": "Peacemaker High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Yorick",
