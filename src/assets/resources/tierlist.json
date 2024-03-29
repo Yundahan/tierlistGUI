@@ -1380,6 +1380,11 @@
       "tier": "B"
     },
     {
+      "champion": "Cho'Gath",
+      "skin": "Toy Terror",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Corki",
       "skin": "Classic",
       "tier": "D"
@@ -5520,6 +5525,11 @@
       "tier": "E"
     },
     {
+      "champion": "Ornn",
+      "skin": "Choo-Choo",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Pantheon",
       "skin": "Classic",
       "tier": "SS"
@@ -5888,6 +5898,11 @@
       "champion": "Rammus",
       "skin": "Astronaut",
       "tier": "E"
+    },
+    {
+      "champion": "Rammus",
+      "skin": "Durian Defender",
+      "tier": "Not rated"
     },
     {
       "champion": "Rek'Sai",
@@ -7845,6 +7860,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Twitch",
+      "skin": "Cheddar Chief",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Udyr",
       "skin": "Classic",
       "tier": "C"
@@ -8933,6 +8953,11 @@
       "champion": "Zac",
       "skin": "Empyrean",
       "tier": "C"
+    },
+    {
+      "champion": "Zac",
+      "skin": "Zesty Dip",
+      "tier": "Not rated"
     },
     {
       "champion": "Zed",
