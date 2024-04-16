@@ -2035,6 +2035,11 @@
       "tier": "C"
     },
     {
+      "champion": "Fiddlesticks",
+      "skin": "Blood Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Fiora",
       "skin": "Classic",
       "tier": "C"
@@ -9020,6 +9025,11 @@
       "tier": "A"
     },
     {
+      "champion": "Zed",
+      "skin": "Blood Moon",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zeri",
       "skin": "Classic",
       "tier": "C"
@@ -9233,6 +9243,11 @@
       "champion": "Zyra",
       "skin": "Street Demons",
       "tier": "A"
+    },
+    {
+      "champion": "Zyra",
+      "skin": "Blood Moon",
+      "tier": "Not rated"
     }
   ]
 }
