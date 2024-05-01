@@ -2,11 +2,13 @@ import requests
 import json
 
 CHAMPION_DATA_URL = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/"
-SKIN_IMAGE_URL = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/"
+SKIN_IMAGE_URL = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/"
+SKIN_DATA_URL = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json"
+CHAMPION_SUMMARY_URL = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-summary.json"
 
 #get the communitydragon ID of every champion
 def getChampionToIdDict():
-    response = requests.get("https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-summary.json")
+    response = requests.get(CHAMPION_SUMMARY_URL)
     data = response.json()
     del data[0]
     championToId = {}
@@ -21,6 +23,13 @@ def getChampionToIdDict():
         championToId[name] = champion["id"]
         
     return championToId
+
+#get the image IDs for every skin ID
+def getSkinIDToImageIDDict():
+    response = requests.get(SKIN_DATA_URL)
+    data = response.json()
+    
+    return data
 
 #get the communitydragon ID of every skin
 def getSkinToIdDict(championName, championData):
@@ -47,7 +56,7 @@ def getSkinToIdDict(championName, championData):
             
     return skinToId
 
-#print the skins from the tierlist that do not exist under the same name in den URLdict
+#print the skins from the tierlist that do not exist under the same name in the URLdict
 def updateSkinNameMappingFile(URLdict):
     f = open('resources/tierlist.json')
     tierlist = json.load(f)
@@ -68,11 +77,17 @@ def updateSkinNameMappingFile(URLdict):
             
     with open('resources/skinNameMapping.json', 'w') as file:
         json.dump(missingSkins, file, indent = 2)
+        
+def buildURL(skinIDToImageIDDict, skinID):
+    uncenteredSplashPath = skinIDToImageIDDict[skinID]["uncenteredSplashPath"]
+    restPath = uncenteredSplashPath.split("Characters/", 1)[1]
+    return SKIN_IMAGE_URL + restPath.lower()
 
 if __name__ == "__main__":
     f = open('resources/imageURLsCommunityDragon.json')
     URLdict = json.load(f)
     championToId = getChampionToIdDict()
+    skinIDToImageIDDict = getSkinIDToImageIDDict()
     
     for championName in championToId:
         championID = str(championToId[championName])
@@ -88,7 +103,7 @@ if __name__ == "__main__":
             #if skin is already contained in the dictionary, don't add it again (might overwrite manual corrections)
             if (not skinName in URLdict[championName]) or len(URLdict[championName][skinName]) == 0:
                 skinID = str(skinToId[skinName])
-                URL = SKIN_IMAGE_URL + championID + "/" + skinID + ".jpg"
+                URL = buildURL(skinIDToImageIDDict, skinID)
                 URLdict[championName][skinName] = URL
                 
     print("URLdict generated!")
