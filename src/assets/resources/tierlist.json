@@ -420,6 +420,11 @@
       "tier": "A"
     },
     {
+      "champion": "Akali",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akshan",
       "skin": "Classic",
       "tier": "C"
@@ -1108,6 +1113,11 @@
       "champion": "Brand",
       "skin": "Street Demons",
       "tier": "E"
+    },
+    {
+      "champion": "Brand",
+      "skin": "Empyrean",
+      "tier": "Not rated"
     },
     {
       "champion": "Braum",
@@ -3630,6 +3640,16 @@
       "tier": "A"
     },
     {
+      "champion": "Kayle",
+      "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Kayle",
+      "skin": "Prestige Empyrean",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kayn",
       "skin": "Classic",
       "tier": "A"
@@ -3997,22 +4017,22 @@
     {
       "champion": "Lee Sin",
       "skin": "Traditional",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Lee Sin",
       "skin": "Acolyte",
-      "tier": "hohes C"
+      "tier": "Not rated"
     },
     {
       "champion": "Lee Sin",
       "skin": "Dragon Fist",
-      "tier": "E"
+      "tier": "Not rated"
     },
     {
       "champion": "Lee Sin",
       "skin": "Muay Thai",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "Lee Sin",
@@ -4568,6 +4588,11 @@
       "champion": "Malzahar",
       "skin": "Three Honors",
       "tier": "A"
+    },
+    {
+      "champion": "Malzahar",
+      "skin": "Empyrean",
+      "tier": "Not rated"
     },
     {
       "champion": "Maokai",
@@ -5333,6 +5358,11 @@
       "champion": "Nocturne",
       "skin": "Broken Covenant",
       "tier": "B"
+    },
+    {
+      "champion": "Nocturne",
+      "skin": "Empyrean",
+      "tier": "Not rated"
     },
     {
       "champion": "Nunu",
@@ -8003,6 +8033,11 @@
       "champion": "Varus",
       "skin": "Snow Moon",
       "tier": "B"
+    },
+    {
+      "champion": "Varus",
+      "skin": "Empyrean",
+      "tier": "Not rated"
     },
     {
       "champion": "Vayne",
