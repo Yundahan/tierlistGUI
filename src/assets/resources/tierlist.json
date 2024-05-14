@@ -3925,6 +3925,11 @@
       "tier": "D"
     },
     {
+      "champion": "Kog'Maw",
+      "skin": "Victorious",
+      "tier": "Not rated"
+    },
+    {
       "champion": "K'Sante",
       "skin": "Classic",
       "tier": "D"
@@ -4195,6 +4200,11 @@
       "tier": "S"
     },
     {
+      "champion": "Lillia",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lissandra",
       "skin": "Classic",
       "tier": "C"
@@ -4458,6 +4468,11 @@
       "champion": "Lux",
       "skin": "Empyrean",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Lux",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Malphite",
@@ -7115,6 +7130,11 @@
       "tier": "B"
     },
     {
+      "champion": "Soraka",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Swain",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7643,6 +7663,11 @@
       "champion": "Tristana",
       "skin": "Spirit Blossom",
       "tier": "C"
+    },
+    {
+      "champion": "Tristana",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Trundle",
