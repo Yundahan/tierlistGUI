@@ -29,7 +29,8 @@
     "SKT T1 Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin15/images/olaf_splash_uncentered_15.jpg",
     "Dragonslayer Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin16/images/olaf_splash_uncentered_16.jpg",
     "Sentinel Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin25/images/olaf_splash_uncentered_25.jpg",
-    "Pentakill III: Lost Chapter Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin35/images/olaf_splash_uncentered_35.jpg"
+    "Pentakill III: Lost Chapter Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin35/images/olaf_splash_uncentered_35.jpg",
+    "Infernal Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_uncentered_44.skins_olaf_skin44.jpg"
   },
   "Galio": {
     "Classic Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_uncentered_0.jpg",
@@ -96,7 +97,8 @@
     "Worlds 2020 LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_uncentered_29.jpg",
     "Prestige Coven LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_uncentered_33.jpg",
     "Debonair LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_uncentered_35.jpg",
-    "Bewitching LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.jpg"
+    "Bewitching LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.jpg",
+    "Risen Legend LeBlanc": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.skins_leblanc_skin55.jpg"
   },
   "Vladimir": {
     "Classic Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_uncentered_0.jpg",
@@ -356,7 +358,8 @@
     "Ocean Song Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin43/images/ashe_splash_uncentered_43.jpg",
     "Lunar Empress Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin52/images/ashe_splash_uncentered_52.jpg",
     "DRX Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin63/images/ashe_splash_uncentered_63.jpg",
-    "Crystalis Motus Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin65/images/ashe_splash_uncentered_65.jpg"
+    "Crystalis Motus Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin65/images/ashe_splash_uncentered_65.jpg",
+    "Infernal Ashe": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin67/images/ashe_splash_uncentered_67.skins_ashe_skin67.jpg"
   },
   "Tryndamere": {
     "Classic Tryndamere": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/base/images/tryndamere_splash_uncentered_0.jpg",
@@ -673,7 +676,8 @@
     "Odyssey Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin26/images/karma_splash_uncentered_26.jpg",
     "Ruined Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin27/images/karma_splash_uncentered_27.jpg",
     "Tranquility Dragon Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin44/images/karma_splash_uncentered_44.jpg",
-    "Faerie Queen Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin54/images/karma_splash_uncentered_54.jpg"
+    "Faerie Queen Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin54/images/karma_splash_uncentered_54.jpg",
+    "Infernal Karma": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin61/images/karma_splash_uncentered_61.skins_karma_skin61.jpg"
   },
   "Taric": {
     "Classic Taric": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/base/images/taric_splash_uncentered_0.jpg",
@@ -1301,7 +1305,8 @@
     "Guardian of the Sands Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin04/images/xerath_splash_uncentered_4.skarner_rework.jpg",
     "Dark Star Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin05/images/xerath_splash_uncentered_5.jpg",
     "Arcana Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin12/images/xerath_splash_uncentered_12.jpg",
-    "Astronaut Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin21/images/xerath_splash_uncentered_21.jpg"
+    "Astronaut Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin21/images/xerath_splash_uncentered_21.jpg",
+    "Crystalis Indomitus Xerath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin30/images/xerath_splash_uncentered_30.skins_xerath_skin30.jpg"
   },
   "Shyvana": {
     "Classic Shyvana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_uncentered_0.jpg",
@@ -1332,7 +1337,8 @@
     "Coven Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin42/images/ahri_splash_uncentered_42.jpg",
     "Prestige K/DA Ahri (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin65/images/ahri_splash_uncentered_65.jpg",
     "Arcana Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin66/images/ahri_splash_uncentered_66.jpg",
-    "Snow Moon Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin76/images/ahri_splash_uncentered_76.jpg"
+    "Snow Moon Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin76/images/ahri_splash_uncentered_76.jpg",
+    "Risen Legend Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin85/images/ahri_splash_uncentered_85.skins_ahri_hol.jpg"
   },
   "Graves": {
     "Classic Graves": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/base/images/graves_splash_uncentered_0.jpg",

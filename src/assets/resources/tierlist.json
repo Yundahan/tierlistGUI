@@ -860,6 +860,11 @@
       "tier": "B"
     },
     {
+      "champion": "Ashe",
+      "skin": "Infernal",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -2327,7 +2332,7 @@
     {
       "champion": "Garen",
       "skin": "Rugged",
-      "tier": "B"
+      "tier": "Not rated"
     },
     {
       "champion": "Garen",
@@ -3378,6 +3383,11 @@
       "champion": "Karma",
       "skin": "Faerie Queen",
       "tier": "B"
+    },
+    {
+      "champion": "Karma",
+      "skin": "Infernal",
+      "tier": "Not rated"
     },
     {
       "champion": "Karthus",
@@ -5493,6 +5503,11 @@
       "champion": "Olaf",
       "skin": "Pentakill III: Lost Chapter",
       "tier": "E"
+    },
+    {
+      "champion": "Olaf",
+      "skin": "Infernal",
+      "tier": "Not rated"
     },
     {
       "champion": "Orianna",
