@@ -1338,7 +1338,8 @@
     "Prestige K/DA Ahri (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin65/images/ahri_splash_uncentered_65.jpg",
     "Arcana Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin66/images/ahri_splash_uncentered_66.jpg",
     "Snow Moon Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin76/images/ahri_splash_uncentered_76.jpg",
-    "Risen Legend Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin85/images/ahri_splash_uncentered_85.skins_ahri_hol.jpg"
+    "Risen Legend Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin85/images/ahri_splash_uncentered_85.skins_ahri_hol.jpg",
+    "Immortalized Legend Ahri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin86/images/ahri_splash_uncentered_86.skins_ahri_hol.jpg"
   },
   "Graves": {
     "Classic Graves": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/base/images/graves_splash_uncentered_0.jpg",
@@ -1369,7 +1370,8 @@
     "Prestige Fuzz Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/images/fizz_splash_uncentered_15.jpg",
     "Little Devil Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin16/images/fizz_splash_uncentered_16.jpg",
     "Prestige Fuzz Fizz (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/images/fizz_splash_uncentered_15.jpg",
-    "Astronaut Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/images/fizz_splash_uncentered_26.jpg"
+    "Astronaut Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/images/fizz_splash_uncentered_26.jpg",
+    "Rain Shepherd Fizz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/images/fizz_splash_uncentered_35.skins_fizz_skin35.jpg"
   },
   "Volibear": {
     "Classic Volibear": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/base/images/volibear_splash_uncentered_0.jpg",
@@ -1671,7 +1673,9 @@
     "Ocean Song Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin14/images/seraphine_splash_uncentered_14.jpg",
     "Prestige Ocean Song Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/images/seraphine_splash_uncentered_15.jpg",
     "Faerie Court Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin24/images/seraphine_splash_uncentered_24.jpg",
-    "Star Guardian Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_uncentered_34.jpg"
+    "Star Guardian Seraphine": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_uncentered_34.jpg",
+    "K/DA ALL OUT Seraphine Rising Star": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/images/seraphine_splash_uncentered_2.jpg",
+    "K/DA ALL OUT Seraphine Superstar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/images/seraphine_splash_uncentered_3.jpg"
   },
   "Gnar": {
     "Classic Gnar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/base/images/gnar_splash_uncentered_0.jpg",
@@ -2117,8 +2121,8 @@
     "Inkshadow Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_uncentered_35.jpg",
     "HEARTSTEEL Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin45/images/yone_splash_uncentered_45.jpg",
     "Prestige HEARTSTEEL Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin46/images/yone_splash_uncentered_46.jpg",
-    "High Noon Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_uncentered_55.skins_yone_skin55.jpg",
-    "Peacemaker High Noon Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin58/images/yone_splash_uncentered_58.skins_yone_skin58.jpg"
+    "High Noon Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_uncentered_55.jpg",
+    "Peacemaker High Noon Yone": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin58/images/yone_splash_uncentered_58.jpg"
   },
   "Sett": {
     "Classic Sett": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/base/images/sett_splash_uncentered_0.jpg",
@@ -2168,7 +2172,8 @@
   },
   "Milio": {
     "Classic Milio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/base/images/milio_splash_uncentered_0.jpg",
-    "Faerie Court Milio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin01/images/milio_splash_uncentered_1.jpg"
+    "Faerie Court Milio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin01/images/milio_splash_uncentered_1.jpg",
+    "Rain Shepherd Milio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin11/images/milio_splash_uncentered_11.skins_milio_skin11.jpg"
   },
   "Hwei": {
     "Classic Hwei": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin0/images/hwei_splash_uncentered_0.jpg",

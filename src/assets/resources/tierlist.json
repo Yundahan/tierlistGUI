@@ -325,6 +325,16 @@
       "tier": "B"
     },
     {
+      "champion": "Ahri",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ahri",
+      "skin": "Immortalized Legend",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akali",
       "skin": "Classic",
       "tier": "B"
@@ -4023,6 +4033,11 @@
       "champion": "LeBlanc",
       "skin": "Bewitching",
       "tier": "B"
+    },
+    {
+      "champion": "LeBlanc",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
     },
     {
       "champion": "Lee Sin",
@@ -8743,6 +8758,11 @@
       "champion": "Xerath",
       "skin": "Astronaut",
       "tier": "D"
+    },
+    {
+      "champion": "Xerath",
+      "skin": "Crystalis Indomitus",
+      "tier": "Not rated"
     },
     {
       "champion": "Xin Zhao",

@@ -83,6 +83,11 @@ def buildURL(skinIDToImageIDDict, skinID):
     restPath = uncenteredSplashPath.split("Characters/", 1)[1]
     return SKIN_IMAGE_URL + restPath.lower()
 
+def addShitSkins(URLdict):
+    URLdict["Seraphine"]["K/DA ALL OUT Seraphine Rising Star"] = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/images/seraphine_splash_uncentered_2.jpg"
+    URLdict["Seraphine"]["K/DA ALL OUT Seraphine Superstar"] = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/images/seraphine_splash_uncentered_3.jpg"
+    URLdict["Ahri"]["Immortalized Legend Ahri"] = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin86/images/ahri_splash_uncentered_86.skins_ahri_hol.jpg"
+
 if __name__ == "__main__":
     f = open('resources/imageURLsCommunityDragon.json')
     URLdict = json.load(f)
@@ -105,6 +110,8 @@ if __name__ == "__main__":
                 skinID = str(skinToId[skinName])
                 URL = buildURL(skinIDToImageIDDict, skinID)
                 URLdict[championName][skinName] = URL
+                
+    addShitSkins(URLdict)
                 
     print("URLdict generated!")
     
