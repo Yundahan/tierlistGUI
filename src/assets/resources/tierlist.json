@@ -2200,6 +2200,11 @@
       "tier": "D"
     },
     {
+      "champion": "Fizz",
+      "skin": "Rain Shepherd",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Galio",
       "skin": "Classic",
       "tier": "A"
@@ -4783,6 +4788,11 @@
       "champion": "Milio",
       "skin": "Faerie Court",
       "tier": "D"
+    },
+    {
+      "champion": "Milio",
+      "skin": "Rain Shepherd",
+      "tier": "Not rated"
     },
     {
       "champion": "Miss Fortune",
