@@ -26,6 +26,7 @@
     "Aphelios",
     "Ashe",
     "Aurelion Sol",
+    "Aurora",
     "Azir",
     "Bard",
     "Bel'Veth",
@@ -905,6 +906,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Aurora",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Aurora",
+      "skin": "Battle Bunny",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Azir",
       "skin": "Classic",
       "tier": "A"
@@ -988,6 +999,11 @@
       "champion": "Bel'Veth",
       "skin": "Cosmic Matriarch",
       "tier": "C"
+    },
+    {
+      "champion": "Bel'Veth",
+      "skin": "Primordian",
+      "tier": "Not rated"
     },
     {
       "champion": "Blitzcrank",
@@ -4895,6 +4911,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Miss Fortune",
+      "skin": "Admiral Battle Bunny",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Mordekaiser",
       "skin": "Classic",
       "tier": "A"
@@ -6020,6 +6041,11 @@
       "tier": "A"
     },
     {
+      "champion": "Rek'Sai",
+      "skin": "Primordian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rell",
       "skin": "Classic",
       "tier": "D"
@@ -6558,6 +6584,11 @@
       "champion": "Seraphine",
       "skin": "Star Guardian",
       "tier": "D"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Battle Dove",
+      "tier": "Not rated"
     },
     {
       "champion": "Sett",
@@ -8730,6 +8761,11 @@
       "tier": "S"
     },
     {
+      "champion": "Xayah",
+      "skin": "Battle Bat",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Xerath",
       "skin": "Classic",
       "tier": "C"
@@ -9033,6 +9069,16 @@
       "champion": "Yuumi",
       "skin": "Shiba",
       "tier": "E"
+    },
+    {
+      "champion": "Yuumi",
+      "skin": "Cyber Cat",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yuumi",
+      "skin": "Prestige Cyber Cat",
+      "tier": "Not rated"
     },
     {
       "champion": "Zac",
