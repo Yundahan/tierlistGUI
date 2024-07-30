@@ -241,6 +241,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Aatrox",
+      "skin": "Primordian",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ahri",
       "skin": "Classic",
       "tier": "A"
@@ -1199,6 +1204,11 @@
       "champion": "Briar",
       "skin": "Street Demons",
       "tier": "F"
+    },
+    {
+      "champion": "Briar",
+      "skin": "Primordian",
+      "tier": "Not rated"
     },
     {
       "champion": "Caitlyn",
@@ -2761,6 +2771,11 @@
       "tier": "B"
     },
     {
+      "champion": "Illaoi",
+      "skin": "Battle Bear",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Irelia",
       "skin": "Classic",
       "tier": "B"
@@ -4224,6 +4239,11 @@
       "champion": "Leona",
       "skin": "Crystalis Motus",
       "tier": "S"
+    },
+    {
+      "champion": "Leona",
+      "skin": "Battle Lion",
+      "tier": "Not rated"
     },
     {
       "champion": "Lillia",
@@ -8944,6 +8964,11 @@
       "champion": "Yasuo",
       "skin": "Foreseen",
       "tier": "A"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "Battle Wolf",
+      "tier": "Not rated"
     },
     {
       "champion": "Yone",
