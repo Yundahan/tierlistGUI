@@ -991,6 +991,11 @@
       "tier": "B"
     },
     {
+      "champion": "Bard",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Bel'Veth",
       "skin": "Classic",
       "tier": "C"
@@ -3151,6 +3156,16 @@
       "tier": "D"
     },
     {
+      "champion": "Jayce",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Jayce",
+      "skin": "Prestige T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jhin",
       "skin": "Classic",
       "tier": "A"
@@ -3269,6 +3284,11 @@
       "champion": "Jinx",
       "skin": "Cafe Cuties",
       "tier": "B"
+    },
+    {
+      "champion": "Jinx",
+      "skin": "T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Kai'Sa",
@@ -4158,6 +4178,11 @@
     {
       "champion": "Lee Sin",
       "skin": "Divine Heavenscale",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Lee Sin",
+      "skin": "T1",
       "tier": "Not rated"
     },
     {
@@ -5639,6 +5664,11 @@
       "champion": "Orianna",
       "skin": "Star Guardian",
       "tier": "A"
+    },
+    {
+      "champion": "Orianna",
+      "skin": "T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Ornn",
