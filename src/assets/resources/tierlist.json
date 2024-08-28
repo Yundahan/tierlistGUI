@@ -756,6 +756,11 @@
       "tier": "A"
     },
     {
+      "champion": "Annie",
+      "skin": "Battle Princess",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aphelios",
       "skin": "Classic",
       "tier": "C"
@@ -1561,6 +1566,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Darius",
+      "skin": "Divine God-King",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Diana",
       "skin": "Classic",
       "tier": "B"
@@ -2171,6 +2181,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Fiora",
+      "skin": "Battle Queen",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Fizz",
       "skin": "Classic",
       "tier": "C"
@@ -2426,6 +2441,11 @@
       "tier": "B"
     },
     {
+      "champion": "Garen",
+      "skin": "Fallen God-King",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gnar",
       "skin": "Classic",
       "tier": "S"
@@ -2634,6 +2654,11 @@
       "champion": "Gwen",
       "skin": "Soul Fighter",
       "tier": "D"
+    },
+    {
+      "champion": "Gwen",
+      "skin": "Battle Queen",
+      "tier": "Not rated"
     },
     {
       "champion": "Hecarim",
@@ -4963,6 +4988,11 @@
     {
       "champion": "Miss Fortune",
       "skin": "Admiral Battle Bunny",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Miss Fortune",
+      "skin": "Battle Queen",
       "tier": "Not rated"
     },
     {
