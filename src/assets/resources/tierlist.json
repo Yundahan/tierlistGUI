@@ -961,6 +961,11 @@
       "tier": "C"
     },
     {
+      "champion": "Azir",
+      "skin": "Attorney",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Bard",
       "skin": "Classic",
       "tier": "B"
@@ -5331,6 +5336,11 @@
       "tier": "B"
     },
     {
+      "champion": "Nautilus",
+      "skin": "Crystalis Indomitus",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Neeko",
       "skin": "Classic",
       "tier": "C"
@@ -7744,6 +7754,11 @@
       "champion": "Thresh",
       "skin": "Winterblessed",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Thresh",
+      "skin": "Janitor",
+      "tier": "Not rated"
     },
     {
       "champion": "Tristana",
