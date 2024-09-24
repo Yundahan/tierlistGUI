@@ -5586,6 +5586,11 @@
       "tier": "C"
     },
     {
+      "champion": "Nunu",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Olaf",
       "skin": "Classic",
       "tier": "B"
@@ -5914,6 +5919,11 @@
       "champion": "Pyke",
       "skin": "Prestige Soul Fighter",
       "tier": "D"
+    },
+    {
+      "champion": "Pyke",
+      "skin": "Fright Night",
+      "tier": "Not rated"
     },
     {
       "champion": "Qiyana",
@@ -6801,6 +6811,11 @@
       "tier": "E"
     },
     {
+      "champion": "Shaco",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shen",
       "skin": "Classic",
       "tier": "A"
@@ -7214,6 +7229,11 @@
       "champion": "Sona",
       "skin": "Prestige Immortal Journey",
       "tier": "S"
+    },
+    {
+      "champion": "Sona",
+      "skin": "Victorious",
+      "tier": "Not rated"
     },
     {
       "champion": "Soraka",
@@ -8396,6 +8416,11 @@
       "tier": "E"
     },
     {
+      "champion": "Veigar",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vel'Koz",
       "skin": "Classic",
       "tier": "B"
@@ -8534,6 +8559,11 @@
       "champion": "Viego",
       "skin": "Soul Fighter",
       "tier": "E"
+    },
+    {
+      "champion": "Viego",
+      "skin": "Worlds 2024",
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
@@ -9304,6 +9334,16 @@
       "champion": "Zeri",
       "skin": "Immortal Journey",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Zeri",
+      "skin": "Fright Night",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zeri",
+      "skin": "Prestige Fright Night",
+      "tier": "Not rated"
     },
     {
       "champion": "Ziggs",
