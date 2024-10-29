@@ -1641,6 +1641,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Diana",
+      "skin": "Dark Cosmic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Diana",
+      "skin": "Prestige Dark Cosmic",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Draven",
       "skin": "Classic",
       "tier": "D"
@@ -2571,6 +2581,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Gragas",
+      "skin": "Music Fan",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Graves",
       "skin": "Classic",
       "tier": "A"
@@ -3378,6 +3393,11 @@
     {
       "champion": "Kai'Sa",
       "skin": "Heavenscale",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Kai'Sa",
+      "skin": "Dark Star",
       "tier": "Not rated"
     },
     {
@@ -5376,6 +5396,11 @@
       "tier": "F"
     },
     {
+      "champion": "Neeko",
+      "skin": "Cosplayer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nidalee",
       "skin": "Classic",
       "tier": "B"
@@ -7121,6 +7146,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Sivir",
+      "skin": "Ann-Sivir-Sary",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Skarner",
       "skin": "Classic",
       "tier": "Not rated"
@@ -7399,6 +7429,11 @@
       "champion": "Sylas",
       "skin": "Winterblessed",
       "tier": "E"
+    },
+    {
+      "champion": "Sylas",
+      "skin": "Dark Star",
+      "tier": "Not rated"
     },
     {
       "champion": "Syndra",
@@ -7899,6 +7934,11 @@
       "champion": "Trundle",
       "skin": "Fright Night",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Trundle",
+      "skin": "Esports Fan",
+      "tier": "Not rated"
     },
     {
       "champion": "Tryndamere",
@@ -9081,6 +9121,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Yasuo",
+      "skin": "Genesis Nightbringer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yone",
       "skin": "Classic",
       "tier": "A"
@@ -9169,6 +9214,11 @@
       "champion": "Yorick",
       "skin": "Spirit Blossom",
       "tier": "C"
+    },
+    {
+      "champion": "Yorick",
+      "skin": "Dark Star",
+      "tier": "Not rated"
     },
     {
       "champion": "Yuumi",
@@ -9484,6 +9534,11 @@
       "champion": "Zoe",
       "skin": "Winterblessed",
       "tier": "C"
+    },
+    {
+      "champion": "Zoe",
+      "skin": "Dark Star",
+      "tier": "Not rated"
     },
     {
       "champion": "Zyra",
