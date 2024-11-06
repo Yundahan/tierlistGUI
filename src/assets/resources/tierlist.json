@@ -20,6 +20,7 @@
     "Akali",
     "Akshan",
     "Alistar",
+    "Ambessa",
     "Amumu",
     "Anivia",
     "Annie",
@@ -534,6 +535,16 @@
       "champion": "Alistar",
       "skin": "Lunar Beast",
       "tier": "C"
+    },
+    {
+      "champion": "Ambessa",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ambessa",
+      "skin": "Chosen of the Wolf",
+      "tier": "Not rated"
     },
     {
       "champion": "Amumu",
@@ -3691,6 +3702,11 @@
       "tier": "S"
     },
     {
+      "champion": "Katarina",
+      "skin": "Chosen of the Wolf",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kayle",
       "skin": "Classic",
       "tier": "B"
@@ -3948,6 +3964,11 @@
     {
       "champion": "Kindred",
       "skin": "Prestige Porcelain",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Kindred",
+      "skin": "Chosen of the Wolf",
       "tier": "Not rated"
     },
     {
@@ -5831,6 +5852,11 @@
       "tier": "C"
     },
     {
+      "champion": "Pantheon",
+      "skin": "Chosen of the Wolf",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Poppy",
       "skin": "Classic",
       "tier": "A"
@@ -7389,6 +7415,16 @@
       "champion": "Swain",
       "skin": "Winterblessed",
       "tier": "C"
+    },
+    {
+      "champion": "Swain",
+      "skin": "Chosen of the Wolf",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Swain",
+      "skin": "Prestige Chosen of the Wolf",
+      "tier": "Not rated"
     },
     {
       "champion": "Sylas",

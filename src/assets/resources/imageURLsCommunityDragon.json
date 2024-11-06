@@ -440,7 +440,8 @@
     "Black Scourge Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin08/images/singed_splash_uncentered_8.jpg",
     "Beekeeper Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin09/images/singed_splash_uncentered_9.jpg",
     "Resistance Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin10/images/singed_splash_uncentered_10.jpg",
-    "Astronaut Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin19/images/singed_splash_uncentered_19.jpg"
+    "Astronaut Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin19/images/singed_splash_uncentered_19.jpg",
+    "Arcane Shimmer Lab Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin28/images/singed_splash_uncentered_28.skins_singed_skin28.jpg"
   },
   "Evelynn": {
     "Classic Evelynn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/images/evelynn_splash_uncentered_0.jpg",
@@ -754,7 +755,9 @@
     "Prestige Arcade Caitlyn (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin20/images/caitlyn_splash_uncentered_20.jpg",
     "Snow Moon Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin30/images/caitlyn_splash_uncentered_30.jpg",
     "Heartthrob Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin39/images/caitlyn_splash_uncentered_39.jpg",
-    "DRX Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin48/images/caitlyn_splash_uncentered_48.jpg"
+    "DRX Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin48/images/caitlyn_splash_uncentered_48.jpg",
+    "Arcane Commander Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin50/images/caitlyn_splash_uncentered_50.skins_caitlyn_skin50.jpg",
+    "Prestige Arcane Commander Caitlyn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/images/caitlyn_splash_uncentered_51.skins_caitlyn_skin51.jpg"
   },
   "Blitzcrank": {
     "Classic Blitzcrank": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/base/images/blitzcrank_splash_uncentered_0.jpg",
@@ -1954,7 +1957,8 @@
     "PsyOps Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin20/images/vi_splash_uncentered_20.jpg",
     "Arcane Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin29/images/vi_splash_uncentered_29.jpg",
     "Heartache Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin30/images/vi_splash_uncentered_30.jpg",
-    "Primal Ambush Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin39/images/vi_splash_uncentered_39.jpg"
+    "Primal Ambush Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin39/images/vi_splash_uncentered_39.jpg",
+    "Arcane Brawler Vi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin48/images/vi_splash_uncentered_48.skins_vi_skin48.jpg"
   },
   "Aatrox": {
     "Classic Aatrox": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/base/images/aatrox_splash_uncentered_0.jpg",
