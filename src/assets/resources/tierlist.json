@@ -1322,6 +1322,16 @@
       "tier": "C"
     },
     {
+      "champion": "Caitlyn",
+      "skin": "Arcane Commander",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Caitlyn",
+      "skin": "Prestige Arcane Commander",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Camille",
       "skin": "Classic",
       "tier": "B"
@@ -3219,6 +3229,11 @@
     {
       "champion": "Jayce",
       "skin": "Prestige T1",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Jayce",
+      "skin": "Arcane Survivor",
       "tier": "Not rated"
     },
     {
@@ -7032,6 +7047,11 @@
       "tier": "F"
     },
     {
+      "champion": "Singed",
+      "skin": "Arcane Shimmer Lab",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sion",
       "skin": "Classic",
       "tier": "C"
@@ -8605,6 +8625,11 @@
       "champion": "Vi",
       "skin": "Primal Ambush",
       "tier": "B"
+    },
+    {
+      "champion": "Vi",
+      "skin": "Arcane Brawler",
+      "tier": "Not rated"
     },
     {
       "champion": "Viego",
