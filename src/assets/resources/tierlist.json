@@ -1857,6 +1857,11 @@
       "tier": "C"
     },
     {
+      "champion": "Ekko",
+      "skin": "Arcane Last Stand",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Elise",
       "skin": "Classic",
       "tier": "B"
@@ -2807,6 +2812,11 @@
       "tier": "E"
     },
     {
+      "champion": "Heimerdinger",
+      "skin": "Arcane Professor",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Hwei",
       "skin": "Classic",
       "tier": "C"
@@ -3359,6 +3369,11 @@
     {
       "champion": "Jinx",
       "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Jinx",
+      "skin": "Arcane Fractured",
       "tier": "Not rated"
     },
     {
@@ -8669,27 +8684,27 @@
     {
       "champion": "Viktor",
       "skin": "Classic",
-      "tier": "B"
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
       "skin": "Full Machine",
-      "tier": "E"
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
       "skin": "Prototype",
-      "tier": "D"
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
       "skin": "Creator",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
       "skin": "Death Sworn",
-      "tier": "B"
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
@@ -8700,6 +8715,11 @@
       "champion": "Viktor",
       "skin": "High Noon",
       "tier": "B"
+    },
+    {
+      "champion": "Viktor",
+      "skin": "Arcane Savior",
+      "tier": "Not rated"
     },
     {
       "champion": "Vladimir",
@@ -8890,6 +8910,11 @@
       "champion": "Warwick",
       "skin": "Prestige Winterblessed",
       "tier": "B"
+    },
+    {
+      "champion": "Warwick",
+      "skin": "Arcane Vander",
+      "tier": "Not rated"
     },
     {
       "champion": "Wukong",
