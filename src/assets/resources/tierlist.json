@@ -1303,7 +1303,7 @@
     },
     {
       "champion": "Caitlyn",
-      "skin": "Arcane",
+      "skin": "Arcane Enforcer",
       "tier": "B"
     },
     {
@@ -1838,7 +1838,7 @@
     },
     {
       "champion": "Ekko",
-      "skin": "Firelight",
+      "skin": "Arcane Firelight",
       "tier": "D"
     },
     {
@@ -3223,7 +3223,7 @@
     },
     {
       "champion": "Jayce",
-      "skin": "Arcane",
+      "skin": "Arcane Inventor",
       "tier": "B"
     },
     {
@@ -3348,7 +3348,7 @@
     },
     {
       "champion": "Jinx",
-      "skin": "Arcane",
+      "skin": "Arcane Enemy",
       "tier": "A"
     },
     {
@@ -8628,7 +8628,7 @@
     },
     {
       "champion": "Vi",
-      "skin": "Arcane",
+      "skin": "Arcane Undercity",
       "tier": "hohes C"
     },
     {
