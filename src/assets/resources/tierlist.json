@@ -1907,6 +1907,11 @@
       "tier": "B"
     },
     {
+      "champion": "Elise",
+      "skin": "Masque of the Black Rose",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Evelynn",
       "skin": "Classic",
       "tier": "B"
@@ -2084,6 +2089,11 @@
     {
       "champion": "Ezreal",
       "skin": "Prestige Heavenscale",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ezreal",
+      "skin": "Masque of the Black Rose",
       "tier": "Not rated"
     },
     {
@@ -3734,6 +3744,11 @@
     {
       "champion": "Katarina",
       "skin": "Chosen of the Wolf",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Katarina",
+      "skin": "Prestige Masque of the Black Rose",
       "tier": "Not rated"
     },
     {
@@ -6277,6 +6292,11 @@
       "tier": "C"
     },
     {
+      "champion": "Renata Glasc",
+      "skin": "Masque of the Black Rose",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Renekton",
       "skin": "Classic",
       "tier": "hohes C"
@@ -6612,6 +6632,11 @@
       "tier": "B"
     },
     {
+      "champion": "Samira",
+      "skin": "Masque of the Black Rose",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sejuani",
       "skin": "Classic",
       "tier": "C"
@@ -6820,6 +6845,11 @@
       "champion": "Sett",
       "skin": "HEARTSTEEL",
       "tier": "D"
+    },
+    {
+      "champion": "Sett",
+      "skin": "Radiant Serpent",
+      "tier": "Not rated"
     },
     {
       "champion": "Shaco",
@@ -8785,6 +8815,11 @@
       "champion": "Vladimir",
       "skin": "Broken Covenant",
       "tier": "C"
+    },
+    {
+      "champion": "Vladimir",
+      "skin": "Masque of the Black Rose",
+      "tier": "Not rated"
     },
     {
       "champion": "Volibear",
