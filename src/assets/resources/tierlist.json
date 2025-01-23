@@ -96,6 +96,7 @@
     "Malzahar",
     "Maokai",
     "Master Yi",
+    "Mel",
     "Milio",
     "Miss Fortune",
     "Mordekaiser",
@@ -1415,6 +1416,11 @@
       "champion": "Cassiopeia",
       "skin": "Bewitching",
       "tier": "B"
+    },
+    {
+      "champion": "Cassiopeia",
+      "skin": "Prestige Mythmaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Cho'Gath",
@@ -3112,6 +3118,11 @@
       "tier": "A"
     },
     {
+      "champion": "Jarvan IV",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jax",
       "skin": "Classic",
       "tier": "C"
@@ -3310,6 +3321,11 @@
       "champion": "Jhin",
       "skin": "Dark Cosmic Erasure",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Jhin",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Jinx",
@@ -4962,6 +4978,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Mel",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Mel",
+      "skin": "Arcane Councilor",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Milio",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5305,6 +5331,11 @@
       "champion": "Nami",
       "skin": "Coven",
       "tier": "A"
+    },
+    {
+      "champion": "Nami",
+      "skin": "Mythmaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Nasus",
@@ -6985,6 +7016,11 @@
       "champion": "Shen",
       "skin": "Ashen Guardian",
       "tier": "S"
+    },
+    {
+      "champion": "Shen",
+      "skin": "Three Honors",
+      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
