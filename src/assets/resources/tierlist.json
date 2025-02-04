@@ -618,6 +618,11 @@
       "tier": "D"
     },
     {
+      "champion": "Amumu",
+      "skin": "Dumpling Darlings",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Anivia",
       "skin": "Classic",
       "tier": "A"
@@ -7641,6 +7646,11 @@
       "champion": "Syndra",
       "skin": "Coven",
       "tier": "B"
+    },
+    {
+      "champion": "Syndra",
+      "skin": "Dumpling Darlings",
+      "tier": "Not rated"
     },
     {
       "champion": "Tahm Kench",
