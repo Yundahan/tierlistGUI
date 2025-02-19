@@ -4548,6 +4548,11 @@
       "tier": "A"
     },
     {
+      "champion": "Lucian",
+      "skin": "Masked Justice",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lulu",
       "skin": "Classic",
       "tier": "D"
@@ -6791,6 +6796,11 @@
       "champion": "Senna",
       "skin": "Winterblessed",
       "tier": "A"
+    },
+    {
+      "champion": "Senna",
+      "skin": "Masked Justice",
+      "tier": "Not rated"
     },
     {
       "champion": "Seraphine",
@@ -9348,6 +9358,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Yone",
+      "skin": "Masked Justice",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yorick",
       "skin": "Classic",
       "tier": "C"
@@ -9535,6 +9550,11 @@
     {
       "champion": "Zed",
       "skin": "Blood Moon",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zed",
+      "skin": "Quantum Galaxy Slayer",
       "tier": "Not rated"
     },
     {
