@@ -1608,6 +1608,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Darius",
+      "skin": "Prestige Triumphant General",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Diana",
       "skin": "Classic",
       "tier": "B"
@@ -1746,6 +1751,11 @@
       "champion": "Draven",
       "skin": "La Ilusi\u00f3n",
       "tier": "D"
+    },
+    {
+      "champion": "Draven",
+      "skin": "Grand Reckoning",
+      "tier": "Not rated"
     },
     {
       "champion": "Dr. Mundo",
@@ -6313,6 +6323,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Rell",
+      "skin": "Grand Reckoning",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Renata Glasc",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7203,6 +7218,11 @@
       "tier": "A"
     },
     {
+      "champion": "Sion",
+      "skin": "Grand Reckoning",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sivir",
       "skin": "Classic",
       "tier": "SS"
@@ -7786,6 +7806,11 @@
       "champion": "Talon",
       "skin": "Primal Ambush",
       "tier": "D"
+    },
+    {
+      "champion": "Talon",
+      "skin": "Grand Reckoning",
+      "tier": "Not rated"
     },
     {
       "champion": "Taric",
