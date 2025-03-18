@@ -3903,6 +3903,11 @@
       "tier": "E"
     },
     {
+      "champion": "Kayn",
+      "skin": "Battle Academia",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kennen",
       "skin": "Classic",
       "tier": "hohes C"
@@ -6118,6 +6123,11 @@
       "tier": "A"
     },
     {
+      "champion": "Qiyana",
+      "skin": "Prestige Battle Academia",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -6211,6 +6221,11 @@
       "champion": "Rakan",
       "skin": "Prestige Dragonmancer",
       "tier": "C"
+    },
+    {
+      "champion": "Rakan",
+      "skin": "Battle Academia",
+      "tier": "Not rated"
     },
     {
       "champion": "Rammus",
@@ -9140,6 +9155,11 @@
     {
       "champion": "Xayah",
       "skin": "Battle Bat",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Xayah",
+      "skin": "Battle Academia",
       "tier": "Not rated"
     },
     {
