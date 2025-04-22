@@ -1228,6 +1228,11 @@
       "tier": "D"
     },
     {
+      "champion": "Braum",
+      "skin": "Grill Master",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Briar",
       "skin": "Classic",
       "tier": "E"
@@ -2515,6 +2520,11 @@
     {
       "champion": "Garen",
       "skin": "Fallen God-King",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Garen",
+      "skin": "Pengu",
       "tier": "Not rated"
     },
     {
@@ -4803,6 +4813,11 @@
       "tier": "B"
     },
     {
+      "champion": "Malphite",
+      "skin": "Pool Party",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Malzahar",
       "skin": "Classic",
       "tier": "C"
@@ -4865,6 +4880,11 @@
     {
       "champion": "Malzahar",
       "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Malzahar",
+      "skin": "Fatebreaker",
       "tier": "Not rated"
     },
     {
@@ -5203,6 +5223,11 @@
       "tier": "D"
     },
     {
+      "champion": "Mordekaiser",
+      "skin": "Sahn-Uzal",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Morgana",
       "skin": "Classic",
       "tier": "A"
@@ -5295,6 +5320,11 @@
     {
       "champion": "Naafiri",
       "skin": "PROJECT",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Naafiri",
+      "skin": "Glizzy",
       "tier": "Not rated"
     },
     {
@@ -5431,6 +5461,11 @@
       "champion": "Nasus",
       "skin": "Nightbringer",
       "tier": "A"
+    },
+    {
+      "champion": "Nasus",
+      "skin": "Fatemaker",
+      "tier": "Not rated"
     },
     {
       "champion": "Nautilus",
@@ -7008,6 +7043,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Shaco",
+      "skin": "Cat-in-the-Box",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shen",
       "skin": "Classic",
       "tier": "A"
@@ -7863,6 +7903,11 @@
       "tier": "F"
     },
     {
+      "champion": "Taric",
+      "skin": "Fatebreaker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Teemo",
       "skin": "Classic",
       "tier": "Not rated"
@@ -8288,6 +8333,11 @@
       "tier": "F"
     },
     {
+      "champion": "Twisted Fate",
+      "skin": "Victorious",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Twitch",
       "skin": "Classic",
       "tier": "D"
@@ -8426,6 +8476,11 @@
       "champion": "Urgot",
       "skin": "Fright Night",
       "tier": "C"
+    },
+    {
+      "champion": "Urgot",
+      "skin": "Urgot the Clogfather",
+      "tier": "Not rated"
     },
     {
       "champion": "Varus",
