@@ -903,6 +903,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Ashe",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -1020,6 +1025,11 @@
     {
       "champion": "Bard",
       "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Bard",
+      "skin": "Spirit Blossom",
       "tier": "Not rated"
     },
     {
@@ -2968,6 +2978,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Irelia",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ivern",
       "skin": "Classic",
       "tier": "B"
@@ -2991,6 +3006,11 @@
       "champion": "Ivern",
       "skin": "Astronaut",
       "tier": "E"
+    },
+    {
+      "champion": "Ivern",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Janna",
@@ -4190,37 +4210,37 @@
     {
       "champion": "LeBlanc",
       "skin": "Classic",
-      "tier": "B"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Wicked",
-      "tier": "F"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Prestigious",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Mistletoe",
-      "tier": "A"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Ravenborn",
-      "tier": "hohes C"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Elderwood",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
       "skin": "Program",
-      "tier": "hohes C"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
@@ -4235,7 +4255,7 @@
     {
       "champion": "LeBlanc",
       "skin": "Worlds 2020",
-      "tier": "C"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
@@ -4245,7 +4265,7 @@
     {
       "champion": "LeBlanc",
       "skin": "Debonair",
-      "tier": "B"
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
@@ -4740,6 +4760,11 @@
     {
       "champion": "Lux",
       "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Lux",
+      "skin": "Prestige Spirit Blossom",
       "tier": "Not rated"
     },
     {
@@ -8408,6 +8433,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Twitch",
+      "skin": "Pool Party",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Udyr",
       "skin": "Classic",
       "tier": "C"
@@ -8550,6 +8580,11 @@
     {
       "champion": "Varus",
       "skin": "Empyrean",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Varus",
+      "skin": "Spirit Blossom",
       "tier": "Not rated"
     },
     {
@@ -9890,6 +9925,11 @@
     {
       "champion": "Zyra",
       "skin": "Blood Moon",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zyra",
+      "skin": "Spirit Blossom",
       "tier": "Not rated"
     }
   ]
