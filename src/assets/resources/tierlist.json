@@ -245,7 +245,7 @@
     {
       "champion": "Aatrox",
       "skin": "Primordian",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Ahri",
@@ -335,12 +335,12 @@
     {
       "champion": "Ahri",
       "skin": "Risen Legend",
-      "tier": "Not rated"
+      "tier": "SS"
     },
     {
       "champion": "Ahri",
       "skin": "Immortalized Legend",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Akali",
@@ -440,7 +440,7 @@
     {
       "champion": "Akali",
       "skin": "Empyrean",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Akshan",
@@ -540,12 +540,12 @@
     {
       "champion": "Ambessa",
       "skin": "Classic",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Ambessa",
       "skin": "Chosen of the Wolf",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Amumu",
@@ -620,7 +620,7 @@
     {
       "champion": "Amumu",
       "skin": "Dumpling Darlings",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Anivia",
@@ -775,7 +775,7 @@
     {
       "champion": "Annie",
       "skin": "Battle Princess",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Aphelios",
@@ -900,12 +900,12 @@
     {
       "champion": "Ashe",
       "skin": "Infernal",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Ashe",
       "skin": "Spirit Blossom",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Aurelion Sol",
@@ -935,17 +935,17 @@
     {
       "champion": "Aurelion Sol",
       "skin": "Porcelain Protector",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Aurora",
       "skin": "Classic",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Aurora",
       "skin": "Battle Bunny",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Azir",
@@ -985,7 +985,7 @@
     {
       "champion": "Azir",
       "skin": "Attorney",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Bard",
@@ -1025,12 +1025,12 @@
     {
       "champion": "Bard",
       "skin": "T1",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Bard",
       "skin": "Spirit Blossom",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Bel'Veth",
@@ -1050,7 +1050,7 @@
     {
       "champion": "Bel'Veth",
       "skin": "Primordian",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Blitzcrank",
@@ -1195,7 +1195,7 @@
     {
       "champion": "Brand",
       "skin": "Empyrean",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Braum",
@@ -1240,7 +1240,7 @@
     {
       "champion": "Braum",
       "skin": "Grill Master",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Briar",
@@ -1255,7 +1255,7 @@
     {
       "champion": "Briar",
       "skin": "Primordian",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Caitlyn",
@@ -1345,12 +1345,12 @@
     {
       "champion": "Caitlyn",
       "skin": "Arcane Commander",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Caitlyn",
       "skin": "Prestige Arcane Commander",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Camille",
@@ -1440,7 +1440,7 @@
     {
       "champion": "Cassiopeia",
       "skin": "Prestige Mythmaker",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Cho'Gath",
@@ -1495,7 +1495,7 @@
     {
       "champion": "Cho'Gath",
       "skin": "Toy Terror",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Corki",
@@ -1615,17 +1615,17 @@
     {
       "champion": "Darius",
       "skin": "Porcelain",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Darius",
       "skin": "Divine God-King",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Darius",
       "skin": "Prestige Triumphant General",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Diana",
@@ -1690,17 +1690,17 @@
     {
       "champion": "Diana",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Diana",
       "skin": "Dark Cosmic",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Diana",
       "skin": "Prestige Dark Cosmic",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Draven",
@@ -1770,7 +1770,7 @@
     {
       "champion": "Draven",
       "skin": "Grand Reckoning",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Dr. Mundo",
@@ -1895,7 +1895,7 @@
     {
       "champion": "Ekko",
       "skin": "Arcane Last Stand",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Elise",
@@ -1945,7 +1945,7 @@
     {
       "champion": "Elise",
       "skin": "Masque of the Black Rose",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Evelynn",
@@ -2015,12 +2015,12 @@
     {
       "champion": "Evelynn",
       "skin": "High Noon",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Evelynn",
       "skin": "Prestige High Noon",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Ezreal",
@@ -2120,17 +2120,17 @@
     {
       "champion": "Ezreal",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Ezreal",
       "skin": "Prestige Heavenscale",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Ezreal",
       "skin": "Masque of the Black Rose",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Fiddlesticks",
@@ -2190,7 +2190,7 @@
     {
       "champion": "Fiddlesticks",
       "skin": "Blood Moon",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Fiora",
@@ -2270,7 +2270,7 @@
     {
       "champion": "Fiora",
       "skin": "Battle Queen",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Fizz",
@@ -2335,7 +2335,7 @@
     {
       "champion": "Fizz",
       "skin": "Rain Shepherd",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Galio",
@@ -2450,7 +2450,7 @@
     {
       "champion": "Gangplank",
       "skin": "PROJECT",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Garen",
@@ -2480,7 +2480,7 @@
     {
       "champion": "Garen",
       "skin": "Rugged",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Garen",
@@ -2530,12 +2530,7 @@
     {
       "champion": "Garen",
       "skin": "Fallen God-King",
-      "tier": "Not rated"
-    },
-    {
-      "champion": "Garen",
-      "skin": "Pengu",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Gnar",
@@ -2655,12 +2650,12 @@
     {
       "champion": "Gragas",
       "skin": "High Noon",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Gragas",
       "skin": "Music Fan",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Graves",
@@ -2730,7 +2725,7 @@
     {
       "champion": "Graves",
       "skin": "Porcelain",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Gwen",
@@ -2755,7 +2750,7 @@
     {
       "champion": "Gwen",
       "skin": "Battle Queen",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Hecarim",
@@ -2865,7 +2860,7 @@
     {
       "champion": "Heimerdinger",
       "skin": "Arcane Professor",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Hwei",
@@ -2905,7 +2900,7 @@
     {
       "champion": "Illaoi",
       "skin": "Battle Bear",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Irelia",
@@ -2975,12 +2970,12 @@
     {
       "champion": "Irelia",
       "skin": "Porcelain",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Irelia",
       "skin": "Spirit Blossom",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Ivern",
@@ -3010,7 +3005,7 @@
     {
       "champion": "Ivern",
       "skin": "Spirit Blossom",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Janna",
@@ -3090,7 +3085,7 @@
     {
       "champion": "Janna",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Jarvan IV",
@@ -3165,7 +3160,7 @@
     {
       "champion": "Jarvan IV",
       "skin": "Mythmaker",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Jax",
@@ -3250,7 +3245,7 @@
     {
       "champion": "Jax",
       "skin": "PROJECT",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Jayce",
@@ -3300,17 +3295,17 @@
     {
       "champion": "Jayce",
       "skin": "T1",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Jayce",
       "skin": "Prestige T1",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Jayce",
       "skin": "Arcane Survivor",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Jhin",
@@ -3370,7 +3365,7 @@
     {
       "champion": "Jhin",
       "skin": "Mythmaker",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Jinx",
@@ -3440,12 +3435,12 @@
     {
       "champion": "Jinx",
       "skin": "T1",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Jinx",
       "skin": "Arcane Fractured",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Kai'Sa",
@@ -3505,12 +3500,12 @@
     {
       "champion": "Kai'Sa",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Kai'Sa",
       "skin": "Dark Star",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Kalista",
@@ -3615,7 +3610,7 @@
     {
       "champion": "Karma",
       "skin": "Infernal",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Karthus",
@@ -3805,12 +3800,12 @@
     {
       "champion": "Katarina",
       "skin": "Chosen of the Wolf",
-      "tier": "Not rated"
+      "tier": "SS"
     },
     {
       "champion": "Katarina",
       "skin": "Prestige Masque of the Black Rose",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Kayle",
@@ -3890,12 +3885,12 @@
     {
       "champion": "Kayle",
       "skin": "Empyrean",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Kayle",
       "skin": "Prestige Empyrean",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Kayn",
@@ -3935,7 +3930,7 @@
     {
       "champion": "Kayn",
       "skin": "Battle Academia",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Kennen",
@@ -4035,7 +4030,7 @@
     {
       "champion": "Kha'Zix",
       "skin": "Crystalis Indomitus",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Kindred",
@@ -4075,12 +4070,12 @@
     {
       "champion": "Kindred",
       "skin": "Prestige Porcelain",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Kindred",
       "skin": "Chosen of the Wolf",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Kled",
@@ -4185,7 +4180,7 @@
     {
       "champion": "Kog'Maw",
       "skin": "Victorious",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "K'Sante",
@@ -4210,37 +4205,37 @@
     {
       "champion": "LeBlanc",
       "skin": "Classic",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "LeBlanc",
       "skin": "Wicked",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "LeBlanc",
       "skin": "Prestigious",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "LeBlanc",
       "skin": "Mistletoe",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "LeBlanc",
       "skin": "Ravenborn",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "LeBlanc",
       "skin": "Elderwood",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "LeBlanc",
       "skin": "Program",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "LeBlanc",
@@ -4255,7 +4250,7 @@
     {
       "champion": "LeBlanc",
       "skin": "Worlds 2020",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "LeBlanc",
@@ -4265,7 +4260,7 @@
     {
       "champion": "LeBlanc",
       "skin": "Debonair",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "LeBlanc",
@@ -4275,7 +4270,7 @@
     {
       "champion": "LeBlanc",
       "skin": "Risen Legend",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Lee Sin",
@@ -4285,22 +4280,22 @@
     {
       "champion": "Lee Sin",
       "skin": "Traditional",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Lee Sin",
       "skin": "Acolyte",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Lee Sin",
       "skin": "Dragon Fist",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Lee Sin",
       "skin": "Muay Thai",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Lee Sin",
@@ -4355,17 +4350,17 @@
     {
       "champion": "Lee Sin",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Lee Sin",
       "skin": "Divine Heavenscale",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Lee Sin",
       "skin": "T1",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Leona",
@@ -4450,12 +4445,12 @@
     {
       "champion": "Leona",
       "skin": "Battle Lion",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Leona",
       "skin": "Prestige Battle Lion",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Lillia",
@@ -4480,7 +4475,7 @@
     {
       "champion": "Lillia",
       "skin": "Faerie Court",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Lissandra",
@@ -4595,7 +4590,7 @@
     {
       "champion": "Lucian",
       "skin": "Masked Justice",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Lulu",
@@ -4755,17 +4750,17 @@
     {
       "champion": "Lux",
       "skin": "Soul Fighter",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Lux",
       "skin": "Faerie Court",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Lux",
       "skin": "Prestige Spirit Blossom",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Malphite",
@@ -4840,7 +4835,7 @@
     {
       "champion": "Malphite",
       "skin": "Pool Party",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Malzahar",
@@ -4905,12 +4900,12 @@
     {
       "champion": "Malzahar",
       "skin": "Empyrean",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Malzahar",
       "skin": "Fatebreaker",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Maokai",
@@ -5050,17 +5045,17 @@
     {
       "champion": "Master Yi",
       "skin": "Heavenscale",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Mel",
       "skin": "Classic",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Mel",
       "skin": "Arcane Councilor",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Milio",
@@ -5075,7 +5070,7 @@
     {
       "champion": "Milio",
       "skin": "Rain Shepherd",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Miss Fortune",
@@ -5175,17 +5170,17 @@
     {
       "champion": "Miss Fortune",
       "skin": "Porcelain",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Miss Fortune",
       "skin": "Admiral Battle Bunny",
-      "tier": "Not rated"
+      "tier": "B"
     },
     {
       "champion": "Miss Fortune",
       "skin": "Battle Queen",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Mordekaiser",
@@ -5250,7 +5245,7 @@
     {
       "champion": "Mordekaiser",
       "skin": "Sahn-Uzal",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Morgana",
@@ -5330,7 +5325,7 @@
     {
       "champion": "Morgana",
       "skin": "Porcelain",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Naafiri",
@@ -5345,12 +5340,12 @@
     {
       "champion": "Naafiri",
       "skin": "PROJECT",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Naafiri",
       "skin": "Glizzy",
-      "tier": "Not rated"
+      "tier": "E"
     },
     {
       "champion": "Nami",
@@ -5420,7 +5415,7 @@
     {
       "champion": "Nami",
       "skin": "Mythmaker",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Nasus",
@@ -5490,7 +5485,7 @@
     {
       "champion": "Nasus",
       "skin": "Fatemaker",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Nautilus",
@@ -5545,7 +5540,7 @@
     {
       "champion": "Nautilus",
       "skin": "Crystalis Indomitus",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Neeko",
@@ -5585,7 +5580,7 @@
     {
       "champion": "Neeko",
       "skin": "Cosplayer",
-      "tier": "Not rated"
+      "tier": "F"
     },
     {
       "champion": "Nidalee",
@@ -5735,7 +5730,7 @@
     {
       "champion": "Nocturne",
       "skin": "Empyrean",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Nunu",
@@ -5800,7 +5795,7 @@
     {
       "champion": "Nunu",
       "skin": "Fright Night",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Olaf",
@@ -5860,7 +5855,7 @@
     {
       "champion": "Olaf",
       "skin": "Infernal",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Orianna",
@@ -5925,7 +5920,7 @@
     {
       "champion": "Orianna",
       "skin": "T1",
-      "tier": "Not rated"
+      "tier": "S"
     },
     {
       "champion": "Ornn",
@@ -5950,7 +5945,7 @@
     {
       "champion": "Ornn",
       "skin": "Choo-Choo",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Pantheon",
@@ -6020,7 +6015,7 @@
     {
       "champion": "Pantheon",
       "skin": "Chosen of the Wolf",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Poppy",
@@ -6140,7 +6135,7 @@
     {
       "champion": "Pyke",
       "skin": "Fright Night",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Qiyana",
@@ -6185,7 +6180,7 @@
     {
       "champion": "Qiyana",
       "skin": "Prestige Battle Academia",
-      "tier": "Not rated"
+      "tier": "hohes C"
     },
     {
       "champion": "Quinn",
@@ -6285,7 +6280,7 @@
     {
       "champion": "Rakan",
       "skin": "Battle Academia",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Rammus",
@@ -6345,7 +6340,7 @@
     {
       "champion": "Rammus",
       "skin": "Durian Defender",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Rek'Sai",
@@ -6375,7 +6370,7 @@
     {
       "champion": "Rek'Sai",
       "skin": "Primordian",
-      "tier": "Not rated"
+      "tier": "A"
     },
     {
       "champion": "Rell",
@@ -6395,12 +6390,12 @@
     {
       "champion": "Rell",
       "skin": "High Noon",
-      "tier": "Not rated"
+      "tier": "C"
     },
     {
       "champion": "Rell",
       "skin": "Grand Reckoning",
-      "tier": "Not rated"
+      "tier": "D"
     },
     {
       "champion": "Renata Glasc",
