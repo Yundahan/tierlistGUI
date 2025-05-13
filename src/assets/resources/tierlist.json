@@ -6738,6 +6738,11 @@
       "tier": "B"
     },
     {
+      "champion": "Ryze",
+      "skin": "Blood Moon Ryze",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Samira",
       "skin": "Classic",
       "tier": "hohes C"
@@ -8798,6 +8803,11 @@
       "tier": "D"
     },
     {
+      "champion": "Vex",
+      "skin": "Stargazer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vi",
       "skin": "Classic",
       "tier": "hohes C"
@@ -9536,6 +9546,11 @@
       "champion": "Yorick",
       "skin": "Dark Star",
       "tier": "B"
+    },
+    {
+      "champion": "Yorick",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Yuumi",
