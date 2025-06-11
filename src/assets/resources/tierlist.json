@@ -3508,6 +3508,16 @@
       "tier": "C"
     },
     {
+      "champion": "Kai'Sa",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Kai'Sa",
+      "skin": "Immortalized Legend",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kalista",
       "skin": "Classic",
       "tier": "D"
@@ -4361,6 +4371,11 @@
       "champion": "Lee Sin",
       "skin": "T1",
       "tier": "C"
+    },
+    {
+      "champion": "Lee Sin",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
     },
     {
       "champion": "Leona",
@@ -5678,6 +5693,11 @@
       "tier": "B"
     },
     {
+      "champion": "Nilah",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nocturne",
       "skin": "Classic",
       "tier": "B"
@@ -6138,6 +6158,11 @@
       "tier": "D"
     },
     {
+      "champion": "Pyke",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Qiyana",
       "skin": "Classic",
       "tier": "C"
@@ -6503,6 +6528,11 @@
       "tier": "B"
     },
     {
+      "champion": "Renekton",
+      "skin": "Inkshadow",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Rengar",
       "skin": "Classic",
       "tier": "A"
@@ -6739,7 +6769,7 @@
     },
     {
       "champion": "Ryze",
-      "skin": "Blood Moon Ryze",
+      "skin": "Blood Moon",
       "tier": "Not rated"
     },
     {
@@ -8671,6 +8701,11 @@
       "champion": "Vayne",
       "skin": "Dragonmancer",
       "tier": "A"
+    },
+    {
+      "champion": "Vayne",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
     },
     {
       "champion": "Veigar",
