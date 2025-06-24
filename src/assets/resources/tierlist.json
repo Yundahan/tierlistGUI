@@ -443,6 +443,11 @@
       "tier": "C"
     },
     {
+      "champion": "Akali",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akshan",
       "skin": "Classic",
       "tier": "C"
@@ -2873,6 +2878,11 @@
       "tier": "C"
     },
     {
+      "champion": "Hwei",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Illaoi",
       "skin": "Classic",
       "tier": "D"
@@ -3623,6 +3633,11 @@
       "tier": "C"
     },
     {
+      "champion": "Karma",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Karthus",
       "skin": "Classic",
       "tier": "A"
@@ -3901,6 +3916,11 @@
       "champion": "Kayle",
       "skin": "Prestige Empyrean",
       "tier": "A"
+    },
+    {
+      "champion": "Kayle",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayn",
@@ -5343,6 +5363,11 @@
       "tier": "A"
     },
     {
+      "champion": "Morgana",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Naafiri",
       "skin": "Classic",
       "tier": "C"
@@ -5676,6 +5701,11 @@
       "champion": "Nidalee",
       "skin": "La Ilusi\u00f3n",
       "tier": "A"
+    },
+    {
+      "champion": "Nidalee",
+      "skin": "Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Nilah",
@@ -9736,6 +9766,11 @@
       "champion": "Zed",
       "skin": "Quantum Galaxy Slayer",
       "tier": "B"
+    },
+    {
+      "champion": "Zed",
+      "skin": "Prestige Spirit Blossom",
+      "tier": "Not rated"
     },
     {
       "champion": "Zeri",
