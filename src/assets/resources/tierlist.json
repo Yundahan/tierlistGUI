@@ -177,6 +177,7 @@
     "Yasuo",
     "Yone",
     "Yorick",
+    "Yunara",
     "Yuumi",
     "Zac",
     "Zed",
@@ -2818,6 +2819,11 @@
       "tier": "B"
     },
     {
+      "champion": "Hecarim",
+      "skin": "Nightbringer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Heimerdinger",
       "skin": "Classic",
       "tier": "B"
@@ -3556,6 +3562,11 @@
       "champion": "Kalista",
       "skin": "Faerie Court",
       "tier": "B"
+    },
+    {
+      "champion": "Kalista",
+      "skin": "Dawnbringer",
+      "tier": "Not rated"
     },
     {
       "champion": "Karma",
@@ -9618,6 +9629,16 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Yunara",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Yunara",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yuumi",
       "skin": "Classic",
       "tier": "hohes C"
@@ -9661,6 +9682,11 @@
       "champion": "Yuumi",
       "skin": "Prestige Cyber Cat",
       "tier": "C"
+    },
+    {
+      "champion": "Yuumi",
+      "skin": "Nightbringer",
+      "tier": "Not rated"
     },
     {
       "champion": "Zac",
