@@ -344,6 +344,16 @@
       "tier": "S"
     },
     {
+      "champion": "Ahri",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Ahri",
+      "skin": "After Hours Spirit Blossom Springs",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akali",
       "skin": "Classic",
       "tier": "B"
@@ -812,6 +822,11 @@
       "champion": "Aphelios",
       "skin": "HEARTSTEEL",
       "tier": "E"
+    },
+    {
+      "champion": "Aphelios",
+      "skin": "Prestige Spirit Blossom Springs",
+      "tier": "Not rated"
     },
     {
       "champion": "Ashe",
@@ -7064,6 +7079,11 @@
       "tier": "A"
     },
     {
+      "champion": "Sett",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shaco",
       "skin": "Classic",
       "tier": "C"
@@ -7584,6 +7604,11 @@
       "tier": "SS"
     },
     {
+      "champion": "Sona",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Soraka",
       "skin": "Classic",
       "tier": "D"
@@ -8077,6 +8102,11 @@
       "champion": "Teemo",
       "skin": "Space Groove",
       "tier": "F"
+    },
+    {
+      "champion": "Teemo",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
     },
     {
       "champion": "Thresh",
@@ -9142,6 +9172,11 @@
       "champion": "Volibear",
       "skin": "Inkshadow",
       "tier": "B"
+    },
+    {
+      "champion": "Volibear",
+      "skin": "Spirit Blossom Springs",
+      "tier": "Not rated"
     },
     {
       "champion": "Warwick",
