@@ -1574,6 +1574,11 @@
       "tier": "C"
     },
     {
+      "champion": "Corki",
+      "skin": "Brick Toy",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Darius",
       "skin": "Classic",
       "tier": "A"
@@ -2292,6 +2297,11 @@
       "champion": "Fiora",
       "skin": "Battle Queen",
       "tier": "C"
+    },
+    {
+      "champion": "Fiora",
+      "skin": "Victorious",
+      "tier": "Not rated"
     },
     {
       "champion": "Fizz",
@@ -4537,6 +4547,11 @@
       "champion": "Lillia",
       "skin": "Faerie Court",
       "tier": "A"
+    },
+    {
+      "champion": "Lillia",
+      "skin": "Bowling League",
+      "tier": "Not rated"
     },
     {
       "champion": "Lissandra",
