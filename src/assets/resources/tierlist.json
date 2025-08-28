@@ -554,6 +554,11 @@
       "tier": "C"
     },
     {
+      "champion": "Alistar",
+      "skin": "Elderwood",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ambessa",
       "skin": "Classic",
       "tier": "C"
@@ -2564,6 +2569,11 @@
       "tier": "C"
     },
     {
+      "champion": "Garen",
+      "skin": "Visions of the Fallen",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gnar",
       "skin": "Classic",
       "tier": "S"
@@ -3204,6 +3214,11 @@
       "tier": "B"
     },
     {
+      "champion": "Jarvan IV",
+      "skin": "Prestige Visions of the Fallen",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jax",
       "skin": "Classic",
       "tier": "C"
@@ -3407,6 +3422,11 @@
       "champion": "Jhin",
       "skin": "Mythmaker",
       "tier": "A"
+    },
+    {
+      "champion": "Jhin",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Jinx",
@@ -4732,6 +4752,11 @@
       "champion": "Lulu",
       "skin": "Cafe Cuties",
       "tier": "D"
+    },
+    {
+      "champion": "Lulu",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Lux",
@@ -8392,6 +8417,11 @@
       "champion": "Tryndamere",
       "skin": "Victorious",
       "tier": "A"
+    },
+    {
+      "champion": "Tryndamere",
+      "skin": "Visions of the Fallen",
+      "tier": "Not rated"
     },
     {
       "champion": "Twisted Fate",
