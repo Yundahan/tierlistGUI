@@ -2624,6 +2624,11 @@
       "tier": "E"
     },
     {
+      "champion": "Gnar",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gragas",
       "skin": "Classic",
       "tier": "D"
@@ -6259,6 +6264,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Pyke",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Qiyana",
       "skin": "Classic",
       "tier": "C"
@@ -7829,6 +7839,11 @@
       "tier": "E"
     },
     {
+      "champion": "Sylas",
+      "skin": "Prestige T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Syndra",
       "skin": "Classic",
       "tier": "B"
@@ -8734,6 +8749,11 @@
       "tier": "C"
     },
     {
+      "champion": "Varus",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vayne",
       "skin": "Classic",
       "tier": "D"
@@ -9022,6 +9042,11 @@
       "champion": "Vi",
       "skin": "Arcane Brawler",
       "tier": "B"
+    },
+    {
+      "champion": "Vi",
+      "skin": "T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Viego",
@@ -9657,6 +9682,11 @@
       "champion": "Yone",
       "skin": "Masked Justice",
       "tier": "B"
+    },
+    {
+      "champion": "Yone",
+      "skin": "T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Yorick",

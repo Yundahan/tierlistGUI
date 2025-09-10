@@ -440,7 +440,8 @@
     "Time Machine Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin04/images/zilean_splash_uncentered_4.jpg",
     "Blood Moon Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin05/images/zilean_splash_uncentered_5.jpg",
     "Sugar Rush Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin06/images/zilean_splash_uncentered_6.jpg",
-    "Winterblessed Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin14/images/zilean_splash_uncentered_14.jpg"
+    "Winterblessed Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin14/images/zilean_splash_uncentered_14.jpg",
+    "Arcana Zilean": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_uncentered_24.skins_zilean_skin24.jpg"
   },
   "Singed": {
     "Classic Singed": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/base/images/singed_splash_uncentered_0.jpg",
@@ -504,7 +505,8 @@
     "Karthus Lightsbane Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin09/images/karthus_splash_uncentered_9.jpg",
     "Infernal Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin10/images/karthus_splash_uncentered_10.jpg",
     "Pentakill III: Lost Chapter Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin17/images/karthus_splash_uncentered_17.jpg",
-    "Elderwood Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin26/images/karthus_splash_uncentered_26.jpg"
+    "Elderwood Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin26/images/karthus_splash_uncentered_26.jpg",
+    "Arcana Karthus": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin35/images/karthus_splash_uncentered_35.skins_karthus_skin35.jpg"
   },
   "Cho'Gath": {
     "Classic Cho'Gath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/base/images/chogath_splash_uncentered_0.jpg",
@@ -1511,7 +1513,8 @@
     "Death Sworn Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin04/images/viktor_splash_uncentered_4.viktorvgu.jpg",
     "PsyOps Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin05/images/viktor_splash_uncentered_5.viktorvgu.jpg",
     "High Noon Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin14/images/viktor_splash_uncentered_14.viktorvgu.jpg",
-    "Arcane Savior Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin24/images/viktor_splash_uncentered_24.skins_viktorrework_skin24.jpg"
+    "Arcane Savior Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin24/images/viktor_splash_uncentered_24.skins_viktorrework_skin24.jpg",
+    "Machine Herald Viktor": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin25/images/viktor_splash_uncentered_25.skins_viktor_skin25.jpg"
   },
   "Sejuani": {
     "Classic Sejuani": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/base/images/sejuani_splash_uncentered_0.jpg",
@@ -2323,7 +2326,8 @@
   },
   "Aurora": {
     "Classic Aurora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/base/images/aurora_splash_uncentered_0.aurora.jpg",
-    "Battle Bunny Aurora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin01/images/aurora_splash_uncentered_1.aurora.jpg"
+    "Battle Bunny Aurora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin01/images/aurora_splash_uncentered_1.aurora.jpg",
+    "Arcana Aurora": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin11/images/aurora_splash_uncentered_11.skins_aurora_skin11.jpg"
   },
   "Nilah": {
     "Classic Nilah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/base/images/nilah_splash_uncentered_0.jpg",
