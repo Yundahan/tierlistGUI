@@ -974,6 +974,11 @@
       "tier": "C"
     },
     {
+      "champion": "Aurora",
+      "skin": "Arcana",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Azir",
       "skin": "Classic",
       "tier": "A"
@@ -3747,6 +3752,11 @@
       "champion": "Karthus",
       "skin": "Elderwood",
       "tier": "A"
+    },
+    {
+      "champion": "Karthus",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Kassadin",
@@ -10037,6 +10047,11 @@
       "champion": "Zilean",
       "skin": "Winterblessed",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Zilean",
+      "skin": "Arcana",
+      "tier": "Not rated"
     },
     {
       "champion": "Zoe",
