@@ -2229,6 +2229,11 @@
       "tier": "B"
     },
     {
+      "champion": "Fiddlesticks",
+      "skin": "Flora Fatalis",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Fiora",
       "skin": "Classic",
       "tier": "C"
@@ -4632,6 +4637,11 @@
       "champion": "Lissandra",
       "skin": "Prestige Porcelain",
       "tier": "S"
+    },
+    {
+      "champion": "Lissandra",
+      "skin": "Flora Fatalis",
+      "tier": "Not rated"
     },
     {
       "champion": "Lucian",
@@ -7754,6 +7764,11 @@
       "tier": "A"
     },
     {
+      "champion": "Soraka",
+      "skin": "Flora Fatalis",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Swain",
       "skin": "Classic",
       "tier": "hohes C"
@@ -9547,6 +9562,11 @@
       "champion": "Xin Zhao",
       "skin": "Firecracker",
       "tier": "C"
+    },
+    {
+      "champion": "Xin Zhao",
+      "skin": "Trials of Twilight",
+      "tier": "Not rated"
     },
     {
       "champion": "Yasuo",
