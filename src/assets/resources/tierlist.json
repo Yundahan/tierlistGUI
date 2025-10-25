@@ -5714,6 +5714,11 @@
       "tier": "F"
     },
     {
+      "champion": "Neeko",
+      "skin": "Beeko",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nidalee",
       "skin": "Classic",
       "tier": "B"
@@ -7587,6 +7592,11 @@
       "champion": "Skarner",
       "skin": "Cosmic Sting",
       "tier": "C"
+    },
+    {
+      "champion": "Skarner",
+      "skin": "Mecha Kingdoms",
+      "tier": "Not rated"
     },
     {
       "champion": "Smolder",
@@ -10117,6 +10127,11 @@
       "champion": "Zoe",
       "skin": "Dark Star",
       "tier": "D"
+    },
+    {
+      "champion": "Zoe",
+      "skin": "Prestige Eternal Aspect",
+      "tier": "Not rated"
     },
     {
       "champion": "Zyra",
