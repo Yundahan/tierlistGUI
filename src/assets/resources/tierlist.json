@@ -1664,6 +1664,11 @@
       "tier": "E"
     },
     {
+      "champion": "Darius",
+      "skin": "Mecha Kingdoms",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Diana",
       "skin": "Classic",
       "tier": "B"
@@ -4887,6 +4892,11 @@
       "champion": "Lux",
       "skin": "Prestige Spirit Blossom",
       "tier": "S"
+    },
+    {
+      "champion": "Lux",
+      "skin": "Panda Pal",
+      "tier": "Not rated"
     },
     {
       "champion": "Malphite",
@@ -9159,6 +9169,11 @@
       "tier": "A"
     },
     {
+      "champion": "Viktor",
+      "skin": "Machine Herald",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Vladimir",
       "skin": "Classic",
       "tier": "hohes C"
@@ -9407,6 +9422,11 @@
       "champion": "Wukong",
       "skin": "Elderwood",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Wukong",
+      "skin": "Mecha Kingdoms",
+      "tier": "Not rated"
     },
     {
       "champion": "Xayah",
