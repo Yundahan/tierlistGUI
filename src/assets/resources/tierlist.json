@@ -179,6 +179,7 @@
     "Yorick",
     "Yunara",
     "Yuumi",
+    "Zaahen",
     "Zac",
     "Zed",
     "Zeri",
@@ -2812,6 +2813,11 @@
       "champion": "Gwen",
       "skin": "Battle Queen",
       "tier": "S"
+    },
+    {
+      "champion": "Gwen",
+      "skin": "Rain Shepherd",
+      "tier": "Not rated"
     },
     {
       "champion": "Hecarim",
@@ -8369,6 +8375,11 @@
       "tier": "C"
     },
     {
+      "champion": "Tristana",
+      "skin": "Rain Shepherd",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Trundle",
       "skin": "Classic",
       "tier": "C"
@@ -9856,6 +9867,16 @@
     {
       "champion": "Yuumi",
       "skin": "Nightbringer",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zaahen",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Zaahen",
+      "skin": "Immortal Journey",
       "tier": "Not rated"
     },
     {
