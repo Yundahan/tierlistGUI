@@ -4725,6 +4725,11 @@
       "tier": "D"
     },
     {
+      "champion": "Lucian",
+      "skin": "Sunken Shadows",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lulu",
       "skin": "Classic",
       "tier": "D"
@@ -5200,6 +5205,11 @@
       "tier": "A"
     },
     {
+      "champion": "Mel",
+      "skin": "Prestige Winterblessed",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Milio",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5213,6 +5223,11 @@
       "champion": "Milio",
       "skin": "Rain Shepherd",
       "tier": "B"
+    },
+    {
+      "champion": "Milio",
+      "skin": "Winter Wonder",
+      "tier": "Not rated"
     },
     {
       "champion": "Miss Fortune",
@@ -5563,6 +5578,11 @@
       "champion": "Nami",
       "skin": "Mythmaker",
       "tier": "A"
+    },
+    {
+      "champion": "Nami",
+      "skin": "Sunken Shadows",
+      "tier": "Not rated"
     },
     {
       "champion": "Nasus",
@@ -7623,6 +7643,11 @@
       "champion": "Smolder",
       "skin": "Heavenscale",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Smolder",
+      "skin": "Reindeer",
+      "tier": "Not rated"
     },
     {
       "champion": "Sona",
@@ -10018,6 +10043,11 @@
       "champion": "Zeri",
       "skin": "Prestige Fright Night",
       "tier": "S"
+    },
+    {
+      "champion": "Zeri",
+      "skin": "Winter Wonder",
+      "tier": "Not rated"
     },
     {
       "champion": "Ziggs",
