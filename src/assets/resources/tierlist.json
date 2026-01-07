@@ -1530,6 +1530,11 @@
       "tier": "D"
     },
     {
+      "champion": "Cho'Gath",
+      "skin": "Petricite",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Corki",
       "skin": "Classic",
       "tier": "D"
@@ -5490,6 +5495,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Morgana",
+      "skin": "Prestige Veiled Lady",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Naafiri",
       "skin": "Classic",
       "tier": "C"
@@ -5708,6 +5718,11 @@
       "champion": "Nautilus",
       "skin": "Crystalis Indomitus",
       "tier": "A"
+    },
+    {
+      "champion": "Nautilus",
+      "skin": "Petricite",
+      "tier": "Not rated"
     },
     {
       "champion": "Neeko",
@@ -8053,6 +8068,11 @@
       "champion": "Taliyah",
       "skin": "Crystalis Motus",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Taliyah",
+      "skin": "Durand's Legacy",
+      "tier": "Not rated"
     },
     {
       "champion": "Talon",

@@ -43,7 +43,8 @@
     "Birdio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin06/images/galio_splash_uncentered_6.jpg",
     "Infernal Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin13/images/galio_splash_uncentered_13.jpg",
     "Dragon Guardian Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin19/images/galio_splash_uncentered_19.jpg",
-    "Mythmaker Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin28/images/galio_splash_uncentered_28.jpg"
+    "Mythmaker Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin28/images/galio_splash_uncentered_28.jpg",
+    "Aegis Frame Galio": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_uncentered_40.skins_galio_skin40.jpg"
   },
   "Twisted Fate": {
     "Classic Twisted Fate": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_uncentered_0.jpg",
@@ -1947,7 +1948,8 @@
   "Briar": {
     "Classic Briar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/base/images/briar_splash_uncentered_0.jpg",
     "Street Demons Briar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin01/images/briar_splash_uncentered_1.jpg",
-    "Primordian Briar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin10/images/briar_splash_uncentered_10.skins_briar_skin10.jpg"
+    "Primordian Briar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin10/images/briar_splash_uncentered_10.skins_briar_skin10.jpg",
+    "Battle Academia Briar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_uncentered_20.skins_briar_skin20.jpg"
   },
   "Viego": {
     "Classic Viego": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_uncentered_0.jpg",
@@ -2115,7 +2117,8 @@
     "Space Groove Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin10/images/samira_splash_uncentered_10.jpg",
     "High Noon Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin20/images/samira_splash_uncentered_20.jpg",
     "Soul Fighter Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin30/images/samira_splash_uncentered_30.jpg",
-    "Masque of the Black Rose Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin33/images/samira_splash_uncentered_33.skins_samira_care_skin33.jpg"
+    "Masque of the Black Rose Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin33/images/samira_splash_uncentered_33.skins_samira_care_skin33.jpg",
+    "Battle Professor Samira": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin35/images/samira_splash_uncentered_35.skins_samira_skin35.jpg"
   },
   "Thresh": {
     "Classic Thresh": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/base/images/thresh_splash_uncentered_0.jpg",
@@ -2215,7 +2218,8 @@
     "Thunder Lord Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin01/images/ornn_splash_uncentered_1.jpg",
     "Elderwood Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin02/images/ornn_splash_uncentered_2.jpg",
     "Space Groove Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin11/images/ornn_splash_uncentered_11.jpg",
-    "Choo-Choo Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin20/images/ornn_splash_uncentered_20.jpg"
+    "Choo-Choo Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin20/images/ornn_splash_uncentered_20.jpg",
+    "Aegis Frame Ornn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin29/images/ornn_splash_uncentered_29.skins_ornn_skin29.jpg"
   },
   "Sylas": {
     "Classic Sylas": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/base/images/sylas_splash_uncentered_0.jpg",
