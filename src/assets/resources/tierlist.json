@@ -1290,6 +1290,11 @@
       "tier": "E"
     },
     {
+      "champion": "Briar",
+      "skin": "Battle Academia",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Caitlyn",
       "skin": "Classic",
       "tier": "B"
@@ -2443,6 +2448,11 @@
       "champion": "Galio",
       "skin": "Mythmaker",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Galio",
+      "skin": "Aegis Frame",
+      "tier": "Not rated"
     },
     {
       "champion": "Gangplank",
@@ -6145,6 +6155,11 @@
       "tier": "D"
     },
     {
+      "champion": "Ornn",
+      "skin": "Aegis Frame",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Pantheon",
       "skin": "Classic",
       "tier": "SS"
@@ -6983,6 +6998,11 @@
       "champion": "Samira",
       "skin": "Masque of the Black Rose",
       "tier": "A"
+    },
+    {
+      "champion": "Samira",
+      "skin": "Battle Professor",
+      "tier": "Not rated"
     },
     {
       "champion": "Sejuani",
@@ -9183,6 +9203,11 @@
       "champion": "Viego",
       "skin": "Worlds 2024",
       "tier": "A"
+    },
+    {
+      "champion": "Viego",
+      "skin": "Revenant Reign",
+      "tier": "Not rated"
     },
     {
       "champion": "Viktor",
