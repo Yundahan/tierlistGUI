@@ -935,6 +935,11 @@
       "tier": "A"
     },
     {
+      "champion": "Ashe",
+      "skin": "Firecracker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurelion Sol",
       "skin": "Classic",
       "tier": "C"
@@ -1388,6 +1393,11 @@
       "champion": "Caitlyn",
       "skin": "Prestige Arcane Commander",
       "tier": "C"
+    },
+    {
+      "champion": "Caitlyn",
+      "skin": "Firecracker",
+      "tier": "Not rated"
     },
     {
       "champion": "Camille",
@@ -6300,6 +6310,11 @@
       "tier": "C"
     },
     {
+      "champion": "Poppy",
+      "skin": "Firecracker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Pyke",
       "skin": "Classic",
       "tier": "A"
@@ -7178,6 +7193,11 @@
       "champion": "Seraphine",
       "skin": "Battle Dove",
       "tier": "A"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Firecracker",
+      "tier": "Not rated"
     },
     {
       "champion": "Sett",
@@ -9945,6 +9965,11 @@
       "tier": "Not rated"
     },
     {
+      "champion": "Yuumi",
+      "skin": "Firecracker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Zaahen",
       "skin": "Classic",
       "tier": "Not rated"
@@ -10158,6 +10183,11 @@
       "champion": "Ziggs",
       "skin": "La Ilusi\u00f3n",
       "tier": "F"
+    },
+    {
+      "champion": "Ziggs",
+      "skin": "Firecracker",
+      "tier": "Not rated"
     },
     {
       "champion": "Zilean",
