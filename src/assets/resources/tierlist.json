@@ -970,6 +970,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Aurelion Sol",
+      "skin": "Divine Architect Porcelain",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aurora",
       "skin": "Classic",
       "tier": "C"
@@ -1438,6 +1443,11 @@
       "champion": "Camille",
       "skin": "Prestige Winterblessed",
       "tier": "A"
+    },
+    {
+      "champion": "Camille",
+      "skin": "Petals of Spring",
+      "tier": "Not rated"
     },
     {
       "champion": "Cassiopeia",
@@ -3420,6 +3430,11 @@
       "tier": "B"
     },
     {
+      "champion": "Jayce",
+      "skin": "Petals of Spring",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jhin",
       "skin": "Classic",
       "tier": "A"
@@ -3948,6 +3963,11 @@
       "champion": "Katarina",
       "skin": "Prestige Masque of the Black Rose",
       "tier": "S"
+    },
+    {
+      "champion": "Katarina",
+      "skin": "Petals of Spring",
+      "tier": "Not rated"
     },
     {
       "champion": "Kayle",
@@ -4632,6 +4652,11 @@
     {
       "champion": "Lillia",
       "skin": "Bowling League",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Lillia",
+      "skin": "Petals of Spring",
       "tier": "Not rated"
     },
     {
@@ -9793,6 +9818,11 @@
       "champion": "Yasuo",
       "skin": "Genesis Nightbringer",
       "tier": "A"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "Petals of Spring",
+      "tier": "Not rated"
     },
     {
       "champion": "Yone",
