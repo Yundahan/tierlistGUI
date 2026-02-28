@@ -10,7 +10,7 @@ export const tierDict: TierDict = {
     'D': 6,
     'E': 7,
     'F': 8,
-    'F-': 9,
+    'L': 9,
     'Mitleids-SS': 10,
     'AYAYA': 11,
     'Not rated': 12
@@ -26,7 +26,7 @@ export const tiers = [
     'D',
     'E',
     'F',
-    'F-',
+    'L',
     'Mitleids-SS',
     'AYAYA',
     'Not rated'
@@ -42,7 +42,7 @@ export const tierToColor = {
     'D': 'mediumseagreen',
     'E': 'mediumturquoise',
     'F': 'dodgerblue',
-    'F-': 'royalblue',
+    'L': 'royalblue',
     'Mitleids-SS': 'purple',
     'AYAYA': 'fuchsia',
     'Not rated': 'grey'
