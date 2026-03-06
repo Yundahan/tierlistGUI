@@ -5165,6 +5165,11 @@
       "tier": "D"
     },
     {
+      "champion": "Maokai",
+      "skin": "Corrupted Petricite",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Master Yi",
       "skin": "Classic",
       "tier": "D"
@@ -7815,6 +7820,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Sona",
+      "skin": "Prestige Requiem",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Soraka",
       "skin": "Classic",
       "tier": "D"
@@ -9668,6 +9678,11 @@
       "champion": "Xerath",
       "skin": "Crystalis Indomitus",
       "tier": "B"
+    },
+    {
+      "champion": "Xerath",
+      "skin": "Corrupted Petricite",
+      "tier": "Not rated"
     },
     {
       "champion": "Xin Zhao",
