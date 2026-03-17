@@ -5575,6 +5575,11 @@
       "tier": "E"
     },
     {
+      "champion": "Naafiri",
+      "skin": "Warhound",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Nami",
       "skin": "Classic",
       "tier": "hohes C"
@@ -7173,6 +7178,11 @@
       "champion": "Senna",
       "skin": "Masked Justice",
       "tier": "B"
+    },
+    {
+      "champion": "Senna",
+      "skin": "Warhound",
+      "tier": "Not rated"
     },
     {
       "champion": "Seraphine",
@@ -9518,6 +9528,11 @@
       "champion": "Warwick",
       "skin": "Arcane Vander",
       "tier": "B"
+    },
+    {
+      "champion": "Warwick",
+      "skin": "Warhound",
+      "tier": "Not rated"
     },
     {
       "champion": "Wukong",
