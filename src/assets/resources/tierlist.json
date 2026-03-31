@@ -1175,6 +1175,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Blitzcrank",
+      "skin": "Bubble Bash",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Brand",
       "skin": "Classic",
       "tier": "B"
@@ -5465,6 +5470,11 @@
       "tier": "C"
     },
     {
+      "champion": "Mordekaiser",
+      "skin": "Prestige Money Miser",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Morgana",
       "skin": "Classic",
       "tier": "A"
@@ -7125,6 +7135,11 @@
       "tier": "S"
     },
     {
+      "champion": "Sejuani",
+      "skin": "Pug Trainer",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Senna",
       "skin": "Classic",
       "tier": "C"
@@ -7975,6 +7990,11 @@
       "tier": "A"
     },
     {
+      "champion": "Swain",
+      "skin": "Fried Chicken King",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sylas",
       "skin": "Classic",
       "tier": "D"
@@ -8128,6 +8148,11 @@
       "champion": "Tahm Kench",
       "skin": "Shan Hai Scrolls",
       "tier": "C"
+    },
+    {
+      "champion": "Tahm Kench",
+      "skin": "Choncc",
+      "tier": "Not rated"
     },
     {
       "champion": "Taliyah",
@@ -9168,6 +9193,11 @@
       "champion": "Vex",
       "skin": "Stargazer",
       "tier": "C"
+    },
+    {
+      "champion": "Vex",
+      "skin": "Surprise Party",
+      "tier": "Not rated"
     },
     {
       "champion": "Vi",
