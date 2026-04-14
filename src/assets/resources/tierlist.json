@@ -5260,6 +5260,11 @@
       "tier": "C"
     },
     {
+      "champion": "Master Yi",
+      "skin": "PROJECT: Command Line",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Mel",
       "skin": "Classic",
       "tier": "A"
@@ -7715,6 +7720,11 @@
       "tier": "C"
     },
     {
+      "champion": "Sivir",
+      "skin": "PROJECT",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Skarner",
       "skin": "Classic",
       "tier": "A"
@@ -9425,6 +9435,11 @@
       "tier": "C"
     },
     {
+      "champion": "Vladimir",
+      "skin": "PsyOps",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Volibear",
       "skin": "Classic",
       "tier": "A"
@@ -10103,6 +10118,11 @@
       "champion": "Zac",
       "skin": "Zesty Dip",
       "tier": "E"
+    },
+    {
+      "champion": "Zac",
+      "skin": "Space Groove",
+      "tier": "Not rated"
     },
     {
       "champion": "Zed",

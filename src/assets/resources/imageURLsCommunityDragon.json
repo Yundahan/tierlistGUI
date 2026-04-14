@@ -119,7 +119,8 @@
     "Cosmic Devourer Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin21/images/vladimir_splash_uncentered_21.jpg",
     "Cafe Cuties Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin30/images/vladimir_splash_uncentered_30.jpg",
     "Broken Covenant Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin39/images/vladimir_splash_uncentered_39.jpg",
-    "Masque of the Black Rose Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/images/vladimir_splash_uncentered_48.skins_vladimir_care_skin48.jpg"
+    "Masque of the Black Rose Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/images/vladimir_splash_uncentered_48.skins_vladimir_care_skin48.jpg",
+    "PsyOps Vladimir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_uncentered_49.skins_vladimir_skin49.jpg"
   },
   "Fiddlesticks": {
     "Classic Fiddlesticks": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/images/fiddlesticks_splash_uncentered_0.jpg",
@@ -174,7 +175,9 @@
     "Prestige Spirit Blossom Master Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/images/masteryi_splash_uncentered_53.jpg",
     "Inkshadow Master Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin89/images/masteryi_splash_uncentered_89.jpg",
     "Heavenscale Master Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/images/masteryi_splash_uncentered_96.jpg",
-    "Victorious Master Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_uncentered_106.skins_masteryi_skin106.jpg"
+    "Victorious Master Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_uncentered_106.skins_masteryi_skin106.jpg",
+    "PROJECT: Command Line Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.skins_masteryi_skin116.jpg",
+    "PROJECT Command Line Yi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.skins_masteryi_skin116.jpg"
   },
   "Alistar": {
     "Classic Alistar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/base/images/alistar_splash_uncentered_0.jpg",
@@ -243,7 +246,8 @@
     "Mythmaker Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin50/images/sivir_splash_uncentered_50.jpg",
     "Prestige Mythmaker Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin51/images/sivir_splash_uncentered_51.jpg",
     "Primal Ambush Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin61/images/sivir_splash_uncentered_61.jpg",
-    "Ann-Sivir-sary": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_uncentered_70.skins_sivir_skin70.jpg"
+    "Ann-Sivir-sary": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_uncentered_70.skins_sivir_skin70.jpg",
+    "PROJECT Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_uncentered_72.skins_sivir_skin72.jpg"
   },
   "Soraka": {
     "Classic Soraka": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_uncentered_0.jpg",
@@ -1827,7 +1831,8 @@
     "SKT T1 Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin06/images/zac_splash_uncentered_6.jpg",
     "Battlecast Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin07/images/zac_splash_uncentered_7.jpg",
     "Empyrean Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin14/images/zac_splash_uncentered_14.jpg",
-    "Zesty Dip Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin24/images/zac_splash_uncentered_24.jpg"
+    "Zesty Dip Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin24/images/zac_splash_uncentered_24.jpg",
+    "Space Groove Zac": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_uncentered_33.skins_zac_skin33.jpg"
   },
   "Yasuo": {
     "Classic Yasuo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/base/images/yasuo_splash_uncentered_0.jpg",
@@ -1900,7 +1905,8 @@
     "Crime City Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin11/images/braum_splash_uncentered_11.jpg",
     "Sugar Rush Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin24/images/braum_splash_uncentered_24.jpg",
     "Pool Party Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin33/images/braum_splash_uncentered_33.jpg",
-    "Grill Master Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_uncentered_42.skins_braum_skin42.jpg"
+    "Grill Master Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_uncentered_42.skins_braum_skin42.jpg",
+    "Victorious Braum": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_uncentered_51.skins_braum_skin51.jpg"
   },
   "Jhin": {
     "Classic Jhin": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/base/images/jhin_splash_uncentered_0.jpg",
