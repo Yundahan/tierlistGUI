@@ -800,6 +800,11 @@
       "tier": "B"
     },
     {
+      "champion": "Annie",
+      "skin": "Pandemonium",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Aphelios",
       "skin": "Classic",
       "tier": "C"
@@ -4250,6 +4255,11 @@
       "tier": "B"
     },
     {
+      "champion": "Kindred",
+      "skin": "Pandemonium",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kled",
       "skin": "Classic",
       "tier": "D"
@@ -7395,6 +7405,11 @@
       "tier": "F"
     },
     {
+      "champion": "Shaco",
+      "skin": "Prestige Pandemonium",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shen",
       "skin": "Classic",
       "tier": "A"
@@ -9068,6 +9083,11 @@
       "champion": "Vayne",
       "skin": "Risen Legend",
       "tier": "B"
+    },
+    {
+      "champion": "Vayne",
+      "skin": "Demoncursed",
+      "tier": "Not rated"
     },
     {
       "champion": "Veigar",

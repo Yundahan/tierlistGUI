@@ -17,7 +17,8 @@
     "Cafe Cuties Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_uncentered_22.jpg",
     "Fright Night Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
     "Winterblessed Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
-    "Battle Princess Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.skins_annie_skin50.jpg"
+    "Battle Princess Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.skins_annie_skin50.jpg",
+    "Pandemonium Annie": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_uncentered_59.skins_annie_skin59.jpg"
   },
   "Olaf": {
     "Classic Olaf": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/base/images/olaf_splash_uncentered_0.jpg",
@@ -594,7 +595,8 @@
     "Soul Fighter Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin43/images/shaco_splash_uncentered_43.jpg",
     "Prestige Soul Fighter Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin44/images/shaco_splash_uncentered_44.jpg",
     "Fright Night Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin54/images/shaco_splash_uncentered_54.skins_shaco_skin54.jpg",
-    "Cat-in-the-Box Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/images/shaco_splash_uncentered_64.skins_shaco_skin64.jpg"
+    "Cat-in-the-Box Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/images/shaco_splash_uncentered_64.skins_shaco_skin64.jpg",
+    "Prestige Pandemonium Shaco": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_uncentered_71.skins_shaco_skin71.jpg"
   },
   "Dr. Mundo": {
     "Classic Dr. Mundo": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/base/images/drmundo_splash_uncentered_0.jpg",
@@ -1016,7 +1018,8 @@
     "Prestige Firecracker Vayne (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_uncentered_13.jpg",
     "Dawnbringer Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin44/images/vayne_splash_uncentered_44.jpg",
     "Dragonmancer Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin55/images/vayne_splash_uncentered_55.jpg",
-    "Risen Legend Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_uncentered_64.skins_vayne_skin64.jpg"
+    "Risen Legend Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_uncentered_64.skins_vayne_skin64.jpg",
+    "Demoncursed Vayne": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_uncentered_67.skins_vayne_skin67.jpg"
   },
   "Rumble": {
     "Classic Rumble": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/base/images/rumble_splash_uncentered_0.jpg",
@@ -1715,7 +1718,8 @@
     "Corsair Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin03/images/quinn_splash_uncentered_3.jpg",
     "Heartseeker Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin04/images/quinn_splash_uncentered_4.jpg",
     "Warden Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin05/images/quinn_splash_uncentered_5.jpg",
-    "Star Guardian Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/images/quinn_splash_uncentered_14.jpg"
+    "Star Guardian Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/images/quinn_splash_uncentered_14.jpg",
+    "PROJECT Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_uncentered_24.skins_quinn_skin24.jpg"
   },
   "Syndra": {
     "Classic Syndra": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/base/images/syndra_splash_uncentered_0.jpg",
@@ -1932,7 +1936,8 @@
     "Woof and Lamb Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin22/images/kindred_splash_uncentered_22.jpg",
     "DRX Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin23/images/kindred_splash_uncentered_23.jpg",
     "Prestige Porcelain Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin33/images/kindred_splash_uncentered_33.jpg",
-    "Chosen of the Wolf Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin34/images/kindred_splash_uncentered_34.skins_kindred_skin34.jpg"
+    "Chosen of the Wolf Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin34/images/kindred_splash_uncentered_34.skins_kindred_skin34.jpg",
+    "Pandemonium Kindred": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_uncentered_45.skins_kindred_skin45.jpg"
   },
   "Zeri": {
     "Classic Zeri": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/base/images/zeri_splash_uncentered_0.jpg",
@@ -2189,7 +2194,8 @@
     "Dunkmaster Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin02/images/ivern_splash_uncentered_2.jpg",
     "Old God Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin11/images/ivern_splash_uncentered_11.jpg",
     "Astronaut Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin20/images/ivern_splash_uncentered_20.jpg",
-    "Spirit Blossom Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_uncentered_30.skins_ivern_skin30.jpg"
+    "Spirit Blossom Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_uncentered_30.skins_ivern_skin30.jpg",
+    "Rain Shepherd Ivern": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_uncentered_31.skins_ivern_skin31.jpg"
   },
   "Kalista": {
     "Classic Kalista": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kalista/skins/base/images/kalista_splash_uncentered_0.jpg",
