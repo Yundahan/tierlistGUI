@@ -226,7 +226,8 @@
     "Blackfrost Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin22/images/sion_splash_uncentered_22.jpg",
     "High Noon Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin30/images/sion_splash_uncentered_30.jpg",
     "Cosmic Paladin Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin40/images/sion_splash_uncentered_40.jpg",
-    "Grand Reckoning Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.skins_sion_skin49.jpg"
+    "Grand Reckoning Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.skins_sion_skin49.jpg",
+    "Pizza Chef Sion": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_uncentered_50.skins_sion_skin50.jpg"
   },
   "Sivir": {
     "Classic Sivir": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/base/images/sivir_splash_uncentered_0.jpg",
@@ -659,7 +660,8 @@
     "Prestige PROJECT Irelia (2022)": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin17/images/irelia_splash_uncentered_17.jpg",
     "Mythmaker Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin37/images/irelia_splash_uncentered_37.jpg",
     "Porcelain Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/images/irelia_splash_uncentered_45.jpg",
-    "Spirit Blossom Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/images/irelia_splash_uncentered_55.skins_irelia_skin55.jpg"
+    "Spirit Blossom Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/images/irelia_splash_uncentered_55.skins_irelia_skin55.jpg",
+    "Breadsticks Irelia": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_uncentered_63.skins_irelia_skin63.jpg"
   },
   "Janna": {
     "Classic Janna": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/base/images/janna_splash_uncentered_0.jpg",
@@ -1283,7 +1285,8 @@
     "High Noon Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin34/images/leona_splash_uncentered_34.jpg",
     "Crystalis Motus Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/images/leona_splash_uncentered_50.jpg",
     "Battle Lion Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin52/images/leona_splash_uncentered_52.skins_leona_skin52.jpg",
-    "Prestige Battle Lion Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_uncentered_53.prestige2_animasquad_leona.jpg"
+    "Prestige Battle Lion Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_uncentered_53.prestige2_animasquad_leona.jpg",
+    "Eternal Aspect Leona": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_uncentered_64.skins_leona_skin64.jpg"
   },
   "Malzahar": {
     "Classic Malzahar": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/base/images/malzahar_splash_uncentered_0.jpg",
@@ -1709,7 +1712,9 @@
     "Winterblessed Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/images/diana_splash_uncentered_47.jpg",
     "Heavenscale Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin54/images/diana_splash_uncentered_54.jpg",
     "Dark Cosmic Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/images/diana_splash_uncentered_64.skins_diana_skin64.jpg",
-    "Prestige Dark Cosmic Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin65/images/diana_splash_uncentered_65.skins_diana_skin65.jpg"
+    "Prestige Dark Cosmic Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin65/images/diana_splash_uncentered_65.skins_diana_skin65.jpg",
+    "Eternal Aspect Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_uncentered_76.skins_diana_skin76.jpg",
+    "Eclipse Eternal Aspect Diana": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_uncentered_77.skins_diana_skin77.jpg"
   },
   "Quinn": {
     "Classic Quinn": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/base/images/quinn_splash_uncentered_0.jpg",
@@ -1866,7 +1871,8 @@
     "Definitely Not Vel'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin03/images/velkoz_splash_uncentered_3.jpg",
     "Infernal Vel'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin04/images/velkoz_splash_uncentered_4.jpg",
     "Blackfrost Vel'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin11/images/velkoz_splash_uncentered_11.jpg",
-    "Bee'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/images/velkoz_splash_uncentered_20.jpg"
+    "Bee'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/images/velkoz_splash_uncentered_20.jpg",
+    "Spaghetti alla Vel'Koz": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin29/images/velkoz_splash_uncentered_29.skins_velkoz_skin29.jpg"
   },
   "Taliyah": {
     "Classic Taliyah": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/base/images/taliyah_splash_uncentered_0.jpg",
@@ -2178,7 +2184,8 @@
     "Resistance Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin02/images/illaoi_splash_uncentered_2.jpg",
     "Cosmic Invoker Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin10/images/illaoi_splash_uncentered_10.jpg",
     "Snow Moon Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin18/images/illaoi_splash_uncentered_18.jpg",
-    "Battle Bear Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_uncentered_27.skins_illaoi_skin27.jpg"
+    "Battle Bear Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_uncentered_27.skins_illaoi_skin27.jpg",
+    "Pasta Maker Illaoi": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_uncentered_37.skins_illaoi_skin37.jpg"
   },
   "Rek'Sai": {
     "Classic Rek'Sai": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/base/images/reksai_splash_uncentered_0.jpg",

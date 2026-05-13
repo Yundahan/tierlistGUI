@@ -3135,6 +3135,11 @@
       "tier": "C"
     },
     {
+      "champion": "Ivern",
+      "skin": "Rain Shepherd",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Janna",
       "skin": "Classic",
       "tier": "C"
@@ -6518,6 +6523,11 @@
       "champion": "Quinn",
       "skin": "Star Guardian",
       "tier": "C"
+    },
+    {
+      "champion": "Quinn",
+      "skin": "PROJECT",
+      "tier": "Not rated"
     },
     {
       "champion": "Rakan",
