@@ -1785,6 +1785,16 @@
       "tier": "A"
     },
     {
+      "champion": "Diana",
+      "skin": "Eternal Aspect",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Diana",
+      "skin": "Eclipse Eternal Aspect",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Draven",
       "skin": "Classic",
       "tier": "D"
@@ -3030,6 +3040,11 @@
       "tier": "D"
     },
     {
+      "champion": "Illaoi",
+      "skin": "Pasta Maker",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Irelia",
       "skin": "Classic",
       "tier": "B"
@@ -3103,6 +3118,11 @@
       "champion": "Irelia",
       "skin": "Spirit Blossom",
       "tier": "B"
+    },
+    {
+      "champion": "Irelia",
+      "skin": "Breadsticks",
+      "tier": "Not rated"
     },
     {
       "champion": "Ivern",
@@ -4643,6 +4663,11 @@
       "champion": "Leona",
       "skin": "Prestige Battle Lion",
       "tier": "D"
+    },
+    {
+      "champion": "Leona",
+      "skin": "Eternal Aspect",
+      "tier": "Not rated"
     },
     {
       "champion": "Lillia",
@@ -7650,6 +7675,11 @@
       "tier": "A"
     },
     {
+      "champion": "Sion",
+      "skin": "Pizza Chef",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Sivir",
       "skin": "Classic",
       "tier": "SS"
@@ -9213,6 +9243,11 @@
       "champion": "Vel'Koz",
       "skin": "Bee'Koz",
       "tier": "D"
+    },
+    {
+      "champion": "Vel'Koz",
+      "skin": "Spaghetti alla",
+      "tier": "Not rated"
     },
     {
       "champion": "Vex",
