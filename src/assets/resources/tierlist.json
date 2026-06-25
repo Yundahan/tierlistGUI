@@ -89,6 +89,7 @@
     "Leona",
     "Lillia",
     "Lissandra",
+    "Locke",
     "Lucian",
     "Lulu",
     "Lux",
@@ -478,6 +479,11 @@
       "champion": "Akshan",
       "skin": "Three Honors",
       "tier": "B"
+    },
+    {
+      "champion": "Akshan",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Alistar",
@@ -993,6 +999,11 @@
       "champion": "Aurora",
       "skin": "Arcana",
       "tier": "A"
+    },
+    {
+      "champion": "Aurora",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
     },
     {
       "champion": "Azir",
@@ -3545,6 +3556,11 @@
       "tier": "A"
     },
     {
+      "champion": "Jhin",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jinx",
       "skin": "Classic",
       "tier": "C"
@@ -4768,6 +4784,16 @@
       "champion": "Lissandra",
       "skin": "Flora Fatalis",
       "tier": "B"
+    },
+    {
+      "champion": "Locke",
+      "skin": "Classic",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Locke",
+      "skin": "High Noon",
+      "tier": "Not rated"
     },
     {
       "champion": "Lucian",
@@ -7523,6 +7549,11 @@
       "champion": "Shen",
       "skin": "Three Honors",
       "tier": "B"
+    },
+    {
+      "champion": "Shen",
+      "skin": "Broken Covenant",
+      "tier": "Not rated"
     },
     {
       "champion": "Shyvana",
