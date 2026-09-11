@@ -576,6 +576,11 @@
       "tier": "D"
     },
     {
+      "champion": "Ambessa",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Amumu",
       "skin": "Classic",
       "tier": "C"
@@ -1109,6 +1114,11 @@
       "champion": "Bel'Veth",
       "skin": "Primordian",
       "tier": "E"
+    },
+    {
+      "champion": "Bel'Veth",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Blitzcrank",
@@ -2516,6 +2526,11 @@
       "tier": "B"
     },
     {
+      "champion": "Galio",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Gangplank",
       "skin": "Classic",
       "tier": "C"
@@ -2894,6 +2909,11 @@
       "champion": "Gwen",
       "skin": "Rain Shepherd",
       "tier": "E"
+    },
+    {
+      "champion": "Gwen",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
     },
     {
       "champion": "Hecarim",
@@ -3426,6 +3446,11 @@
       "tier": "A"
     },
     {
+      "champion": "Jax",
+      "skin": "Prestige Magma Chamber",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jayce",
       "skin": "Classic",
       "tier": "C"
@@ -3634,6 +3659,11 @@
       "champion": "Jinx",
       "skin": "Arcane Fractured",
       "tier": "D"
+    },
+    {
+      "champion": "Jinx",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
     },
     {
       "champion": "Kai'Sa",
@@ -4941,6 +4971,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Lulu",
+      "skin": "Faerie Court",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Lux",
       "skin": "Classic",
       "tier": "hohes C"
@@ -5489,6 +5524,11 @@
       "champion": "Miss Fortune",
       "skin": "Battle Queen",
       "tier": "A"
+    },
+    {
+      "champion": "Miss Fortune",
+      "skin": "MVP T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Mordekaiser",
@@ -6276,6 +6316,11 @@
       "tier": "S"
     },
     {
+      "champion": "Orianna",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ornn",
       "skin": "Classic",
       "tier": "A"
@@ -6931,6 +6976,11 @@
       "tier": "C"
     },
     {
+      "champion": "Rengar",
+      "skin": "Victorious",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Riven",
       "skin": "Classic",
       "tier": "C"
@@ -7344,6 +7394,16 @@
       "champion": "Seraphine",
       "skin": "Firecracker",
       "tier": "B"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Seraphine",
+      "skin": "Heartsong",
+      "tier": "Not rated"
     },
     {
       "champion": "Sett",
@@ -8051,6 +8111,11 @@
       "tier": "A"
     },
     {
+      "champion": "Soraka",
+      "skin": "Ocean Song",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Swain",
       "skin": "Classic",
       "tier": "hohes C"
@@ -8649,6 +8714,16 @@
       "champion": "Tristana",
       "skin": "Rain Shepherd",
       "tier": "C"
+    },
+    {
+      "champion": "Tristana",
+      "skin": "Risen Legend",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Tristana",
+      "skin": "Immortalized Legend",
+      "tier": "Not rated"
     },
     {
       "champion": "Trundle",
@@ -9254,6 +9329,11 @@
       "champion": "Veigar",
       "skin": "Fright Night",
       "tier": "A"
+    },
+    {
+      "champion": "Veigar",
+      "skin": "Prestige Magma Chamber",
+      "tier": "Not rated"
     },
     {
       "champion": "Vel'Koz",
@@ -9916,6 +9996,11 @@
       "tier": "A"
     },
     {
+      "champion": "Xin Zhao",
+      "skin": "T1",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Yasuo",
       "skin": "Classic",
       "tier": "B"
@@ -10129,6 +10214,11 @@
       "champion": "Yunara",
       "skin": "Spirit Blossom Springs",
       "tier": "C"
+    },
+    {
+      "champion": "Yunara",
+      "skin": "T1",
+      "tier": "Not rated"
     },
     {
       "champion": "Yuumi",
