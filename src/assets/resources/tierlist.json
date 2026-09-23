@@ -721,6 +721,11 @@
       "tier": "SS"
     },
     {
+      "champion": "Anivia",
+      "skin": "Old God",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Annie",
       "skin": "Classic",
       "tier": "D"
@@ -3281,6 +3286,11 @@
       "tier": "B"
     },
     {
+      "champion": "Janna",
+      "skin": "Coven",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Jarvan IV",
       "skin": "Classic",
       "tier": "B"
@@ -5394,6 +5404,11 @@
       "champion": "Mel",
       "skin": "Prestige Winterblessed",
       "tier": "S"
+    },
+    {
+      "champion": "Mel",
+      "skin": "Coven",
+      "tier": "Not rated"
     },
     {
       "champion": "Milio",
@@ -9074,6 +9089,11 @@
       "champion": "Urgot",
       "skin": "Urgot the Clogfather",
       "tier": "F"
+    },
+    {
+      "champion": "Urgot",
+      "skin": "Old God",
+      "tier": "Not rated"
     },
     {
       "champion": "Varus",
