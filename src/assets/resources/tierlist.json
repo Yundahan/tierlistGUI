@@ -856,6 +856,11 @@
       "tier": "B"
     },
     {
+      "champion": "Aphelios",
+      "skin": "Heartsteel Live My Life",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Ashe",
       "skin": "Classic",
       "tier": "B"
@@ -2259,6 +2264,11 @@
       "champion": "Ezreal",
       "skin": "Masque of the Black Rose",
       "tier": "C"
+    },
+    {
+      "champion": "Ezreal",
+      "skin": "Heartsteel Live My Life",
+      "tier": "Not rated"
     },
     {
       "champion": "Fiddlesticks",
@@ -4201,6 +4211,11 @@
       "tier": "C"
     },
     {
+      "champion": "Kayn",
+      "skin": "Heartsteel Live My Life",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Kennen",
       "skin": "Classic",
       "tier": "hohes C"
@@ -4456,6 +4471,11 @@
       "tier": "D"
     },
     {
+      "champion": "Kog'Maw",
+      "skin": "Prestige Classic Baron",
+      "tier": "Not rated"
+    },
+    {
       "champion": "K'Sante",
       "skin": "Classic",
       "tier": "D"
@@ -4474,6 +4494,11 @@
       "champion": "K'Sante",
       "skin": "HEARTSTEEL",
       "tier": "D"
+    },
+    {
+      "champion": "K'Sante",
+      "skin": "Heartsteel Live My Life",
+      "tier": "Not rated"
     },
     {
       "champion": "LeBlanc",
@@ -7476,6 +7501,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Sett",
+      "skin": "Prestige HEARTSTEEL Live My Life",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Shaco",
       "skin": "Classic",
       "tier": "C"
@@ -10174,6 +10204,11 @@
       "champion": "Yone",
       "skin": "T1",
       "tier": "B"
+    },
+    {
+      "champion": "Yone",
+      "skin": "Heartsteel Live My Life",
+      "tier": "Not rated"
     },
     {
       "champion": "Yorick",
