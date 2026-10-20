@@ -461,6 +461,11 @@
       "tier": "A"
     },
     {
+      "champion": "Akali",
+      "skin": "True Damage Know My Name",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Akshan",
       "skin": "Classic",
       "tier": "C"
@@ -2029,6 +2034,11 @@
       "champion": "Ekko",
       "skin": "Arcane Last Stand",
       "tier": "hohes C"
+    },
+    {
+      "champion": "Ekko",
+      "skin": "Prestige True Damage Know My Name",
+      "tier": "Not rated"
     },
     {
       "champion": "Elise",
@@ -6641,6 +6651,11 @@
       "tier": "hohes C"
     },
     {
+      "champion": "Qiyana",
+      "skin": "True Damage Know My Name",
+      "tier": "Not rated"
+    },
+    {
       "champion": "Quinn",
       "skin": "Classic",
       "tier": "C"
@@ -7378,6 +7393,11 @@
     {
       "champion": "Senna",
       "skin": "Warhound",
+      "tier": "Not rated"
+    },
+    {
+      "champion": "Senna",
+      "skin": "True Damage Know My Name",
       "tier": "Not rated"
     },
     {
@@ -10144,6 +10164,11 @@
       "champion": "Yasuo",
       "skin": "Petals of Spring",
       "tier": "B"
+    },
+    {
+      "champion": "Yasuo",
+      "skin": "True Damage Know My Name",
+      "tier": "Not rated"
     },
     {
       "champion": "Yone",
